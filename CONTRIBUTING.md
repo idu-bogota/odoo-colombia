@@ -2,7 +2,7 @@
 
 *Vinculo rapido a la [planilla](https://raw.githubusercontent.com/odoo-colombia/odoo-colombia/master/ISSUE_TEMPLATE.md).*
 
-Bienvenido! Vale la pena de unirse a los desarolladores de la localizacion colombiana. Estmos todos bienvenidos, expertos, idealistas, enthusiasticos, novices...
+Bienvenido! Si, vale la pena de unirse a los desarolladores de la localizacion colombiana. Estmos todos bienvenidos, expertos, idealistas, enthusiasticos, novices...
 
 ```
 Vemos la posibilidad de crear un ecosistema con una fuerte dinamica en donde clientes, partners, utilizadores y otros trabajan juntos para solucionar cada vez problemas mas especificas y para **crecer como communidad entera** abriendo nuevos mercados. Seamos ambiciosos y sacamos SIGO del mercado! - Pues, adelante!
