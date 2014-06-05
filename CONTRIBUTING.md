@@ -5,10 +5,8 @@
 Bienvenido! Vale la pena de unirse a los desarolladores de la localizacion colombiana. Estmos todos bienvenidos, expertos, idealistas, enthusiasticos, novices...
 
 ```
-Vemos la posibilidad de crear un ecosistema con una fuerte dinamica en donde clientes, partners, utilizadores y otros trabajan juntos para solucionar cada vez problemas mas especificas y para **crecer como communidad entera** abriendo nuevos mercados.
+Vemos la posibilidad de crear un ecosistema con una fuerte dinamica en donde clientes, partners, utilizadores y otros trabajan juntos para solucionar cada vez problemas mas especificas y para **crecer como communidad entera** abriendo nuevos mercados. Seamos ambiciosos y sacamos SIGO del mercado! - Pues, adelante!
 ```
-
-**Seamos ambiciosos y sacamos SIGO del mercado! - Pues, adelante!**
 
 #### Raportar Issues
 - Por favor - si se puede - raportar problemas ya con la solucion en una forma de "pull request". Estamos todos voluntarios :)
