@@ -12,7 +12,8 @@ Vemos la posibilidad de crear un ecosistema con una fuerte dinamica en donde cli
 2. Code 
 3. Merge Proposal
 
-- Travis-CI va verificar si el servidor puede ser contruido con tu addicio
+
+Travis-CI va verificar si el servidor puede ser contruido con tu addicio
 
 #### Raportar Issues
 - Por favor - si se puede - raportar problemas ya con la solucion en una forma de "pull request". Estamos todos voluntarios :)
