@@ -13,7 +13,7 @@ Repositorio central de la localización colombiana.
 - [Argentina](http://bazaar.launchpad.net/~openerp-l10n-ar-localization/openerp-l10n-ar-localization/trunk/files)
 - [Venezuela](https://github.com/odoo-venezuela/odoo-venezuela)
 - [Mexico](http://bazaar.launchpad.net/~openerp-mexico-maintainer/openerp-mexico-localization/trunk/files)
-- *agrégalo* que piensas que falta!
+- *[agrégalo](https://github.com/odoo-colombia/odoo-colombia/edit/master/README.md)* que piensas que falta!
 
 
 #### Relevantes recursos addicionales, non-code
@@ -25,10 +25,10 @@ Github esta reservado al codigo, los documentos de soporte o de trabajo residen 
 - [Desarollos actuales en el CORE sobre Impuestos](https://github.com/odoo/odoo/pull/219)
 - [Problema: Precision decimal de gravamenes como el CREE](https://github.com/odoo/odoo/pull/178)
 - [Problema: Variables que faltan al momento del calculo del impuesto para determinar la base de Retenciones](https://github.com/odoo/odoo/issues/187)
-- *agrégalo* que piensas que falta!
+- *[agrégalo](https://github.com/odoo-colombia/odoo-colombia/edit/master/README.md)* que piensas que falta!
 
 #### Recursos adicionales optionales
 - [Backbones en Colombia, rapidez y Github CDN](https://github.com/odoo/odoo/issues/32)
-- *agrégalo* que piensas que falta!
+- *[agrégalo](https://github.com/odoo-colombia/odoo-colombia/edit/master/README.md)* que piensas que falta!
 
 Ojala que soporta python pronto: [![Code Climate](https://codeclimate.com/github/odoo-colombia/odoo-colombia.png)](https://codeclimate.com/github/odoo-colombia/odoo-colombia)
