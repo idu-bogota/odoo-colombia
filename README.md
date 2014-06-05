@@ -24,7 +24,8 @@ Github esta reservado al codigo, los documentos de soporte o de trabajo residen 
 - [Attributos de cuentas en construccion](https://docs.google.com/spreadsheets/d/1rLx4h8SkxwPeNirj8sr_MU2IBp39X4v2s-vbFCYE3l8/edit)
 - [Desarollos actuales en el CORE sobre Impuestos](https://github.com/odoo/odoo/pull/219)
 - [Problema: Precision decimal de gravamenes como el CREE](https://github.com/odoo/odoo/pull/178)
-- [Problema: Variables que faltan al momento del calculo del impuesto para determinar la base de Retenciones](https://github.com/odoo/odoo/issues/187)
+- [Problema: Variables que faltan para determinar la base de Retenciones](https://github.com/odoo/odoo/issues/187)
+- [Retencion compleja: ET383 y ET384](https://docs.google.com/document/d/1AqFQevCE_hXoTyljRY7E3BMVrDPAmNzXVBBvKVA6Ojc/edit#)
 - *[agrégalo](https://github.com/odoo-colombia/odoo-colombia/edit/master/README.md)* que piensas que falta!
 
 #### Recursos adicionales optionales
