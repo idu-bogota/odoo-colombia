@@ -1,4 +1,7 @@
 ### Contributing to Odoo-Colombia
+
+*Vinculo rapido a la [planilla](https://raw.githubusercontent.com/odoo-colombia/odoo-colombia/master/ISSUE_TEMPLATE.md).*
+
 Bienvenido! Vale la pena de unirse a los desarolladores de la localizacion colombiana. Estmos todos bienvenidos, expertos, idealistas, enthusiasticos, novices...
 
 ```
@@ -12,7 +15,7 @@ Vemos la posibilidad de crear un ecosistema con una fuerte dinamica en donde cli
 
 - Si despues de crear un "issue" puedes contribuir con una solucion, no olvides de referenciar el "issue" en el pull.
 
-- Si no encuentras una solucion y despues un tiempo rasonable de buscar (estamos todos voluntarios!), por favor no hesita a redactar un "Issue" para que quede registrado y no se olvidara utilizando esta ***[planilla](ISSUE_TAMPLATE.md)***.
+- Si no encuentras una solucion y despues un tiempo rasonable de buscar (estamos todos voluntarios!), por favor no hesita a redactar un "Issue" para que quede registrado y no se olvidara utilizando esta ***[planilla](https://raw.githubusercontent.com/odoo-colombia/odoo-colombia/master/ISSUE_TEMPLATE.md)***.
 
 - Por favor no utilizar este repositorio para problemas que no son especificas de la localizacion. No queremos perder el enfoque!
 
