@@ -7,6 +7,12 @@ Bienvenido! Si, vale la pena de unirse a los desarolladores de la localizacion c
 ```
 Vemos la posibilidad de crear un ecosistema con una fuerte dinamica en donde clientes, partners, utilizadores y otros trabajan juntos para solucionar cada vez problemas mas especificas y para **crecer como communidad entera** abriendo nuevos mercados. Seamos ambiciosos y sacamos SIGO del mercado! - Pues, adelante!
 ```
+#### Como desarollar
+1. Fork
+2. Code 
+3. Merge Proposal
+
+- Travis-CI va verificar si el servidor puede ser contruido con tu addicio
 
 #### Raportar Issues
 - Por favor - si se puede - raportar problemas ya con la solucion en una forma de "pull request". Estamos todos voluntarios :)
