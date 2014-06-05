@@ -1,13 +1,28 @@
-odoo-colombia
-=============
+### Odoo-Colombia
+
 [![Build Status](https://travis-ci.org/odoo-colombia/odoo-colombia.svg?branch=master)](https://travis-ci.org/odoo-colombia/odoo-colombia) [![Coverage Status](https://coveralls.io/repos/odoo-colombia/odoo-colombia/badge.png)](https://coveralls.io/r/odoo-colombia/odoo-colombia)
 
-Central Repository - Localización Colombiana 
+Repositorio central de la localización colombiana.
 
 
-Sugerencia: mantener la estructura de carpetas de: https://github.com/openerpbrasil/l10n_br_core
+#### Localizaciones Modelos
 
-tra localizacion bien avanzada: http://bazaar.launchpad.net/~openobject-italia-core-devs/openobject-italia/italian-addons-7.0/files
+- **[Brazil](https://github.com/openerpbrasil/l10n_br_core)** - fuente de conceptos avanzados sobre impuestos
+- [Italia](http://bazaar.launchpad.net/~openobject-italia-core-devs/openobject-italia/italian-addons-7.0/files)
+- [España](http://bazaar.launchpad.net/~openerp-spain-team/openerp-spain/7.0/files)
+- [Argentina](http://bazaar.launchpad.net/~openerp-l10n-ar-localization/openerp-l10n-ar-localization/trunk/files)
+- [Venezuela](https://github.com/odoo-venezuela/odoo-venezuela)
+- [Mexico](http://bazaar.launchpad.net/~openerp-mexico-maintainer/openerp-mexico-localization/trunk/files)
+- *agrégalo* el que piensas que falta!
 
 
-When ready for python: `[![Code Climate](https://codeclimate.com/github/odoo-colombia/odoo-colombia.png)](https://codeclimate.com/github/odoo-colombia/odoo-colombia)`
+#### Recursos addicionales, non-code
+Github esta reservado al codigo, los documentos de soporte o de trabajo residen en otros lugares.
+
+- [Modelo ER para un motor de impuestos flexible](https://www.draw.io/?#G0B9cHHbqndJcAcjRPdzZUWVdNc3M)
+- [Mapeo de Conceptos de Retenciones](https://docs.google.com/spreadsheets/d/1XmY7gPa6mYnhTDgcjXyu3Mr8oS9i_7fuSGhKaL2k7Gc/edit?usp=drive_web)
+- [Attributos de cuentas en construccion](https://docs.google.com/spreadsheets/d/1rLx4h8SkxwPeNirj8sr_MU2IBp39X4v2s-vbFCYE3l8/edit)
+
+
+
+Ojala que soporta python pronto: [![Code Climate](https://codeclimate.com/github/odoo-colombia/odoo-colombia.png)](https://codeclimate.com/github/odoo-colombia/odoo-colombia)
