@@ -1,16 +1,18 @@
 ### Contributing to Odoo-Colombia
 Bienvenido! Vale la pena de unirse a los desarolladores de la localizacion colombiana. Estmos todos bienvenidos, expertos, idealistas, enthusiasticos, novices...
 
+```
 Vemos la posibilidad de crear un ecosistema con una fuerte dinamica en donde clientes, partners, utilizadores y otros trabajan juntos para solucionar cada vez problemas mas especificas y para **crecer como communidad entera** abriendo nuevos mercados.
+```
 
-Seamos ambiciosos: **Sacamos SIGO del mercado!** *Vamos pues!*
+**Seamos ambiciosos y sacamos SIGO del mercado! - Pues, adelante!**
 
 #### Raportar Issues
 - Por favor - si se puede - raportar problemas ya con la solucion en una forma de "pull request". Estamos todos voluntarios :)
 
 - Si despues de crear un "issue" puedes contribuir con una solucion, no olvides de referenciar el "issue" en el pull.
 
-- Si no encuentras una solucion y despues un tiempo rasonable de buscar (estamos todos voluntarios!), por favor no hesita a redactar un "Issue" para que quede registrado y no se olvidara utilizando esta *[planilla]()*.
+- Si no encuentras una solucion y despues un tiempo rasonable de buscar (estamos todos voluntarios!), por favor no hesita a redactar un "Issue" para que quede registrado y no se olvidara utilizando esta ***[planilla](ISSUE_TAMPLATE.md)***.
 
 - Por favor no utilizar este repositorio para problemas que no son especificas de la localizacion. No queremos perder el enfoque!
 
