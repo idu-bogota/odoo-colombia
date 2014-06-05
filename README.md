@@ -26,7 +26,10 @@ Github esta reservado al codigo, los documentos de soporte o de trabajo residen 
 - [Problema: Precision decimal de gravamenes como el CREE](https://github.com/odoo/odoo/pull/178)
 - [Problema: Variables que faltan para determinar la base de Retenciones](https://github.com/odoo/odoo/issues/187)
 - [Retencion compleja: ET383 y ET384](https://docs.google.com/document/d/1AqFQevCE_hXoTyljRY7E3BMVrDPAmNzXVBBvKVA6Ojc/edit#)
+
 - [Introduccion a los cambios de V8 (Anthony Lesuisse) - muy interesante](https://www.youtube.com/watch?v=0GUxV85DDm4&feature=share&t=1h58m20s)
+- [Introduccion para desarollo de modulos](http://www.youtube.com/watch?v=0GUxV85DDm4&feature=share&t=5h47m38s)
+
 - *[agrégalo](https://github.com/odoo-colombia/odoo-colombia/edit/master/README.md)* que piensas que falta!
 
 #### Recursos adicionales optionales
