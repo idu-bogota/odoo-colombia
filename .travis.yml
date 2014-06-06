@@ -27,7 +27,8 @@ install:
     - pip install coveralls flake8
     - pip install http://download.gna.org/pychart/PyChart-1.39.tar.gz
     - pip install ${ODOO}
-    - git clone --depth 1 git https://github.com/odoo-colombia/odoo-colombia.git /tmp/odoo-colombia
+    - cd /tmp/odoo-colombia
+    - git clone --depth 1 git https://github.com/odoo-colombia/odoo-colombia.git
 
 # Create databae
 # Pre-install modules and dependencies
