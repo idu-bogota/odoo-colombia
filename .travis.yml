@@ -15,7 +15,7 @@ env:
 #  - ODOO="ocb"
 
 # Odoo depends on wkhtmltopdf > 0.12
-before_install: sudo apt-get install -qq wkhtmltopdf
+before_install: sudo apt-get install -qq wkhtmltopdf > 0.12
 
 # Need coveralls for coverage reports
 # Need flake8 for pep8 testing
