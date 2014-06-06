@@ -27,15 +27,16 @@ install:
     - pip install coveralls flake8
     - pip install http://download.gna.org/pychart/PyChart-1.39.tar.gz
     - pip install ${ODOO}
-    - mkdir ~/tmp/odoo-colombia
-    - cd ~/tmp/odoo-colombia
+    - mkdir /tmp/odoo-colombia
+    - cd /tmp/odoo-colombia
     - git clone --depth 1 https://github.com/odoo-colombia/odoo-colombia.git
+    - ls /tmp/odoo-colombia
 
 # Create databae
 # Pre-install modules and dependencies
 before_script: 
     - createdb test
-    - PYTHONPATH=$(dirname $(which openerp-server))/.. openerp-server -d test --stop-after-init --init=$(python -c 'import os; print(",".join(x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith(".")))') --addons-path=$(pwd),~/tmp/odoo-colombia
+    - PYTHONPATH=$(dirname $(which openerp-server))/.. openerp-server -d test --stop-after-init --init=$(python -c 'import os; print(",".join(x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith(".")))') --addons-path=$(pwd),/tmp/odoo-colombia
 
 # Test with flake, ignore F401 for __init__.py files, use a max length of 120
 # Run tests with coverage
@@ -45,7 +46,7 @@ before_script:
 script:
     - flake8 . --max-line-length=120 --filename=__init__.py --ignore=F401
     - flake8 . --max-line-length=120 --exclude=__init__.py
-    - PYTHONPATH=$(dirname $(which openerp-server))/.. coverage run $(which openerp-server) -d test --test-enable --log-level=test --stop-after-init --init=$(python -c 'import os; print(",".join(x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith(".")))') --addons-path=$(pwd),~/tmp/odoo-colombia
+    - PYTHONPATH=$(dirname $(which openerp-server))/.. coverage run $(which openerp-server) -d test --test-enable --log-level=test --stop-after-init --init=$(python -c 'import os; print(",".join(x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith(".")))') --addons-path=$(pwd),/tmp/odoo-colombia
 
 after_success:
   coveralls
