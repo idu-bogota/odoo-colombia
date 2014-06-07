@@ -37,6 +37,9 @@ Odoo Colombia https://plus.google.com/communities/113251920989277948689
         'account_chart',
     ],
     'data': [
+    	'data/account.acocunt.template.csv',
+        'data/account.tax.code.template.csv',
+        'data/account.tax.template.csv',
     	'wizard/account_wizard.xml',
     ],
     'demo': [],
