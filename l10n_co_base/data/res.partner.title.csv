@@ -1,0 +1,18 @@
+id,name,shortcut,domain
+eu,Empresa Unipersonal,E.U.,partner
+sas,Sociedad por Acciones Simplificadas,S.A.S.,partner
+ltda,Sociedad Limitada,Ltda,partner
+col,Sociedad Collectiva,,partner
+sec,Sociedad En Comandita Simple,S. en C.,partner
+sa,Sociedad Anónima,S.A.,partner
+srl,Sociedad Limitada,L.t.d.a.,partner
+sca,Sociedad En Comandita por Acciones,S.C.A,partner
+sr,Señor,Sr,contact
+sra,Señora,Sra,contact
+srta,Señorita,Srta,contact
+ing,Ingeniero,Ing.,contact
+lic,Licenciado,Lic.,contact
+doc,Doctor,Doc.,contact
+med,Médico,Med.,contact
+phd,Ph. Doctor,PhD.,contact
+tec,Técnico,Tec.,contact
