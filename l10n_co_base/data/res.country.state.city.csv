@@ -1,153 +1,153 @@
 state_id:id,id,name,codigo_dane,country_id:id
 co_99,city_99624,SANTA ROSALÍA,99624,base.co
-co_05,city_05001,MEDELLÍN,5001,base.co
-co_05,city_05002,ABEJORRAL,5002,base.co
-co_05,city_05004,ABRIAQUÍ,5004,base.co
-co_05,city_05021,ALEJANDRÍA,5021,base.co
-co_05,city_05030,AMAGÁ,5030,base.co
-co_05,city_05031,AMALFI,5031,base.co
-co_05,city_05034,ANDES,5034,base.co
-co_05,city_05036,ANGELÓPOLIS,5036,base.co
-co_05,city_05038,ANGOSTURA,5038,base.co
-co_05,city_05040,ANORÍ,5040,base.co
-co_05,city_05042,SANTA FÉ DE ANTIOQUIA,5042,base.co
-co_05,city_05044,ANZÁ,5044,base.co
-co_05,city_05045,APARTADÓ,5045,base.co
-co_05,city_05051,ARBOLETES,5051,base.co
-co_05,city_05055,ARGELIA,5055,base.co
-co_05,city_05059,ARMENIA,5059,base.co
-co_05,city_05079,BARBOSA,5079,base.co
-co_05,city_05086,BELMIRA,5086,base.co
-co_05,city_05088,BELLO,5088,base.co
-co_05,city_05091,BETANIA,5091,base.co
-co_05,city_05093,BETULIA,5093,base.co
-co_05,city_05101,CIUDAD BOLÍVAR,5101,base.co
-co_05,city_05107,BRICEÑO,5107,base.co
-co_05,city_05113,BURITICÁ,5113,base.co
-co_05,city_05120,CÁCERES,5120,base.co
-co_05,city_05125,CAICEDO,5125,base.co
-co_05,city_05129,CALDAS,5129,base.co
-co_05,city_05134,CAMPAMENTO,5134,base.co
-co_05,city_05138,CAÑASGORDAS,5138,base.co
-co_05,city_05142,CARACOLÍ,5142,base.co
-co_05,city_05145,CARAMANTA,5145,base.co
-co_05,city_05147,CAREPA,5147,base.co
-co_05,city_05148,EL CARMEN DE VIBORAL,5148,base.co
-co_05,city_05150,CAROLINA,5150,base.co
-co_05,city_05154,CAUCASIA,5154,base.co
-co_05,city_05172,CHIGORODÓ,5172,base.co
-co_05,city_05190,CISNEROS,5190,base.co
-co_05,city_05197,COCORNÁ,5197,base.co
-co_05,city_05206,CONCEPCIÓN,5206,base.co
-co_05,city_05209,CONCORDIA,5209,base.co
-co_05,city_05212,COPACABANA,5212,base.co
-co_05,city_05234,DABEIBA,5234,base.co
-co_05,city_05237,DONMATÍAS,5237,base.co
-co_05,city_05240,EBÉJICO,5240,base.co
-co_05,city_05250,EL BAGRE,5250,base.co
-co_05,city_05264,ENTRERRÍOS,5264,base.co
-co_05,city_05266,ENVIGADO,5266,base.co
-co_05,city_05282,FREDONIA,5282,base.co
-co_05,city_05284,FRONTINO,5284,base.co
-co_05,city_05306,GIRALDO,5306,base.co
-co_05,city_05308,GIRARDOTA,5308,base.co
-co_05,city_05310,GÓMEZ PLATA,5310,base.co
-co_05,city_05313,GRANADA,5313,base.co
-co_05,city_05315,GUADALUPE,5315,base.co
-co_05,city_05318,GUARNE,5318,base.co
-co_05,city_05321,GUATAPÉ,5321,base.co
-co_05,city_05347,HELICONIA,5347,base.co
-co_05,city_05353,HISPANIA,5353,base.co
-co_05,city_05360,ITAGÜÍ,5360,base.co
-co_05,city_05361,ITUANGO,5361,base.co
-co_05,city_05364,JARDÍN,5364,base.co
-co_05,city_05368,JERICÓ,5368,base.co
-co_05,city_05376,LA CEJA,5376,base.co
-co_05,city_05380,LA ESTRELLA,5380,base.co
-co_05,city_05390,LA PINTADA,5390,base.co
-co_05,city_05400,LA UNIÓN,5400,base.co
-co_05,city_05411,LIBORINA,5411,base.co
-co_05,city_05425,MACEO,5425,base.co
-co_05,city_05440,MARINILLA,5440,base.co
-co_05,city_05467,MONTEBELLO,5467,base.co
-co_05,city_05475,MURINDÓ,5475,base.co
-co_05,city_05480,MUTATÁ,5480,base.co
-co_05,city_05483,NARIÑO,5483,base.co
-co_05,city_05490,NECOCLÍ,5490,base.co
-co_05,city_05495,NECHÍ,5495,base.co
-co_05,city_05501,OLAYA,5501,base.co
-co_05,city_05541,PEÑOL,5541,base.co
-co_05,city_05543,PEQUE,5543,base.co
-co_05,city_05576,PUEBLORRICO,5576,base.co
-co_05,city_05579,PUERTO BERRÍO,5579,base.co
-co_05,city_05585,PUERTO NARE,5585,base.co
-co_05,city_05591,PUERTO TRIUNFO,5591,base.co
-co_05,city_05604,REMEDIOS,5604,base.co
-co_05,city_05607,RETIRO,5607,base.co
-co_05,city_05615,RIONEGRO,5615,base.co
-co_05,city_05628,SABANALARGA,5628,base.co
-co_05,city_05631,SABANETA,5631,base.co
-co_05,city_05642,SALGAR,5642,base.co
-co_05,city_05647,SAN ANDRÉS DE CUERQUÍA,5647,base.co
-co_05,city_05649,SAN CARLOS,5649,base.co
-co_05,city_05652,SAN FRANCISCO,5652,base.co
-co_05,city_05656,SAN JERÓNIMO,5656,base.co
-co_05,city_05658,SAN JOSÉ DE LA MONTAÑA,5658,base.co
-co_05,city_05659,SAN JUAN DE URABÁ,5659,base.co
-co_05,city_05660,SAN LUIS,5660,base.co
-co_05,city_05664,SAN PEDRO DE LOS MILAGROS,5664,base.co
-co_05,city_05665,SAN PEDRO DE URABÁ,5665,base.co
-co_05,city_05667,SAN RAFAEL,5667,base.co
-co_05,city_05670,SAN ROQUE,5670,base.co
-co_05,city_05674,SAN VICENTE FERRER,5674,base.co
-co_05,city_05679,SANTA BÁRBARA,5679,base.co
-co_05,city_05686,SANTA ROSA DE OSOS,5686,base.co
-co_05,city_05690,SANTO DOMINGO,5690,base.co
-co_05,city_05697,EL SANTUARIO,5697,base.co
-co_05,city_05736,SEGOVIA,5736,base.co
-co_05,city_05756,SONSÓN,5756,base.co
-co_05,city_05761,SOPETRÁN,5761,base.co
-co_05,city_05789,TÁMESIS,5789,base.co
-co_05,city_05790,TARAZÁ,5790,base.co
-co_05,city_05792,TARSO,5792,base.co
-co_05,city_05809,TITIRIBÍ,5809,base.co
-co_05,city_05819,TOLEDO,5819,base.co
-co_05,city_05837,TURBO,5837,base.co
-co_05,city_05842,URAMITA,5842,base.co
-co_05,city_05847,URRAO,5847,base.co
-co_05,city_05854,VALDIVIA,5854,base.co
-co_05,city_05856,VALPARAÍSO,5856,base.co
-co_05,city_05858,VEGACHÍ,5858,base.co
-co_05,city_05861,VENECIA,5861,base.co
-co_05,city_05873,VIGÍA DEL FUERTE,5873,base.co
-co_05,city_05885,YALÍ,5885,base.co
-co_05,city_05887,YARUMAL,5887,base.co
-co_05,city_05890,YOLOMBÓ,5890,base.co
-co_05,city_05893,YONDÓ,5893,base.co
-co_05,city_05895,ZARAGOZA,5895,base.co
-co_08,city_08001,BARRANQUILLA,8001,base.co
-co_08,city_08078,BARANOA,8078,base.co
-co_08,city_08137,CAMPO DE LA CRUZ,8137,base.co
-co_08,city_08141,CANDELARIA,8141,base.co
-co_08,city_08296,GALAPA,8296,base.co
-co_08,city_08372,JUAN DE ACOSTA,8372,base.co
-co_08,city_08421,LURUACO,8421,base.co
-co_08,city_08433,MALAMBO,8433,base.co
-co_08,city_08436,MANATÍ,8436,base.co
-co_08,city_08520,PALMAR DE VARELA,8520,base.co
-co_08,city_08549,PIOJÓ,8549,base.co
-co_08,city_08558,POLONUEVO,8558,base.co
-co_08,city_08560,PONEDERA,8560,base.co
-co_08,city_08573,PUERTO COLOMBIA,8573,base.co
-co_08,city_08606,REPELÓN,8606,base.co
-co_08,city_08634,SABANAGRANDE,8634,base.co
-co_08,city_08638,SABANALARGA,8638,base.co
-co_08,city_08675,SANTA LUCÍA,8675,base.co
-co_08,city_08685,SANTO TOMÁS,8685,base.co
-co_08,city_08758,SOLEDAD,8758,base.co
-co_08,city_08770,SUAN,8770,base.co
-co_08,city_08832,TUBARÁ,8832,base.co
-co_08,city_08849,USIACURÍ,8849,base.co
+co_05,city_05001,MEDELLÍN,05002,base.co
+co_05,city_05002,ABEJORRAL,05004,base.co
+co_05,city_05004,ABRIAQUÍ,05021,base.co
+co_05,city_05021,ALEJANDRÍA,05030,base.co
+co_05,city_05030,AMAGÁ,05031,base.co
+co_05,city_05031,AMALFI,05034,base.co
+co_05,city_05034,ANDES,05036,base.co
+co_05,city_05036,ANGELÓPOLIS,05038,base.co
+co_05,city_05038,ANGOSTURA,05040,base.co
+co_05,city_05040,ANORÍ,05042,base.co
+co_05,city_05042,SANTA FÉ DE ANTIOQUIA,05044,base.co
+co_05,city_05044,ANZÁ,05045,base.co
+co_05,city_05045,APARTADÓ,05051,base.co
+co_05,city_05051,ARBOLETES,05055,base.co
+co_05,city_05055,ARGELIA,05059,base.co
+co_05,city_05059,ARMENIA,05079,base.co
+co_05,city_05079,BARBOSA,05086,base.co
+co_05,city_05086,BELMIRA,05088,base.co
+co_05,city_05088,BELLO,05091,base.co
+co_05,city_05091,BETANIA,05093,base.co
+co_05,city_05093,BETULIA,05101,base.co
+co_05,city_05101,CIUDAD BOLÍVAR,05107,base.co
+co_05,city_05107,BRICEÑO,05113,base.co
+co_05,city_05113,BURITICÁ,05120,base.co
+co_05,city_05120,CÁCERES,05125,base.co
+co_05,city_05125,CAICEDO,05129,base.co
+co_05,city_05129,CALDAS,05134,base.co
+co_05,city_05134,CAMPAMENTO,05138,base.co
+co_05,city_05138,CAÑASGORDAS,05142,base.co
+co_05,city_05142,CARACOLÍ,05145,base.co
+co_05,city_05145,CARAMANTA,05147,base.co
+co_05,city_05147,CAREPA,05148,base.co
+co_05,city_05148,EL CARMEN DE VIBORAL,05150,base.co
+co_05,city_05150,CAROLINA,05154,base.co
+co_05,city_05154,CAUCASIA,05172,base.co
+co_05,city_05172,CHIGORODÓ,05190,base.co
+co_05,city_05190,CISNEROS,05197,base.co
+co_05,city_05197,COCORNÁ,05206,base.co
+co_05,city_05206,CONCEPCIÓN,05209,base.co
+co_05,city_05209,CONCORDIA,05212,base.co
+co_05,city_05212,COPACABANA,05234,base.co
+co_05,city_05234,DABEIBA,05237,base.co
+co_05,city_05237,DONMATÍAS,05240,base.co
+co_05,city_05240,EBÉJICO,05250,base.co
+co_05,city_05250,EL BAGRE,05264,base.co
+co_05,city_05264,ENTRERRÍOS,05266,base.co
+co_05,city_05266,ENVIGADO,05282,base.co
+co_05,city_05282,FREDONIA,05284,base.co
+co_05,city_05284,FRONTINO,05306,base.co
+co_05,city_05306,GIRALDO,05308,base.co
+co_05,city_05308,GIRARDOTA,05310,base.co
+co_05,city_05310,GÓMEZ PLATA,05313,base.co
+co_05,city_05313,GRANADA,05315,base.co
+co_05,city_05315,GUADALUPE,05318,base.co
+co_05,city_05318,GUARNE,05321,base.co
+co_05,city_05321,GUATAPÉ,05347,base.co
+co_05,city_05347,HELICONIA,05353,base.co
+co_05,city_05353,HISPANIA,05360,base.co
+co_05,city_05360,ITAGÜÍ,05361,base.co
+co_05,city_05361,ITUANGO,05364,base.co
+co_05,city_05364,JARDÍN,05368,base.co
+co_05,city_05368,JERICÓ,05376,base.co
+co_05,city_05376,LA CEJA,05380,base.co
+co_05,city_05380,LA ESTRELLA,05390,base.co
+co_05,city_05390,LA PINTADA,05400,base.co
+co_05,city_05400,LA UNIÓN,05411,base.co
+co_05,city_05411,LIBORINA,05425,base.co
+co_05,city_05425,MACEO,05440,base.co
+co_05,city_05440,MARINILLA,05467,base.co
+co_05,city_05467,MONTEBELLO,05475,base.co
+co_05,city_05475,MURINDÓ,05480,base.co
+co_05,city_05480,MUTATÁ,05483,base.co
+co_05,city_05483,NARIÑO,05490,base.co
+co_05,city_05490,NECOCLÍ,05495,base.co
+co_05,city_05495,NECHÍ,05501,base.co
+co_05,city_05501,OLAYA,05541,base.co
+co_05,city_05541,PEÑOL,05543,base.co
+co_05,city_05543,PEQUE,05576,base.co
+co_05,city_05576,PUEBLORRICO,05579,base.co
+co_05,city_05579,PUERTO BERRÍO,05585,base.co
+co_05,city_05585,PUERTO NARE,05591,base.co
+co_05,city_05591,PUERTO TRIUNFO,05604,base.co
+co_05,city_05604,REMEDIOS,05607,base.co
+co_05,city_05607,RETIRO,05615,base.co
+co_05,city_05615,RIONEGRO,05628,base.co
+co_05,city_05628,SABANALARGA,05631,base.co
+co_05,city_05631,SABANETA,05642,base.co
+co_05,city_05642,SALGAR,05647,base.co
+co_05,city_05647,SAN ANDRÉS DE CUERQUÍA,05649,base.co
+co_05,city_05649,SAN CARLOS,05652,base.co
+co_05,city_05652,SAN FRANCISCO,05656,base.co
+co_05,city_05656,SAN JERÓNIMO,05658,base.co
+co_05,city_05658,SAN JOSÉ DE LA MONTAÑA,05659,base.co
+co_05,city_05659,SAN JUAN DE URABÁ,05660,base.co
+co_05,city_05660,SAN LUIS,05664,base.co
+co_05,city_05664,SAN PEDRO DE LOS MILAGROS,05665,base.co
+co_05,city_05665,SAN PEDRO DE URABÁ,05667,base.co
+co_05,city_05667,SAN RAFAEL,05670,base.co
+co_05,city_05670,SAN ROQUE,05674,base.co
+co_05,city_05674,SAN VICENTE FERRER,05679,base.co
+co_05,city_05679,SANTA BÁRBARA,05686,base.co
+co_05,city_05686,SANTA ROSA DE OSOS,05690,base.co
+co_05,city_05690,SANTO DOMINGO,05697,base.co
+co_05,city_05697,EL SANTUARIO,05736,base.co
+co_05,city_05736,SEGOVIA,05756,base.co
+co_05,city_05756,SONSÓN,05761,base.co
+co_05,city_05761,SOPETRÁN,05789,base.co
+co_05,city_05789,TÁMESIS,05790,base.co
+co_05,city_05790,TARAZÁ,05792,base.co
+co_05,city_05792,TARSO,05809,base.co
+co_05,city_05809,TITIRIBÍ,05819,base.co
+co_05,city_05819,TOLEDO,05837,base.co
+co_05,city_05837,TURBO,05842,base.co
+co_05,city_05842,URAMITA,05847,base.co
+co_05,city_05847,URRAO,05854,base.co
+co_05,city_05854,VALDIVIA,05856,base.co
+co_05,city_05856,VALPARAÍSO,05858,base.co
+co_05,city_05858,VEGACHÍ,05861,base.co
+co_05,city_05861,VENECIA,05873,base.co
+co_05,city_05873,VIGÍA DEL FUERTE,05885,base.co
+co_05,city_05885,YALÍ,05887,base.co
+co_05,city_05887,YARUMAL,05890,base.co
+co_05,city_05890,YOLOMBÓ,05893,base.co
+co_05,city_05893,YONDÓ,05895,base.co
+co_05,city_05895,ZARAGOZA,08001,base.co
+co_08,city_08001,BARRANQUILLA,08078,base.co
+co_08,city_08078,BARANOA,08137,base.co
+co_08,city_08137,CAMPO DE LA CRUZ,08141,base.co
+co_08,city_08141,CANDELARIA,08296,base.co
+co_08,city_08296,GALAPA,08372,base.co
+co_08,city_08372,JUAN DE ACOSTA,08421,base.co
+co_08,city_08421,LURUACO,08433,base.co
+co_08,city_08433,MALAMBO,08436,base.co
+co_08,city_08436,MANATÍ,08520,base.co
+co_08,city_08520,PALMAR DE VARELA,08549,base.co
+co_08,city_08549,PIOJÓ,08558,base.co
+co_08,city_08558,POLONUEVO,08560,base.co
+co_08,city_08560,PONEDERA,08573,base.co
+co_08,city_08573,PUERTO COLOMBIA,08606,base.co
+co_08,city_08606,REPELÓN,08634,base.co
+co_08,city_08634,SABANAGRANDE,08638,base.co
+co_08,city_08638,SABANALARGA,08675,base.co
+co_08,city_08675,SANTA LUCÍA,08685,base.co
+co_08,city_08685,SANTO TOMÁS,08758,base.co
+co_08,city_08758,SOLEDAD,08770,base.co
+co_08,city_08770,SUAN,08832,base.co
+co_08,city_08832,TUBARÁ,08849,base.co
+co_08,city_08849,USIACURÍ,011001,base.co
 co_11,city_11001,"BOGOTÁ, D.C.",11001,base.co
 co_13,city_13001,CARTAGENA DE INDIAS,13001,base.co
 co_13,city_13006,ACHÍ,13006,base.co
