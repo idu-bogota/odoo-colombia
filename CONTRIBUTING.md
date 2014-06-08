@@ -21,7 +21,7 @@ Adicionalmente, aprender todo sobre ...
 
 Travis-CI va verificar si el servidor puede ser construido (incluyendo pruebas pep8) en cada commit y en cada pull request.
 
-#### Raportar Issues
+#### Reportar Issues
 - Por favor - si se puede - raportar problemas ya con la solución en una forma de "pull request". Todos somos voluntarios :)
 
 - Si después de crear un "issue" puedes contribuir con una solución, no olvides de referenciar el "issue" en el pull.
@@ -30,12 +30,12 @@ Travis-CI va verificar si el servidor puede ser construido (incluyendo pruebas p
 
 - Por favor no utilizar este repositorio para problemas que no son especificos de la localizacián. No queremos perder el enfoque!
 
-#### Para que version se hace el parche?
-- Por el momento queremos crear una localizacion "8.0-ready". Por ende, trabajamos simepre sobre la última versión saas de Odoo que se supone es la version "stable" en que la probabibilad de un error de ser del lado de odoo core es muy bajo.
+#### Para que versión se hace el parche?
+- Por el momento queremos crear una localización "8.0-ready". Por ende, trabajamos simepre sobre la última versión saas de Odoo que se supone es la versión "stable" en que la probabibilad de un error de ser del lado de odoo core es muy bajo.
 - [Obtener esta version en 20 min.](https://github.com/odoo-colombia/odoo-vagrant)
 
 
-#### Proceso de Revision del código
+#### Proceso de Revisión del código
 - Asegurar que no hay errores en los servidores de integracion continuada.
-- Discusion sobre un pull request y aplicacion de "labels" indicativos.
+- Discusión sobre un pull request y aplicación de "labels" indicativos.
 - Felicitaciones, cuando este todo listo, incorporamos tu código en la localización oficial!
