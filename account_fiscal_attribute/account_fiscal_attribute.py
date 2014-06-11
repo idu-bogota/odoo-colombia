@@ -23,7 +23,6 @@ from openerp.osv import orm, fields
 
 class fiscal_domain(orm.Model):
 	_name = "fiscal_domain"
-	#_rec_name  = "domain"
 
 	_columns = {
 		'code' : fields.char('code', size=25, required=True),
@@ -36,7 +35,6 @@ class fiscal_domain(orm.Model):
 
 class attribute_use(orm.Model):
 	_name = "attribute_use"
-	#_rec_name  = "attribute"
 
 	_columns = {
 		'code' : fields.char('code',size=25, required=True),
@@ -44,10 +42,44 @@ class attribute_use(orm.Model):
 		#account_fiscal_attribute_id = fields.many2many
 	}
 
-# class account_fiscal_attribute_partner(osv.osv):
-# 	_name = 'account_fiscal_attribute.partner'
-# 	_rec_name = 'attribute_partner'
+class account_fiscal_attribute(orm.Model):
+	_name = 'account.fiscal.attribute'
 
-# 	_columns = {
+	_columns = {
+		'code' : fields.char('code', size=25, required=True),
+		'name' : fields.char('code', size=50, required=True),
+		'note' : fields.text('note'),
+		'active' : fields.boolean('active'),
+		'attribute_use_id' : fields.many2one(
+			'attribute_use',
+        	'Attribute Use'),
+		'fiscal_domain_id' : fields.many2one(
+			'fiscal_domain',
+        	'Fiscal Domain'),
+	}
 
-# 	}
+class account_fiscal_allocation_set(orm.Model):
+	_name = 'account.fiscal.allocation.set'
+
+	_columns = {
+		'code' : fields.char('code', size=25, required=True),
+		'name' : fields.char('code', size=50, required=True),
+		'note' : fields.text('note'),
+		'active' : fields.boolean('active'),
+		'fiscal_domain_id' : fields.many2one(
+			'fiscal_domain',
+        	'Fiscal Domain'),
+		'account_tax_id' : fields.many2one(
+			'account.tax',
+        	'Tax'),	  
+	}
+
+class account_tax_fiscal(orm.Model):
+	_name = 'account.tax'
+	_inherit = 'account.tax'
+		
+	_columns = {
+		'fiscal_domain_id' : fields.many2one(
+			'fiscal_domain',
+        	'Fiscal Domain'),
+	}

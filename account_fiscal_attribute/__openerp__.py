@@ -28,6 +28,7 @@
     'version': '0.1',
     'depends': [
         'base',
+        'account',
     ],
     'data': [
         #'views/res_partner_view.xml',
