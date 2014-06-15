@@ -36,11 +36,11 @@
         'views/res_partner_view.xml',
     ],
     'demo': [
-        #'l10n_co_base_demo.xml',
+        # 'l10n_co_base_demo.xml',
     ],
     'test': [
-        #'test/base_inscr_est_valid.yml',
-        #'test/base_inscr_est_invalid.yml',
+        # 'test/base_inscr_est_valid.yml',
+        # 'test/base_inscr_est_invalid.yml',
     ],
     'installable': True,
     'auto_install': False,

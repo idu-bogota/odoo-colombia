@@ -41,7 +41,7 @@ class res_city(orm.Model):
     def onchange_res_city_state(self, cr, uid, ids, state_id, context=None):
         if state_id:
             country_id = self.pool['res.country.state'].browse(cr, uid, state_id, context).country_id.id
-            return {'value':{'country_id':country_id}}
+            return {'value': {'country_id': country_id}}
         return {}
 
 
@@ -59,5 +59,5 @@ class res_partner(orm.Model):
     def onchange_city(self, cr, uid, ids, city_id, context=None):
         if city_id:
             state_id = self.pool['res.country.state.city'].browse(cr, uid, city_id, context).state_id.id
-            return {'value':{'state_id':state_id}}
+            return {'value': {'state_id': state_id}}
         return {}
