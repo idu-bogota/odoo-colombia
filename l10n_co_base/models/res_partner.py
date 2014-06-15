@@ -4,28 +4,29 @@
 # Copyright (C) 2014                                                          #
 # David Arnold (El Aleman SAS), Hector Ivan Valencia, Juan Pablo Arias        #
 #                                                                             #
-#This program is free software: you can redistribute it and/or modify         #
-#it under the terms of the GNU Affero General Public License as published by  #
-#the Free Software Foundation, either version 3 of the License, or            #
-#(at your option) any later version.                                          #
+# This program is free software: you can redistribute it and/or modify        #
+# it under the terms of the GNU Affero General Public License as published by #
+# the Free Software Foundation, either version 3 of the License, or           #
+# (at your option) any later version.                                         #
 #                                                                             #
-#This program is distributed in the hope that it will be useful,              #
-#but WITHOUT ANY WARRANTY; without even the implied warranty of               #
-#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the                #
-#GNU Affero General Public License for more details.                          #
+# This program is distributed in the hope that it will be useful,             #
+# but WITHOUT ANY WARRANTY; without even the implied warranty of              #
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the               #
+# GNU Affero General Public License for more details.                         #
 #                                                                             #
-#You should have received a copy of the GNU Affero General Public License     #
-#along with this program.  If not, see <http://www.gnu.org/licenses/>.        #
+# You should have received a copy of the GNU Affero General Public License    #
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.       #
 ###############################################################################
 
 from openerp.osv import orm, fields
 
 # Define an extencible city model.
 
+
 class res_city(orm.Model):
     _name = 'res.country.state.city'
     _description = 'Ciudad'
-    #TODO: make sure, that ste and country are consistent, if state is filled.
+    # TODO: make sure, that ste and country are consistent, if state is filled.
     _columns = {
         'name': fields.char('Ciudad', size=64, required=True),
         'state_id': fields.many2one('res.country.state', 'Departamento'),
@@ -43,6 +44,7 @@ class res_city(orm.Model):
             return {'value':{'country_id':country_id}}
         return {}
 
+
 class res_partner(orm.Model):
     _inherit = 'res.partner'
 
@@ -51,7 +53,6 @@ class res_partner(orm.Model):
         'city': fields.many2one(
             'res.country.state.city', 'Ciudad',)
     }
-
 
     # change several fields based on the city-field.
     # @api.onchange('city')
