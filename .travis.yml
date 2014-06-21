@@ -14,10 +14,6 @@ env:
 #  - ODOO="https://github.com/odoo/odoo/archive/master.zip"
 #  - ODOO="ocb"
 
-# Odoo depends on wkhtmltopdf > 0.12
-before_install: 
-    - sudo apt-get install -qq wkhtmltopdf
-    
 # Need coveralls for coverage reports
 # Need flake8 for pep8 testing
 # Manually get PyChart
