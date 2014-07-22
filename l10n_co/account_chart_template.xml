@@ -2,7 +2,7 @@
 <openerp>
     <data noupdate="0">
         <!-- Chart Template -->
-        <record id="l10n_it_chart_template_generic" model="account.chart.template">
+        <record id="l10n_co_chart_template_generic" model="account.chart.template">
             <field name="name">Colombian - Generic Chart of Accounts</field>
             <field name="account_root_id" ref="co_puc_root"/>
             <field name="tax_code_root_id" ref="atctn_root"/>

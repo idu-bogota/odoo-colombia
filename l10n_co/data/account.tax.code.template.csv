@@ -545,9 +545,9 @@ R-R-383-dev-base,atctn_r_renta_383_DB,Empleadeo ET383 - DEVOLUCION BASE,renta,,,
 R-R-383-dev-valor,atctn_r_renta_383_DV,Empleadeo ET383 - DEVOLUCION VALOR,renta,,,atctn_r_renta_383
 R-R-384,atctn_r_renta_384,Empleadoe ET384,renta,,,atctn_r_renta
 R-R-384-base,atctn_r_renta_384_B,Empleadoe ET384 - BASE,renta,,,atctn_r_renta_384
-R-R-384-valor,atctn_r_renta_384_V,Empleadoe ET384 - VALOR,renta,,,atctn_r_renta_385
-R-R-384-dev-base,atctn_r_renta_384_DB,Empleadoe ET384 - DEVOLUCION BASE,renta,,,atctn_r_renta_386
-R-R-384-dev-valor,atctn_r_renta_384_DV,Empleadoe ET384 - DEVOLUCION VALOR,renta,,,atctn_r_renta_387
+R-R-384-valor,atctn_r_renta_384_V,"Empleadoe ET384 - VALOR",renta,,,atctn_r_renta_384
+R-R-384-dev-base,atctn_r_renta_384_DB,"Empleadoe ET384 - DEVOLUCION BASE",renta,,,atctn_r_renta_384
+R-R-384-dev-valor,atctn_r_renta_384_DV,"Empleadoe ET384 - DEVOLUCION VALOR",renta,,,atctn_r_renta_384
 R-R-tcp,atctn_r_renta_tcp,Trabajadores por cuenta proia,renta,,,atctn_r_renta
 R-R-tcp-base,atctn_r_renta_tcp_B,Trabajadores por cuenta proia - BASE,renta,,,atctn_r_renta_tcp
 R-R-tcp-valor,atctn_r_renta_tcp_V,Trabajadores por cuenta proia - VALOR,renta,,,atctn_r_renta_tcp
