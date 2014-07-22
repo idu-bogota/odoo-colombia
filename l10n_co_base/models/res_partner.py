@@ -32,9 +32,16 @@ class res_city(orm.Model):
         # 'zip': fields.char('ZIP', size=5),
         # 'phone_prefix': fields.char('Telephone Prefix', size=16),
         'codigo_dane': fields.char('Codigo DANE', size=5),
-        'country_id': fields.many2one('res.country', 'Country'),
+        'country_id': fields.related(
+            'state_id',
+            'country_id',
+            type="many2one",
+            relation="res.country",
+            string="Country",
+            store=False),
         # 'cadaster_code': fields.char('Cadaster Code', size=16),
         # 'web_site': fields.char('Web Site', size=64),
+
     }
 
     def onchange_res_city_state(self, cr, uid, ids, state_id, context=None):

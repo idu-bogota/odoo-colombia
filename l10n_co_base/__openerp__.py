@@ -20,10 +20,16 @@
 
 {
     'name': 'Colombian Localization Base',
-    'description': 'Colombian Localization Base',
-    'category': 'Localization/Account Charts',
+    'description': 'Cities and States and some Partner adaptacions',
+    'category': 'Localization',
     'license': 'AGPL-3',
-    'author': 'El Aleman SAS, Hector Ivan Valencia, Juan Pablo Arias',
+    'author': """
+Juan Pablo Arias (devCO),
+
+David Arnold BA HSG (devCO),
+
+Hector Ivan Valencia (TIX)
+""",
     'website': '',
     'version': '0.1',
     'depends': [

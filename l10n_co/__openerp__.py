@@ -15,21 +15,17 @@
 # GNU Affero General Public License for more details.
 #
 # You should have received a copy of the GNU Affero General Public License
-# along with this program. If not, see <http://www.gnu.org/licenses/>.
-#
-##############################################################################
-
 {
     'name': 'Colombian - Accounting',
     'version': '0.1',
     'category': 'Localization/Account Charts',
-    'description': """
-This is the base module to manage the accounting chart for Colombian in OpenERP.
-==============================================================================
-....
-""",
-    'author': """Juan Pablo Arias - David Arnold B.A. HSG - Hector Ivan Valencia
-Odoo Colombia https://plus.google.com/communities/113251920989277948689
+    'description': 'Colombian Accounting and Tax Preconfiguration',
+    'author': """
+David Arnold BA HSG (devCO),
+
+Juan Pablo Arias (devCO),
+
+Hector Ivan Valencia (TIX)
 """,
     'depends': [
         'account',
@@ -37,8 +33,10 @@ Odoo Colombia https://plus.google.com/communities/113251920989277948689
         'account_chart',
     ],
     'data': [
-    	'data/account.acocunt.template.csv',
+    	'data/account.account.type.csv',
+    	'data/account.account.template.csv',
         'data/account.tax.code.template.csv',
+        'data/account_chart_template.xml',
         'data/account.tax.template.csv',
     	'wizard/account_wizard.xml',
     ],
@@ -46,3 +44,7 @@ Odoo Colombia https://plus.google.com/communities/113251920989277948689
     'installable': True,
     'images': [],
 }
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+##############################################################################
+
