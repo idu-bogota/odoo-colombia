@@ -1,5 +1,5 @@
 id,code,name,type,parent_id:id,reconcile,user_type:id
-co_puc_root,0,"CO PUC ROOT",view,,FALSE,account.data_account_type_view
+co_puc_root,0,CO PUC ROOT,view,,FALSE,account.data_account_type_view
 co_puc_1,1,*ACTIVO*,view,co_puc_root,FALSE,account.data_account_type_asset
 co_puc_11,11,DISPONIBLE,view,co_puc_1,FALSE,account.data_account_type_asset
 co_puc_1105,1105,Caja,view,co_puc_11,FALSE,account.data_account_type_cash
@@ -836,58 +836,59 @@ co_puc_238025,238025,fondo de perseverancia,other,co_puc_2380,FALSE,account.data
 co_puc_238030,238030,fondos de cesantías y/o pensiones,other,co_puc_2380,FALSE,account.data_account_type_liability
 co_puc_238035,238035,donaciones asignadas por pagar,other,co_puc_2380,FALSE,account.data_account_type_liability
 co_puc_238095,238095,otros,payable,co_puc_2380,FALSE,account.data_account_type_payable
-co_puc_24,24,"IMPUESTOS, GRAVÁMENES Y TASAS",view,co_puc_2,FALSE,account.data_account_type_liability
-co_puc_2404,2404,De Renta Y Complementarios,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_240405,240405,vigencia fiscal corriente,other,co_puc_2404,FALSE,account.data_account_type_liability
-co_puc_240410,240410,vigencias fiscales anteriores,other,co_puc_2404,FALSE,account.data_account_type_liability
-co_puc_2408,2408,Impuesto Sobre Las Ventas Por Pagar,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_240805,240805,impuesto sobre las ventas por pagar,other,co_puc_2408,FALSE,account.data_account_type_liability
-co_puc_240810,240810,"iva generado por compras anuladas, rescindidas o resueltas",other,co_puc_2408,FALSE,account.data_account_type_liability
-co_puc_240815,240815,iva descontable a la tarifa general,other,co_puc_2408,FALSE,account.data_account_type_liability
-co_puc_240820,240820,"iva descontable por ventas anuladas, rescindidas o resueltas",other,co_puc_2408,FALSE,account.data_account_type_liability
-co_puc_240825,240825,iva descontable por compras a no residentes,other,co_puc_2408,FALSE,account.data_account_type_liability
-co_puc_2412,2412,De Industria Y Comercio,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_241205,241205,vigencia fiscal corriente,other,co_puc_2412,FALSE,account.data_account_type_liability
-co_puc_241210,241210,vigencias fiscales anteriores,other,co_puc_2412,FALSE,account.data_account_type_liability
-co_puc_2416,2416,A La Propiedad Raíz,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_241605,241605,a la propiedad raíz,other,co_puc_2416,FALSE,account.data_account_type_liability
-co_puc_2420,2420,Derechos Sobre Instrumentos Públicos,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_242005,242005,derechos sobre instrumentos públicos,other,co_puc_2420,FALSE,account.data_account_type_liability
-co_puc_2424,2424,De Valorización,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_242405,242405,vigencia fiscal corriente,other,co_puc_2424,FALSE,account.data_account_type_liability
-co_puc_242410,242410,vigencias fiscales anteriores,other,co_puc_2424,FALSE,account.data_account_type_liability
-co_puc_2428,2428,De Turismo,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_242805,242805,de turismo,other,co_puc_2428,FALSE,account.data_account_type_liability
-co_puc_2432,2432,Tasa Por Utilización De Puertos,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_243205,243205,tasa por utilización de puertos,other,co_puc_2432,FALSE,account.data_account_type_liability
-co_puc_2436,2436,De Vehículos,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_243605,243605,vigencia fiscal corriente,other,co_puc_2436,FALSE,account.data_account_type_liability
-co_puc_243610,243610,vigencias fiscales anteriores,other,co_puc_2436,FALSE,account.data_account_type_liability
-co_puc_2440,2440,De Espectáculos Públicos,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_244005,244005,de espectáculos públicos,other,co_puc_2440,FALSE,account.data_account_type_liability
-co_puc_2444,2444,De Hidrocarburos Y Minas,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_244405,244405,de hidrocarburos,other,co_puc_2444,FALSE,account.data_account_type_liability
-co_puc_244410,244410,de minas,other,co_puc_2444,FALSE,account.data_account_type_liability
-co_puc_2448,2448,Regalías E Impuestos A La Pequeña Y Mediana Minería,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_244805,244805,regalías e impuestos a la pequeña y mediana minería,other,co_puc_2448,FALSE,account.data_account_type_liability
-co_puc_2452,2452,A Las Exportaciones Cafeteras,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_245205,245205,a las exportaciones cafeteras,other,co_puc_2452,FALSE,account.data_account_type_liability
-co_puc_2456,2456,A Las Importaciones,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_245605,245605,a las importaciones,other,co_puc_2456,FALSE,account.data_account_type_liability
-co_puc_2460,2460,Cuotas De Fomento,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_246005,246005,cuotas de fomento,other,co_puc_2460,FALSE,account.data_account_type_liability
-co_puc_2464,2464,"De Licores, Cervezas Y Cigarrillos",view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_246405,246405,de licores,other,co_puc_2464,FALSE,account.data_account_type_liability
-co_puc_246410,246410,de cervezas,other,co_puc_2464,FALSE,account.data_account_type_liability
-co_puc_246415,246415,de cigarrillos,other,co_puc_2464,FALSE,account.data_account_type_liability
-co_puc_2468,2468,Al Sacrificio De Ganado,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_246805,246805,al sacrificio de ganado,other,co_puc_2468,FALSE,account.data_account_type_liability
-co_puc_2472,2472,Al Azar Y Juegos,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_247205,247205,al azar y juegos,other,co_puc_2472,FALSE,account.data_account_type_liability
-co_puc_2476,2476,Gravámenes Y Regalías Por Utilización Del Suelo,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_247605,247605,gravámenes y regalías por utilización del suelo,other,co_puc_2476,FALSE,account.data_account_type_liability
-co_puc_2495,2495,Otros,view,co_puc_24,FALSE,account.data_account_type_liability
-co_puc_249505,249505,otros,other,co_puc_2495,FALSE,account.data_account_type_liability
+co_puc_24,24,"IMPUESTOS, GRAVÁMENES Y TASAS",view,co_puc_2,FALSE,account.conf_account_type_tax
+co_puc_2404,2404,De Renta Y Complementarios,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_240405,240405,vigencia fiscal corriente,other,co_puc_2404,FALSE,account.conf_account_type_tax
+co_puc_240410,240410,vigencias fiscales anteriores,other,co_puc_2404,FALSE,account.conf_account_type_tax
+co_puc_2408,2408,Impuesto Sobre Las Ventas Por Pagar,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_240805,240805,impuesto sobre las ventas por pagar,other,co_puc_2408,FALSE,account.conf_account_type_tax
+co_puc_240825,240825,iva descontable a regimen simplificado (directo) - la DIAN no lo interpreta utilizable,other,co_puc_2408,FALSE,account.conf_account_type_tax
+co_puc_240820,240820,iva descontable a regimen simplificado (commun/proporcional) - solo esta la DIAN lo interpreta utilizable,other,co_puc_2408,FALSE,account.conf_account_type_tax
+co_puc_240815,240815,iva descontable (commun/proporcional),other,co_puc_2408,FALSE,account.conf_account_type_tax
+co_puc_240810,240810,iva descontable (directo),other,co_puc_2408,FALSE,account.conf_account_type_tax
+co_puc_2412,2412,De Industria Y Comercio,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_241205,241205,vigencia fiscal corriente,other,co_puc_2412,FALSE,account.conf_account_type_tax
+co_puc_241210,241210,vigencias fiscales anteriores,other,co_puc_2412,FALSE,account.conf_account_type_tax
+co_puc_2416,2416,A La Propiedad Raíz,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_241605,241605,a la propiedad raíz,other,co_puc_2416,FALSE,account.conf_account_type_tax
+co_puc_2420,2420,Derechos Sobre Instrumentos Públicos,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_242005,242005,derechos sobre instrumentos públicos,other,co_puc_2420,FALSE,account.conf_account_type_tax
+co_puc_2424,2424,De Valorización,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_242405,242405,vigencia fiscal corriente,other,co_puc_2424,FALSE,account.conf_account_type_tax
+co_puc_242410,242410,vigencias fiscales anteriores,other,co_puc_2424,FALSE,account.conf_account_type_tax
+co_puc_2428,2428,De Turismo,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_242805,242805,de turismo,other,co_puc_2428,FALSE,account.conf_account_type_tax
+co_puc_2432,2432,Tasa Por Utilización De Puertos,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_243205,243205,tasa por utilización de puertos,other,co_puc_2432,FALSE,account.conf_account_type_tax
+co_puc_2436,2436,De Vehículos,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_243605,243605,vigencia fiscal corriente,other,co_puc_2436,FALSE,account.conf_account_type_tax
+co_puc_243610,243610,vigencias fiscales anteriores,other,co_puc_2436,FALSE,account.conf_account_type_tax
+co_puc_2440,2440,De Espectáculos Públicos,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_244005,244005,de espectáculos públicos,other,co_puc_2440,FALSE,account.conf_account_type_tax
+co_puc_2444,2444,De Hidrocarburos Y Minas,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_244405,244405,de hidrocarburos,other,co_puc_2444,FALSE,account.conf_account_type_tax
+co_puc_244410,244410,de minas,other,co_puc_2444,FALSE,account.conf_account_type_tax
+co_puc_2448,2448,Regalías E Impuestos A La Pequeña Y Mediana Minería,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_244805,244805,regalías e impuestos a la pequeña y mediana minería,other,co_puc_2448,FALSE,account.conf_account_type_tax
+co_puc_2452,2452,A Las Exportaciones Cafeteras,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_245205,245205,a las exportaciones cafeteras,other,co_puc_2452,FALSE,account.conf_account_type_tax
+co_puc_2456,2456,A Las Importaciones,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_245605,245605,a las importaciones,other,co_puc_2456,FALSE,account.conf_account_type_tax
+co_puc_2460,2460,Cuotas De Fomento,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_246005,246005,cuotas de fomento,other,co_puc_2460,FALSE,account.conf_account_type_tax
+co_puc_2464,2464,"De Licores, Cervezas Y Cigarrillos",view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_246405,246405,de licores,other,co_puc_2464,FALSE,account.conf_account_type_tax
+co_puc_246410,246410,de cervezas,other,co_puc_2464,FALSE,account.conf_account_type_tax
+co_puc_246415,246415,de cigarrillos,other,co_puc_2464,FALSE,account.conf_account_type_tax
+co_puc_2468,2468,Al Sacrificio De Ganado,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_246805,246805,al sacrificio de ganado,other,co_puc_2468,FALSE,account.conf_account_type_tax
+co_puc_2472,2472,Al Azar Y Juegos,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_247205,247205,al azar y juegos,other,co_puc_2472,FALSE,account.conf_account_type_tax
+co_puc_2476,2476,Gravámenes Y Regalías Por Utilización Del Suelo,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_247605,247605,gravámenes y regalías por utilización del suelo,other,co_puc_2476,FALSE,account.conf_account_type_tax
+co_puc_2495,2495,Otros,view,co_puc_24,FALSE,account.conf_account_type_tax
+co_puc_249510,249510,Impuesto Nacional al Consumo,other,co_puc_2495,FALSE,account.conf_account_type_tax
+co_puc_249505,249505,otros,other,co_puc_2495,FALSE,account.conf_account_type_tax
 co_puc_25,25,OBLIGACIONES LABORALES,view,co_puc_2,FALSE,account.data_account_type_liability
 co_puc_2505,2505,Salarios Por Pagar,view,co_puc_25,FALSE,account.data_account_type_liability
 co_puc_250505,250505,salarios por pagar,other,co_puc_2505,FALSE,account.data_account_type_liability

@@ -15,18 +15,16 @@
 # GNU Affero General Public License for more details.
 #
 # You should have received a copy of the GNU Affero General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+##############################################################################
+
 {
     'name': 'Colombian - Accounting',
     'version': '0.1',
     'category': 'Localization/Account Charts',
     'description': 'Colombian Accounting and Tax Preconfiguration',
-    'author': """
-David Arnold BA HSG (devCO),
-
-Juan Pablo Arias (devCO),
-
-Hector Ivan Valencia (TIX)
-""",
+    'author': 'David Arnold BA HSG (devCO)',
     'depends': [
         'account',
         'base_vat',
@@ -44,7 +42,5 @@ Hector Ivan Valencia (TIX)
     'installable': True,
     'images': [],
 }
-# along with this program. If not, see <http://www.gnu.org/licenses/>.
-#
-##############################################################################
+
 

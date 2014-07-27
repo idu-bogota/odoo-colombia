@@ -23,13 +23,7 @@
     'description': 'Cities and States and some Partner adaptacions',
     'category': 'Localization',
     'license': 'AGPL-3',
-    'author': """
-Juan Pablo Arias (devCO),
-
-David Arnold BA HSG (devCO),
-
-Hector Ivan Valencia (TIX)
-""",
+    'author': 'Juan Pablo Arias (devCO),David Arnold BA HSG (devCO),Hector Ivan Valencia (TIX)',
     'website': '',
     'version': '0.1',
     'depends': [
