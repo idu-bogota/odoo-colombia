@@ -10,14 +10,10 @@ python:
 #  - "2.6"  # not supported by odoo 8
 
 env:
-   - ODOO="https://github.com/Bubbles-IT/odoo/archive/master.tar.gz"  # Temp until https://github.com/odoo/odoo/pull/81 is solved
+   - ODOO="https://github.com/savoirfairelinux/odoo/archive/setuptools-addons.tar.gz"  # Temp until https://github.com/odoo/odoo/pull/81 is solved
 #  - ODOO="https://github.com/odoo/odoo/archive/master.zip"
 #  - ODOO="ocb"
 
-# Odoo depends on wkhtmltopdf > 0.12
-before_install: 
-    - sudo apt-get install -qq wkhtmltopdf
-    
 # Need coveralls for coverage reports
 # Need flake8 for pep8 testing
 # Manually get PyChart
@@ -32,7 +28,6 @@ install:
 # Pre-install modules and dependencies
 before_script: 
     - createdb test
-    - PYTHONPATH=$(dirname $(which openerp-server))/.. openerp-server -d test --stop-after-init --init=$(python -c 'import os; print(",".join(x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith(".")))') --addons-path=$(pwd)
 
 # Test with flake, ignore F401 for __init__.py files, use a max length of 120
 # Run tests with coverage
@@ -42,7 +37,9 @@ before_script:
 script:
     - flake8 . --max-line-length=120 --filename=__init__.py --ignore=F401
     - flake8 . --max-line-length=120 --exclude=__init__.py
-    - PYTHONPATH=$(dirname $(which openerp-server))/.. coverage run $(which openerp-server) -d test --test-enable --log-level=test --stop-after-init --init=$(python -c 'import os; print(",".join(x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith(".")))') --addons-path=$(pwd)
+    - odoo.py -d test --stop-after-init --init=$(python -c 'import os; print(",".join(x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith(".")))') --addons-path=$(pwd),`python -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"`/addons
+    - coverage run $(which odoo.py) -d test --test-enable --log-level=test --stop-after-init --init=$(python -c 'import os; print(",".join(x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith(".")))') --addons-path=$(pwd),`python -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"`/addons
+
 
 after_success:
   coveralls
