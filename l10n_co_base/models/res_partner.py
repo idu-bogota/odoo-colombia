@@ -19,6 +19,7 @@
 ###############################################################################
 
 from openerp.osv import orm, fields
+from openerp import api
 
 # Define an extencible city model.
 

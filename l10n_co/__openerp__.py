@@ -2,7 +2,11 @@
 ##############################################################################
 #
 # OpenERP, Open Source Management Solution
-# Copyright (C) 2004-2010 Tiny SPRL (<http://tiny.be>).
+# Copyright (C) David Arnold (devCO).
+# Author        David Arnold (devCO)
+# Co-Authors    Juan Pablo Aries (devCO)
+#               Nhomar Hernandez (Vauxoo)
+#               Humberto Ochoa (Vauxoo)
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -21,10 +25,10 @@
 
 {
     'name': 'Colombian - Accounting',
-    'version': '0.1',
+    'version': '0.8',
     'category': 'Localization/Account Charts',
     'description': 'Colombian Accounting and Tax Preconfiguration',
-    'author': 'David Arnold BA HSG (devCO)',
+    'author': 'David Arnold BA HSG (devCO), based on Vauxoo preliminary work',
     'depends': [
         'account',
         'base_vat',
