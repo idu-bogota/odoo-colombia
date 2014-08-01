@@ -20,7 +20,7 @@
         <field name="type">form</field>
         <field name="arch" type="xml">
             <field name="city" position="replace" >
-                <field name="city" class="oe_no_button" placeholder="City" style="width: 70%%" options='{"no_open": True}' on_change="onchange_city(city)" attrs="{'readonly': [('use_parent_address','=',True)]}"/>
+                <field name="city_id" class="oe_no_button" placeholder="City" style="width: 70%%" options='{"no_open": True}' on_change="onchange_city(city)" attrs="{'readonly': [('use_parent_address','=',True)]}"/>
                 <field name="zip" placeholder="ZIP" style="width: 29%%" attrs="{'readonly': [('use_parent_address','=',True)]}"/>
             </field>
         </field>
