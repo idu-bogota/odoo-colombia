@@ -24,7 +24,7 @@ from openerp import api
 # Define an extencible city model.
 
 
-class res_city(orm.Model):
+class ResCity(orm.Model):
     _name = 'res.country.state.city'
     _description = 'Ciudad'
     # TODO: make sure, that ste and country are consistent, if state is filled.
@@ -53,7 +53,7 @@ class res_city(orm.Model):
         return {}
 
 
-class res_partner(orm.Model):
+class ResPartner(orm.Model):
     _inherit = 'res.partner'
 
     _columns = {
