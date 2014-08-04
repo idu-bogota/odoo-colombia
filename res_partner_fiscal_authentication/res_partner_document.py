@@ -40,30 +40,22 @@ class ResPartnerIdent(models.Model):
     _name = 'res.partner'
     _inherit = 'res.partner'
 
-    # Head against wall banging. I just don't get how to access the values of the super class to make them available
-    # on domain search and for @api.depends
-    """
-    def _get_company(self):
-        return super(ResPartnerIdent, self)._all_columns.get('is_company')
-    is_company = _get_company(self)
-    """
-    # TODO domain = [('|', 'on_company', '=', is_company, 'on_contact', '!=', is_company)]
-    fiscal_id_type = fields.Many2one('res.partner.idtype', string=u'Document Type',
-       # Make sure that the Boolean Flag of re.partner.idtype is respected
-       # TODO domain=domain,
-       # TODO default=self.env['res.partner.idtype'].search(domain, limit=1).id,
+    dom = "['|', ('on_company', '=', is_company), ('on_contact', '!=', is_company)]"
+    fiscal_id_type = fields.Many2one(
+        'res.partner.idtype', string=u'Document Type', domain=dom,
     )
     fiscal_id = fields.Char(string=u'Document ID')
     fiscal_id_doc = fields.Binary(string=u'Document Scan',
                                   help="Upload the supporting Document preferably as size-optimized PDF. This might "
                                        "help save disk space and PDF allows you to concatenate multiple documents.")
 
-    @api.v8
+
+    @api.one
     @api.onchange(
         'fiscal_id_type',
         'fiscal_id',
-        # TODO 'is_company',
-        )
+        # 'is_company', # https://github.com/odoo/odoo/issues/1530
+    )
     def validateformatcopy(self):
         # CASE: Current ID Type is not applicable on company
         if self.is_company and not self.fiscal_id_type.on_company:
@@ -108,7 +100,7 @@ class ResPartnerIdent(models.Model):
             'CODE2': {'output_type': f_type, 'output_id': f_id},
             # Define your cases with the index being the doctype id to match
             # Note you can work inline (lambda), or call subfunctions at will
-            }.get(self.fiscal_id_type.code,default())
+        }.get(self.fiscal_id_type.code,default())
 
     @staticmethod
     def _copyid(self):
@@ -134,9 +126,9 @@ class ResPartnerIdent(models.Model):
 
         {
             'CODE1': {# self.vat_subjected: True,
-                      # self.vat: self.country_id.code + stringop_1(f_id)
+                # self.vat: self.country_id.code + stringop_1(f_id)
             },
             'CODE2': {# seld.vat_subjected: True,
-                      # self.vat: self.country_id.code + stringop_1(f_id)
+                # self.vat: self.country_id.code + stringop_1(f_id)
             },
-        }.get(self.fiscal_id_type.code, default())
+            }.get(self.fiscal_id_type.code, default())
