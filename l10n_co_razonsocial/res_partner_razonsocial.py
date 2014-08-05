@@ -39,10 +39,10 @@ class ResPartnerRazonsocial(models.Model):
         default='company', readonly=True, invisible=True, copy=False)
         # https://github.com/odoo/odoo/issues/1567
     legal_denomination = fields.Char()
-    legal_entity_name = fields.Char(required=True, states={'person': [('invisible', True)]})
-    firstname = fields.Char(required=True, states={'company': [('invisible', True)]})
+    legal_entity_name = fields.Char(states={'person': [('invisible', True)]})
+    firstname = fields.Char(states={'company': [('invisible', True)]})
     middlename = fields.Char(states={'company': [('invisible', True)]})
-    first_lastname = fields.Char(required=True, states={'company': [('invisible', True)]})
+    first_lastname = fields.Char(states={'company': [('invisible', True)]})
     second_lastname = fields.Char(states={'company': [('invisible', True)]})
 
     @api.v8

@@ -1,14 +1,14 @@
 id,name,code,sequence,active,note,on_company,on_contact
-,'Registro civil','11',5,1,,0,1
-,'Tarjeta de identidad','12',4,1,,0,1
-,'Cédula de ciudadanía','13',1,1,,0,1
-,'Tarjeta de extranjería','21',6,1,,0,1
-,'Cédula de extranjería','22',2,1,,0,1
-,'NIT Personal','31',0,1,,0,1
-,'NIT Empresa','31',0,1,,1,0
-,'Pasaporte','41',3,1,,0,1
-,'Tipo de documento extranjero','42',10,1,,1,1
-,'Para uso definido por la DIAN','43',11,1,,1,1
-,'Número único de identificación','NU',7,1,,1,1
-,'Adulto sin identificaciómn','AS',8,1,,0,1
-,'Menor sin identificación','MS',9,1,,0,1
+,Registro civil,11,5,1,,0,1
+,Tarjeta de identidad,12,4,1,,0,1
+,Cédula de ciudadanía,13,1,1,,0,1
+,Tarjeta de extranjería,21,6,1,,0,1
+,Cédula de extranjería,22,2,1,,0,1
+,NIT Personal,31,0,1,,0,1
+,NIT Empresa,31,0,1,,1,0
+,Pasaporte,41,3,1,,0,1
+,Tipo de documento extranjero,42,10,1,,1,1
+,Para uso definido por la DIAN,43,11,1,,1,1
+,Número único de identificación,NU,7,1,,1,1
+,Adulto sin identificaciómn,AS,8,1,,0,1
+,Menor sin identificación,MS,9,1,,0,1

@@ -13,13 +13,13 @@
                 <!-- Used to help controlling view in the backend code -->
                 <field name="legal_entity_name"
                        placeholder="Entity's Legal Name"
-                       attrs="{'invisible': [('is_company','=', False)]}"></field>
+                       attrs="{'invisible': [('is_company','=', False)],'required': [(('is_company','=', True))]}"></field>
                 <field name="firstname" placeholder="First Name"
-                       attrs="{'invisible': [('is_company','=', True)]}"></field>
+                       attrs="{'invisible': [('is_company','=', True)],'required': [(('is_company','=', False))]}"></field>
                 <field name="middlename" placeholder="Second Name"
                        attrs="{'invisible': [('is_company','=', True)]}"></field>
                 <field name="first_lastname" placeholder="Family Name"
-                       attrs="{'invisible': [('is_company','=', True)]}"></field>
+                       attrs="{'invisible': [('is_company','=', True)],'required': [(('is_company','=', False))]}"></field>
                 <field name="second_lastname" placeholder="2nd Family Name"
                        attrs="{'invisible': [('is_company','=', True)]}"></field>
             </field>
