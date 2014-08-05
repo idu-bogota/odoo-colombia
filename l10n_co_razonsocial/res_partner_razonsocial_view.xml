@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+    <record model="ir.ui.view" id="view_partner_form_inherit_razonsocial">
+        <field name="name">partner.form.razonsocial</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_partner_form"/>
+        <field name="type">form</field>
+        <field name="arch" type="xml">
+            <field name="category_id" position="after">
+                <field name="state" insvisible="1"></field>
+                <!-- Used to help controlling view in the backend code -->
+                <field name="legal_entity_name"
+                       placeholder="Entity's Legal Name"
+                       attrs="{'invisible': [('is_company','=', False)]}"></field>
+                <field name="firstname" placeholder="First Name"
+                       attrs="{'invisible': [('is_company','=', True)]}"></field>
+                <field name="middlename" placeholder="Second Name"
+                       attrs="{'invisible': [('is_company','=', True)]}"></field>
+                <field name="first_lastname" placeholder="Family Name"
+                       attrs="{'invisible': [('is_company','=', True)]}"></field>
+                <field name="second_lastname" placeholder="2nd Family Name"
+                       attrs="{'invisible': [('is_company','=', True)]}"></field>
+            </field>
+        </field>
+    </record>
+
+    </data>
+</openerp>
