@@ -1,72 +1,78 @@
 # -*- encoding: utf-8 -*-
-###############################################################################
-#                                                                             #
-# Copyright (C) 2014                                                          #
-# David Arnold (El Aleman SAS), Hector Ivan Valencia, Juan Pablo Arias        #
-#                                                                             #
-# This program is free software: you can redistribute it and/or modify        #
-# it under the terms of the GNU Affero General Public License as published by #
-# the Free Software Foundation, either version 3 of the License, or           #
-# (at your option) any later version.                                         #
-#                                                                             #
-# This program is distributed in the hope that it will be useful,             #
-# but WITHOUT ANY WARRANTY; without even the implied warranty of              #
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the               #
-# GNU Affero General Public License for more details.                         #
-#                                                                             #
-# You should have received a copy of the GNU Affero General Public License    #
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.       #
-###############################################################################
+# #############################################################################
+#
+# OpenERP, Open Source Management Solution
+# Copyright (C) Odoo Colombia (Community).
+# Co-Authors    David Arnold (devCO)
+# Juan Pablo Aries (devCO)
+# Luis Miguel Varon
+# Hector Ivan Valencia (TIX)
+#
+# Collaborators Nhomar Hernandez (Vauxoo)
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Affero General Public License as
+# published by the Free Software Foundation, either version 3 of the
+# License, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU Affero General Public License for more details.
+#
+# You should have received a copy of the GNU Affero General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+# #############################################################################
 
-from openerp.osv import orm, fields
-from openerp import api
+from openerp import models, fields, api, _
 
 # Define an extencible city model.
 
 
-class ResCity(orm.Model):
+class ResCity(models.Model):
     _name = 'res.country.state.city'
     _description = 'Ciudad'
-    # TODO: make sure, that ste and country are consistent, if state is filled.
-    _columns = {
-        'name': fields.char('Ciudad', size=64, required=True),
-        'state_id': fields.many2one('res.country.state', 'Departamento'),
-        # 'zip': fields.char('ZIP', size=5),
-        # 'phone_prefix': fields.char('Telephone Prefix', size=16),
-        'codigo_dane': fields.char('Codigo DANE', size=5),
-        'country_id': fields.related(
-            'state_id',
-            'country_id',
-            type="many2one",
-            relation="res.country",
-            string="Country",
-            store=False),
-        # 'cadaster_code': fields.char('Cadaster Code', size=16),
-        # 'web_site': fields.char('Web Site', size=64),
 
-    }
-
-    def onchange_res_city_state(self, cr, uid, ids, state_id, context=None):
-        if state_id:
-            country_id = self.pool['res.country.state'].browse(cr, uid, state_id, context).country_id.id
-            return {'value': {'country_id': country_id}}
-        return {}
+    name = fields.Char(
+        string=u'City',
+        required=True)
+    state_id = fields.Many2one(
+        'res.country.state',
+        string=u'State')
+    phone_prefix = fields.Char(
+        string=u'Phone Prefix')
+    statcode = fields.Char(
+        string=u'DANE Code',
+        size=5,
+        help='Code of the Colombian statistical department')
+    country_id = fields.Many2one(
+        'res.country',
+        string=u'Country',
+        related='state_id.country_id',
+        store=True,
+        readonly=True)
 
 
-class ResPartner(orm.Model):
+class ResPartner(models.Model):
+    _name = 'res.partner'
     _inherit = 'res.partner'
 
-    _columns = {
+    country_id  = fields.Many2one('res.country', readonly=True)
+    city        = fields.Char(invisible=True)
 
-        'city_id': fields.many2one(
-            'res.country.state.city', 'Ciudad',)
-    }
+    city_id = fields.Many2one(
+        'res.country.state.city',
+        u'City'
+    )
+    state_id = fields.Many2one(
+        'res.country.state',
+        readonly=True,
+    )
 
-    # TODO make copy method to copy cit_id to the city field for compatiblity.
-    # change several fields based on the city-field.
-    # @api.onchange('city')
-    def onchange_city(self, cr, uid, ids, city_id, context=None):
-        if city_id:
-            state_id = self.pool['res.country.state.city'].browse(cr, uid, city_id, context).state_id.id
-            return {'value': {'state_id': state_id}}
-        return {}
+    @api.v8
+    @api.onchange('city_id')
+    def _copy_city(self):
+        self.city = self.city_id.name
+        self.state_id = self.city_id.state_id
+        self.country_id = self.city_id.state_id.country_id

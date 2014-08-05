@@ -2,26 +2,25 @@
 <openerp>
     <data>
 
-    <record model="ir.ui.view" id="view_partner_form_inherit_zip">
-        <field name="name">partner.form.zip</field>
-        <field name="model">res.partner</field>
-        <field name="inherit_id" ref="base.view_partner_form"/>
-        <field name="type">form</field>
-        <field name="arch" type="xml">
-            <field name="zip" position="replace">
-            </field>
-        </field>
-    </record>
-
     <record model="ir.ui.view" id="view_partner_form_inherit_city">
         <field name="name">partner.form.city</field>
         <field name="model">res.partner</field>
         <field name="inherit_id" ref="base.view_partner_form"/>
         <field name="type">form</field>
         <field name="arch" type="xml">
-            <field name="city" position="replace" >
-                <field name="city_id" class="oe_no_button" placeholder="City" style="width: 70%%" options='{"no_open": True}' on_change="onchange_city(city)" attrs="{'readonly': [('use_parent_address','=',True)]}"/>
+            <field name="zip" position="replace"></field>
+            <field name="city" position="replace">
+                <field name="city" invisible="1" />
+                <field name="city_id" class="oe_no_button" placeholder="City" style="width: 70%%" options='{"no_open": True}' attrs="{'readonly': [('use_parent_address','=',True)]}"/>
                 <field name="zip" placeholder="ZIP" style="width: 29%%" attrs="{'readonly': [('use_parent_address','=',True)]}"/>
+            </field>
+            <!-- complete XPATH : /openerp/data/record[7]/field[4]/form/sheet/notebook/page[1]/field/form/sheet/group[2]/div[2]/div/field[1] -->
+            <!-- short XPATH : //div[1]/field[@name="city"] -->
+            <field name="country_id" position="replace">
+                <field name="country_id"/>
+            </field>
+            <field name="state_id" position="replace">
+                <field name="state_id"/>
             </field>
         </field>
     </record>
@@ -38,7 +37,7 @@
             <tree string="City">
                 <field name="name"/>
                 <field name="state_id"/>
-                <field name="country_id"/>
+                <field name="country_id" select="1"/>
             </tree>
         </field>
     </record>
@@ -48,14 +47,15 @@
         <field name="model">res.country.state.city</field>
         <field name="type">form</field>
         <field name="arch" type="xml">
-            <form string="City">
+            <sheet string="City">
                 <group col="4">
-                    <field name="name" select="1" colspan="4"/>
-                    <field name="state_id" on_change="onchange_res_city_state(state_id)" select="3"/>
-                    <field name="codigo_dane" select="4"/>
-                    <field name="country_id" select="2"/>
+                    <field name="name"/>
+                    <field name="state_id"/>
+                    <field name="phone_prefix"/>
+                    <field name="statcode"/>
+                    <field name="country_id"/>
                 </group>
-            </form>
+            </sheet>
         </field>
     </record>
 

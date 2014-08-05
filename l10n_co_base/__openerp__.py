@@ -26,13 +26,13 @@
 ##############################################################################
 
 {
-    'name': 'Colombian Localization Base',
-    'description': 'Cities and States and some Partner adaptacions',
+    'name': 'Colombian Cities & States',
+    'description': 'Cities and States for Colombia',
     'category': 'Localization',
     'license': 'AGPL-3',
     'author': 'Juan Pablo Arias (devCO), David Arnold BA HSG (devCO), Luis Miguel Varon, Hector Ivan Valencia (TIX)',
     'website': '',
-    'version': '0.3',
+    'version': '0.9',
     'depends': [
         'base',
     ],
@@ -40,14 +40,11 @@
         'data/res.country.state.csv',
         'data/res.partner.title.csv',
         'data/res.country.state.city.csv',
-        'views/res_partner_view.xml',
+        'res_partner_view.xml',
     ],
     'demo': [
-        #'l10n_co_base_demo.xml',
     ],
     'test': [
-        #'test/base_inscr_est_valid.yml',
-        #'test/base_inscr_est_invalid.yml',
     ],
     'installable': True,
     'auto_install': False,
