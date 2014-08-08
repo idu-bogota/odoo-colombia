@@ -9,7 +9,7 @@
         <field name="type">form</field>
         <field name="arch" type="xml">
             <field name="category_id" position="after">
-                <field name="state" insvisible="1"></field>
+                <field name="state" invisible="1"></field>
                 <!-- Used to help controlling view in the backend code -->
                 <field name="legal_entity_name"
                        placeholder="Entity's Legal Name"
