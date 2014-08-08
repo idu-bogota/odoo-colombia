@@ -29,4 +29,4 @@
 #
 ##############################################################################
 
-from . import res_partner_document
+from . import res_partner, res_partner_idtype
