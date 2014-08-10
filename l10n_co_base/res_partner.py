@@ -58,7 +58,10 @@ class ResPartner(models.Model):
     _name = 'res.partner'
     _inherit = 'res.partner'
 
-    country_id  = fields.Many2one('res.country', readonly=True)
+    country_id  = fields.Many2one(
+        'res.country',
+        related='city_id.state_id.country_id',
+        readonly=True)
     city        = fields.Char(invisible=True)
 
     city_id = fields.Many2one(
@@ -67,12 +70,6 @@ class ResPartner(models.Model):
     )
     state_id = fields.Many2one(
         'res.country.state',
+        related='city_id.state_id',
         readonly=True,
     )
-
-    @api.v8
-    @api.onchange('city_id')
-    def _copy_city(self):
-        self.city = self.city_id.name
-        self.state_id = self.city_id.state_id
-        self.country_id = self.city_id.state_id.country_id
