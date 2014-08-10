@@ -1,0 +1,17 @@
+# Normalize text files
+*           text=auto
+
+# Handle special cases explicitly
+*.vcproj	eol=crlf
+*.sh		eol=lf
+*.jpg		binary
+*.png       binary
+
+# Make Hunk-Headers more expressive
+*.py        diff=python
+*.xml       diff=html
+
+# *.csv       diff= https://github.com/paulfitz/daff
+# Or via Chrome Plugin: http://theodi.org/blog/csvhub-github-diffs-for-csv-files
+
+# Maybe someone can add a merge instructor section
