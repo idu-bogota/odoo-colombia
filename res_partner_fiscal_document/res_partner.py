@@ -72,7 +72,7 @@ class ResPartner(models.Model):
             res = self._validateandformatid(self)
             if res['output_type'] and res['output_id']:
                 self.fiscal_id_type = res['output_type']
-                self.fiscal_id = , res['output_id']
+                self.fiscal_id = res['output_id']
             # Procedure for Copying
             _copyid(self)
 
