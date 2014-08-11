@@ -61,27 +61,36 @@ class ResPartner(models.Model):
         'is_company',
     )
     def validateformatcopy(self):
-        # CASE: Current ID Type is not applicable on company
-        if self.is_company and not self.fiscal_id_type.on_company:
-            # Get the first valid ID type (remember: ordered by sequence)
-            self.fiscal_id_type = self.env['res.partner.idtype'].search(
-                [('on_company', '=', True)], limit=1).id
-            self.fiscal_id = None  # Reset ID value
+        # CASE: Current ID Type is not applicable on Merchant
+        if self.is_company and self.state == 'pernat':
+            if not self.fiscal_id_type.on_merchant:
+                # Get the first valid ID type (remember: ordered by sequence)
+                self.fiscal_id_type = self.env['res.partner.idtype'].search(
+                    [('on_merchant', '=', True)], limit=1).id
+                self.fiscal_id = None  # Reset ID value
+        # CASE: Current ID Type is not applicable on Company
+        if self.is_company and self.state == 'perjur':
+            if not self.fiscal_id_type.on_company:
+                # Get the first valid ID type (remember: ordered by sequence)
+                self.fiscal_id_type = self.env['res.partner.idtype'].search(
+                    [('on_company', '=', True)], limit=1).id
+                self.fiscal_id = None  # Reset ID value
         # CASE: Current ID Type is not applicable on contact
-        if not self.is_company and not self.fiscal_id_type.on_contact:
-            # Get the first valid ID type (remember: ordered by sequence)
-            self.fiscal_id_type = self.env['res.partner.idtype'].search(
-                [('on_contact', '=', True)], limit=1).id
-            self.fiscal_id = None  # Reset ID value
+        if not self.is_company:
+            if not self.fiscal_id_type.on_contact:
+                # Get the first valid ID type (remember: ordered by sequence)
+                self.fiscal_id_type = self.env['res.partner.idtype'].search(
+                    [('on_contact', '=', True)], limit=1).id
+                self.fiscal_id = None  # Reset ID value
         # If everything is fine, call subclasses
         if self.fiscal_id_type and self.fiscal_id:
             # Function for String Operations
-            res = self._validateandformatid(self)
+            res = self._validateandformatid()
             if res['output_type'] and res['output_id']:
                 self.fiscal_id_type = res['output_type']
                 self.fiscal_id = res['output_id']
             # Procedure for Copying
-            _copyid(self)
+            self._copyid()
 
     def _validateandformatid(self):
         """
