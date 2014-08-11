@@ -73,3 +73,7 @@ class ResPartner(models.Model):
         related='city_id.state_id',
         readonly=True,
     )
+
+    @api.onchange('city_id')
+    def _change_city(self):
+        self.city = self.city_id.name
