@@ -9,17 +9,31 @@
         <field name="type">form</field>
         <field name="arch" type="xml">
             <field name="category_id" position="after">
-                <field name="state"></field>
+                <field name="state"
+                       placeholder="Entity or Natural Person?"
+                       class="oe_edit_only"
+                       attrs="{'invisible': [('is_company', '=', False)], 'required': [('is_company', '=', True)]}"></field>
+                <field name="legal_denomination"
+                       class="oe_read_only"></field>
                 <field name="legal_entity_name"
-                       placeholder="Entity's Legal Name"></field>
+                       placeholder="Entity's Legal Name"
+                       class="oe_edit_only"></field>
                 <field name="firstname"
-                       placeholder="First Name"></field>
+                       placeholder="First Name"
+                       style="width: 50%%"
+                       class="oe_edit_only"></field>
                 <field name="middlename"
-                       placeholder="Second Name"></field>
+                       placeholder="Second Name"
+                       style="width: 49%%"
+                       class="oe_edit_only"></field>
                 <field name="first_lastname"
-                       placeholder="Family Name"></field>
+                       placeholder="Family Name"
+                       style="width: 50%%"
+                       class="oe_edit_only"></field>
                 <field name="second_lastname"
-                       placeholder="2nd Family Name"></field>
+                       placeholder="2nd Family Name"
+                       style="width: 49%%"
+                       class="oe_edit_only"></field>
             </field>
         </field>
     </record>
