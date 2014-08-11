@@ -26,10 +26,17 @@ from openerp import models, fields, api # , _
 class ResPartner(models.Model):
     _inherit = 'res.partner'
 
-    dom = "[  '|',                                " \
-          "    ('on_company',  '=', is_company),  " \
-          "    ('on_contact', '!=', is_company)  ]"
-    fiscal_id_type = fields.Many2one(
+    dom = "[ '|',                                      " \
+          "    ('on_contact' ,'!=', is_company       )," \
+          "    '|',                                    " \
+          "      '&',                                  " \
+          "      ('on_company' , '=', is_company     )," \
+          "      ('on_company' , '=', state='perjur' )," \
+          "      '&',                                  " \
+          "      ('on_merchant', '=', state='pernat' )," \
+          "      ('on_merchant', '=', is_company     ),"
+
+    fiscal_id_type = fields.Ma', '=',ny2one(
         'res.partner.idtype',
         string=u'Document Type',
         domain=dom,

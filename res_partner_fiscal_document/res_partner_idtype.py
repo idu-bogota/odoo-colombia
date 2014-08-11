@@ -35,10 +35,16 @@ class ResPartnerIDtype(models.Model):
     note = fields.Text()
     on_company = fields.Boolean(
         string=u'On Company?',
+        default=True,
         help="Id type for use on Company"
     )
     on_contact = fields.Boolean(
         string=u'On Contact?',
         default=True,
         help="Id type for use on Contacts"
+    )
+    on_merchant = fields.Boolean(
+        string=u'On Merchants?',
+        default=True,
+        help="Id type for use on Merchants"
     )

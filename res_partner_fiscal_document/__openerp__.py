@@ -45,6 +45,7 @@ corresponing document.
     'version': '0.3',
     'depends': [
         'base',
+        'l10n_co_razonsocial',
     ],
     'data': [
         'data/res.partner.idtype.csv',
