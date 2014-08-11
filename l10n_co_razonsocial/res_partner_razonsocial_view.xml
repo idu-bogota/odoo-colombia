@@ -9,19 +9,17 @@
         <field name="type">form</field>
         <field name="arch" type="xml">
             <field name="category_id" position="after">
-                <field name="state" invisible="1"></field>
-                <!-- Used to help controlling view in the backend code -->
+                <field name="state"></field>
                 <field name="legal_entity_name"
-                       placeholder="Entity's Legal Name"
-                       attrs="{'invisible': [('is_company','=', False)],'required': [(('is_company','=', True))]}"></field>
-                <field name="firstname" placeholder="First Name"
-                       attrs="{'invisible': [('is_company','=', True)],'required': [(('is_company','=', False))]}"></field>
-                <field name="middlename" placeholder="Second Name"
-                       attrs="{'invisible': [('is_company','=', True)]}"></field>
-                <field name="first_lastname" placeholder="Family Name"
-                       attrs="{'invisible': [('is_company','=', True)],'required': [(('is_company','=', False))]}"></field>
-                <field name="second_lastname" placeholder="2nd Family Name"
-                       attrs="{'invisible': [('is_company','=', True)]}"></field>
+                       placeholder="Entity's Legal Name"></field>
+                <field name="firstname"
+                       placeholder="First Name"></field>
+                <field name="middlename"
+                       placeholder="Second Name"></field>
+                <field name="first_lastname"
+                       placeholder="Family Name"></field>
+                <field name="second_lastname"
+                       placeholder="2nd Family Name"></field>
             </field>
         </field>
     </record>

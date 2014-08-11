@@ -27,31 +27,33 @@ class ResPartnerRazonsocial(models.Model):
     _name = 'res.partner'
     _inherit = 'res.partner'
 
-    @api.v8
-    @api.depends('is_company')
-    def _get_fucking_company(self):
-        self.is_company
-
-    is_comp = fields.Boolean(compute='_get_fucking_company')
-
     state = fields.Selection(
-        (('person', 'Person'), ('company', 'Company')),
-        default='company', readonly=True, invisible=True, copy=False)
-        # https://github.com/odoo/odoo/issues/1567
-    legal_denomination = fields.Char()
-    legal_entity_name = fields.Char(states={'person': [('invisible', True)]})
-    firstname = fields.Char(states={'company': [('invisible', True)]})
-    middlename = fields.Char(states={'company': [('invisible', True)]})
-    first_lastname = fields.Char(states={'company': [('invisible', True)]})
-    second_lastname = fields.Char(states={'company': [('invisible', True)]})
+        (('pernat', 'Persona Natural'), ('perjur', 'Persona Juridica')),
+        default='perjur', copy=False)
+    legal_denomination = fields.Char(compute='_copy_values')
+    legal_entity_name = fields.Char(
+        required=True,
+        states={'pernat': [('invisible', True),('required', False)]}
+    )
+    firstname = fields.Char(
+        required=True,
+        states={'perjur': [('invisible', True),('required', False)]}
+    )
+    middlename = fields.Char(
+        required=True,
+        states={'perjur': [('invisible', True),('required', False)]}
+    )
+    first_lastname = fields.Char(
+        required=True,
+        states={'perjur': [('invisible', True),('required', False)]}
+    )
+    second_lastname = fields.Char(
+        required=True,
+        states={'perjur': [('invisible', True,('required', False))]}
+    )
 
     @api.v8
-    @api.onchange('is_comp')
-    def _set_state(self):
-        self.state = self.is_company and ('company', 'Company') or 'person'
-
-    @api.v8
-    @api.onchange(
+    @api.depends(
         'legal_entity_name',
         'firstname',
         'middlename',
@@ -59,9 +61,9 @@ class ResPartnerRazonsocial(models.Model):
         'second_lastname'
     )
     def _copy_values(self):
-        if self.is_company:
+        if self.state = 'perjur':
             self.legal_denomination = self.legal_entity_name
-        if not self.is_company:
+        else:
             s1 = self.firstname and self.firstname + ' ' or ''
             s2 = self.middlename and self.middlename + ' ' or ''
             s3 = self.first_lastname and self.first_lastname + ' ' or ''
