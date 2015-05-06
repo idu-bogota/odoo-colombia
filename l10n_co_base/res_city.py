@@ -29,7 +29,7 @@
 from openerp import models, fields
 
 
-class ResCity(models.Model):
+class res_city(models.Model):
     _name = 'res.country.state.city'
     _description = 'Ciudad'
 
@@ -55,4 +55,45 @@ class ResCity(models.Model):
         related='state_id.country_id',
         store=True,
         readonly=True,
+    )
+
+
+class res_city_district(models.Model):
+    _name = 'res.country.state.city.district'
+    _description = 'Distrito/Localidad/Comuna'
+
+    name = fields.Char(
+        string='Name',
+        required=True,
+    )
+    code = fields.Char(
+        string='Code',
+        size=30,
+    )
+    city_id = fields.Many2one(
+        'res.country.state.city',
+        string='City',
+    )
+
+
+class res_city_neighborhood(models.Model):
+    _name = 'res.country.state.city.neighborhood'
+    _description = 'neighborhood'
+
+    name = fields.Char(
+        string='Neighborhood',
+        required=True,
+    )
+    code = fields.Char(
+        string='Code',
+        size=30,
+    )
+    city_id = fields.Many2one(
+        'res.country.state.city',
+        string='City',
+        required=True,
+    )
+    district_id = fields.Many2one(
+        'res.country.state.city.district',
+        string='Distrito/Localidad/Comuna',
     )
