@@ -7,6 +7,7 @@
 #               Juan Pablo Aries (devCO)
 #               Luis Miguel Varon
 #               Hector Ivan Valencia (TIX)
+#               Cinxgler Mariaca Minda
 #
 # Collaborators Nhomar Hernandez (Vauxoo)
 #
@@ -25,4 +26,5 @@
 #
 ##############################################################################
 
+from . import res_city
 from . import res_partner
