@@ -1,0 +1,5 @@
+*.ṕyc
+*~
+.project
+.pydevproject
+.settings/
