@@ -1,0 +1,23 @@
+id,city_id/id,code,name
+localidad_1,l10n_co_base.city_11001,1,USAQUEN
+localidad_2,l10n_co_base.city_11001,2,CHAPINERO
+localidad_3,l10n_co_base.city_11001,3,SANTA FE
+localidad_4,l10n_co_base.city_11001,4,SAN CRISTOBAL
+localidad_5,l10n_co_base.city_11001,5,USME
+localidad_6,l10n_co_base.city_11001,6,TUNJUELITO
+localidad_7,l10n_co_base.city_11001,7,BOSA
+localidad_8,l10n_co_base.city_11001,8,KENNEDY
+localidad_9,l10n_co_base.city_11001,9,FONTIBON
+localidad_10,l10n_co_base.city_11001,10,ENGATIVA
+localidad_11,l10n_co_base.city_11001,11,SUBA
+localidad_12,l10n_co_base.city_11001,12,BARRIOS UNIDOS
+localidad_13,l10n_co_base.city_11001,13,TEUSAQUILLO
+localidad_14,l10n_co_base.city_11001,14,LOS MARTIRES
+localidad_15,l10n_co_base.city_11001,15,ANTONIO NARIÑO
+localidad_16,l10n_co_base.city_11001,16,PUENTE ARANDA
+localidad_17,l10n_co_base.city_11001,17,CANDELARIA
+localidad_18,l10n_co_base.city_11001,18,RAFAEL URIBE URIBE
+localidad_19,l10n_co_base.city_11001,19,CIUDAD BOLIVAR
+localidad_20,l10n_co_base.city_11001,20,SUMAPAZ
+localidad_21,,0,FUERA DE BOGOTÁ
+localidad_22,,N/A,No Aplica
