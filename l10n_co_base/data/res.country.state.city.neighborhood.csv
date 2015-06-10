@@ -1,360 +1,360 @@
 id,city_id/id,district_id/id,name,code
-barrio_1,l10n_co_base.city_11001,localidad_1,MIRADOR DEL NORTE II,008545
+barrio_1,l10n_co_base.city_11001,localidad_1,MIRADOR DEL NORTE II,8545
 barrio_2,l10n_co_base.city_11001,localidad_1,TIBABITA RURAL I,108111
-barrio_3,l10n_co_base.city_11001,localidad_1,HORIZONTES NORTE,008533
+barrio_3,l10n_co_base.city_11001,localidad_1,HORIZONTES NORTE,8533
 barrio_4,l10n_co_base.city_11001,localidad_1,LA ESTRELLITA,208203
-barrio_5,l10n_co_base.city_11001,localidad_1,NUEVA ZELANDIA,009120
-barrio_6,l10n_co_base.city_11001,localidad_1,VILLA DEL PRADO,009129
+barrio_5,l10n_co_base.city_11001,localidad_1,NUEVA ZELANDIA,9120
+barrio_6,l10n_co_base.city_11001,localidad_1,VILLA DEL PRADO,9129
 barrio_7,l10n_co_base.city_11001,localidad_1,BARRANCAS ORIENTAL,108103
-barrio_8,l10n_co_base.city_11001,localidad_1,LA URIBE,008525
-barrio_9,l10n_co_base.city_11001,localidad_1,EL REDIL,008532
-barrio_10,l10n_co_base.city_11001,localidad_1,BRITALIA,009102
-barrio_11,l10n_co_base.city_11001,localidad_1,LA GRANJA NORTE,008524
-barrio_12,l10n_co_base.city_11001,localidad_1,GRANADA NORTE,009101
-barrio_13,l10n_co_base.city_11001,localidad_1,EL TOBERIN,008501
-barrio_14,l10n_co_base.city_11001,localidad_1,SAN JOSE DE USAQUEN,008529
-barrio_15,l10n_co_base.city_11001,localidad_1,EL CEREZO,008527
-barrio_16,l10n_co_base.city_11001,localidad_1,EL ROCIO NORTE,008522
-barrio_17,l10n_co_base.city_11001,localidad_1,LA ESTRELLITA III,008547
-barrio_18,l10n_co_base.city_11001,localidad_1,SAN ANTONIO NORTE,008523
-barrio_19,l10n_co_base.city_11001,localidad_1,SAN ANTONIO NOROCCIDENTAL,008528
-barrio_20,l10n_co_base.city_11001,localidad_1,CASABLANCA SUBA URBANO,009136
-barrio_21,l10n_co_base.city_11001,localidad_1,TORCA I,008539
+barrio_8,l10n_co_base.city_11001,localidad_1,LA URIBE,8525
+barrio_9,l10n_co_base.city_11001,localidad_1,EL REDIL,8532
+barrio_10,l10n_co_base.city_11001,localidad_1,BRITALIA,9102
+barrio_11,l10n_co_base.city_11001,localidad_1,LA GRANJA NORTE,8524
+barrio_12,l10n_co_base.city_11001,localidad_1,GRANADA NORTE,9101
+barrio_13,l10n_co_base.city_11001,localidad_1,EL TOBERIN,8501
+barrio_14,l10n_co_base.city_11001,localidad_1,SAN JOSE DE USAQUEN,8529
+barrio_15,l10n_co_base.city_11001,localidad_1,EL CEREZO,8527
+barrio_16,l10n_co_base.city_11001,localidad_1,EL ROCIO NORTE,8522
+barrio_17,l10n_co_base.city_11001,localidad_1,LA ESTRELLITA III,8547
+barrio_18,l10n_co_base.city_11001,localidad_1,SAN ANTONIO NORTE,8523
+barrio_19,l10n_co_base.city_11001,localidad_1,SAN ANTONIO NOROCCIDENTAL,8528
+barrio_20,l10n_co_base.city_11001,localidad_1,CASABLANCA SUBA URBANO,9136
+barrio_21,l10n_co_base.city_11001,localidad_1,TORCA I,8539
 barrio_22,l10n_co_base.city_11001,localidad_1,TORCA RURAL I,108101
-barrio_23,l10n_co_base.city_11001,localidad_1,TORCA II,008541
-barrio_24,l10n_co_base.city_11001,localidad_1,VERBENAL SAN ANTONIO,008537
+barrio_23,l10n_co_base.city_11001,localidad_1,TORCA II,8541
+barrio_24,l10n_co_base.city_11001,localidad_1,VERBENAL SAN ANTONIO,8537
 barrio_25,l10n_co_base.city_11001,localidad_1,TORCA RURAL II,108110
-barrio_26,l10n_co_base.city_11001,localidad_1,MIRANDELA,009133
+barrio_26,l10n_co_base.city_11001,localidad_1,MIRANDELA,9133
 barrio_27,l10n_co_base.city_11001,localidad_1,TIBABITA RURAL,108102
-barrio_28,l10n_co_base.city_11001,localidad_1,CANAIMA,008544
-barrio_29,l10n_co_base.city_11001,localidad_1,TIBABITA,008521
-barrio_30,l10n_co_base.city_11001,localidad_1,BUENAVISTA,008535
-barrio_31,l10n_co_base.city_11001,localidad_1,TIBABITA I,008542
-barrio_32,l10n_co_base.city_11001,localidad_1,LA ESTRELLITA II,008546
-barrio_33,l10n_co_base.city_11001,localidad_1,LA ESTRELLITA I,008540
-barrio_34,l10n_co_base.city_11001,localidad_1,EL VERVENAL,008526
-barrio_35,l10n_co_base.city_11001,localidad_1,BOSQUE DE PINOS I,008536
-barrio_36,l10n_co_base.city_11001,localidad_1,PRADO VERANIEGO,009107
-barrio_37,l10n_co_base.city_11001,localidad_1,MOLINOS NORTE,008416
-barrio_38,l10n_co_base.city_11001,localidad_1,LISBOA,008513
-barrio_39,l10n_co_base.city_11001,localidad_1,LA CALLEJA,008401
-barrio_40,l10n_co_base.city_11001,localidad_1,SANTA ANA OCCIDENTAL,008414
-barrio_41,l10n_co_base.city_11001,localidad_1,SANTA BIBIANA,008412
-barrio_42,l10n_co_base.city_11001,localidad_1,LA PRADERA NORTE,008502
+barrio_28,l10n_co_base.city_11001,localidad_1,CANAIMA,8544
+barrio_29,l10n_co_base.city_11001,localidad_1,TIBABITA,8521
+barrio_30,l10n_co_base.city_11001,localidad_1,BUENAVISTA,8535
+barrio_31,l10n_co_base.city_11001,localidad_1,TIBABITA I,8542
+barrio_32,l10n_co_base.city_11001,localidad_1,LA ESTRELLITA II,8546
+barrio_33,l10n_co_base.city_11001,localidad_1,LA ESTRELLITA I,8540
+barrio_34,l10n_co_base.city_11001,localidad_1,EL VERVENAL,8526
+barrio_35,l10n_co_base.city_11001,localidad_1,BOSQUE DE PINOS I,8536
+barrio_36,l10n_co_base.city_11001,localidad_1,PRADO VERANIEGO,9107
+barrio_37,l10n_co_base.city_11001,localidad_1,MOLINOS NORTE,8416
+barrio_38,l10n_co_base.city_11001,localidad_1,LISBOA,8513
+barrio_39,l10n_co_base.city_11001,localidad_1,LA CALLEJA,8401
+barrio_40,l10n_co_base.city_11001,localidad_1,SANTA ANA OCCIDENTAL,8414
+barrio_41,l10n_co_base.city_11001,localidad_1,SANTA BIBIANA,8412
+barrio_42,l10n_co_base.city_11001,localidad_1,LA PRADERA NORTE,8502
 barrio_43,l10n_co_base.city_11001,localidad_1,PARAMO,108104
-barrio_44,l10n_co_base.city_11001,localidad_1,COUNTRY CLUB,008402
-barrio_45,l10n_co_base.city_11001,localidad_1,CANODROMO,009130
-barrio_46,l10n_co_base.city_11001,localidad_1,SANTA ANA,008408
-barrio_47,l10n_co_base.city_11001,localidad_1,RINCON DEL CHICO,008411
-barrio_48,l10n_co_base.city_11001,localidad_1,SANTA TERESA,008503
-barrio_49,l10n_co_base.city_11001,localidad_1,CANTAGALLO,009103
-barrio_50,l10n_co_base.city_11001,localidad_1,LAS ORQUIDEAS,008516
-barrio_51,l10n_co_base.city_11001,localidad_1,ESCUELA DE INFANTERIA,008410
-barrio_52,l10n_co_base.city_11001,localidad_1,CHICO NORTE III SECTOR,008315
-barrio_53,l10n_co_base.city_11001,localidad_1,ESCUELA DE CABALLERIA I,008409
-barrio_54,l10n_co_base.city_11001,localidad_1,LA CITA,008504
-barrio_55,l10n_co_base.city_11001,localidad_1,CHICO NORTE II SECTOR,008301
-barrio_56,l10n_co_base.city_11001,localidad_1,BELLA SUIZA,008404
-barrio_57,l10n_co_base.city_11001,localidad_1,LA CAROLINA,008403
-barrio_58,l10n_co_base.city_11001,localidad_1,SEGUNDO CONTADOR,008424
+barrio_44,l10n_co_base.city_11001,localidad_1,COUNTRY CLUB,8402
+barrio_45,l10n_co_base.city_11001,localidad_1,CANODROMO,9130
+barrio_46,l10n_co_base.city_11001,localidad_1,SANTA ANA,8408
+barrio_47,l10n_co_base.city_11001,localidad_1,RINCON DEL CHICO,8411
+barrio_48,l10n_co_base.city_11001,localidad_1,SANTA TERESA,8503
+barrio_49,l10n_co_base.city_11001,localidad_1,CANTAGALLO,9103
+barrio_50,l10n_co_base.city_11001,localidad_1,LAS ORQUIDEAS,8516
+barrio_51,l10n_co_base.city_11001,localidad_1,ESCUELA DE INFANTERIA,8410
+barrio_52,l10n_co_base.city_11001,localidad_1,CHICO NORTE III SECTOR,8315
+barrio_53,l10n_co_base.city_11001,localidad_1,ESCUELA DE CABALLERIA I,8409
+barrio_54,l10n_co_base.city_11001,localidad_1,LA CITA,8504
+barrio_55,l10n_co_base.city_11001,localidad_1,CHICO NORTE II SECTOR,8301
+barrio_56,l10n_co_base.city_11001,localidad_1,BELLA SUIZA,8404
+barrio_57,l10n_co_base.city_11001,localidad_1,LA CAROLINA,8403
+barrio_58,l10n_co_base.city_11001,localidad_1,SEGUNDO CONTADOR,8424
 barrio_59,l10n_co_base.city_11001,localidad_1,PARAMO III RURAL,108114
-barrio_60,l10n_co_base.city_11001,localidad_1,ESCUELA DE CABALLERIA II,008419
-barrio_61,l10n_co_base.city_11001,localidad_1,SAN CRISTOBAL NORTE,008505
-barrio_62,l10n_co_base.city_11001,localidad_1,ESTRELLA DEL NORTE,008519
-barrio_63,l10n_co_base.city_11001,localidad_1,MAZUREN,009110
-barrio_64,l10n_co_base.city_11001,localidad_1,GINEBRA,008405
-barrio_65,l10n_co_base.city_11001,localidad_1,BATAN,009118
-barrio_66,l10n_co_base.city_11001,localidad_1,BOSQUE DE PINOS,008520
-barrio_67,l10n_co_base.city_11001,localidad_1,LA LIBERIA,008517
-barrio_68,l10n_co_base.city_11001,localidad_1,SANTA BARBARA OCCIDENTAL,008417
-barrio_69,l10n_co_base.city_11001,localidad_1,SEMINARIO,008302
-barrio_70,l10n_co_base.city_11001,localidad_1,LOS CEDROS,008515
-barrio_71,l10n_co_base.city_11001,localidad_1,LAS MARGARITAS,008530
-barrio_72,l10n_co_base.city_11001,localidad_1,BARRANCAS NORTE,008506
-barrio_73,l10n_co_base.city_11001,localidad_1,GINEBRA II,008425
-barrio_74,l10n_co_base.city_11001,localidad_1,CAOBOS SALAZAR,008518
-barrio_75,l10n_co_base.city_11001,localidad_1,SAN GABRIEL NORTE,008406
-barrio_76,l10n_co_base.city_11001,localidad_1,SANTA CECILIA NORTE,008543
-barrio_77,l10n_co_base.city_11001,localidad_1,PARAMO URBANO I,008420
+barrio_60,l10n_co_base.city_11001,localidad_1,ESCUELA DE CABALLERIA II,8419
+barrio_61,l10n_co_base.city_11001,localidad_1,SAN CRISTOBAL NORTE,8505
+barrio_62,l10n_co_base.city_11001,localidad_1,ESTRELLA DEL NORTE,8519
+barrio_63,l10n_co_base.city_11001,localidad_1,MAZUREN,9110
+barrio_64,l10n_co_base.city_11001,localidad_1,GINEBRA,8405
+barrio_65,l10n_co_base.city_11001,localidad_1,BATAN,9118
+barrio_66,l10n_co_base.city_11001,localidad_1,BOSQUE DE PINOS,8520
+barrio_67,l10n_co_base.city_11001,localidad_1,LA LIBERIA,8517
+barrio_68,l10n_co_base.city_11001,localidad_1,SANTA BARBARA OCCIDENTAL,8417
+barrio_69,l10n_co_base.city_11001,localidad_1,SEMINARIO,8302
+barrio_70,l10n_co_base.city_11001,localidad_1,LOS CEDROS,8515
+barrio_71,l10n_co_base.city_11001,localidad_1,LAS MARGARITAS,8530
+barrio_72,l10n_co_base.city_11001,localidad_1,BARRANCAS NORTE,8506
+barrio_73,l10n_co_base.city_11001,localidad_1,GINEBRA II,8425
+barrio_74,l10n_co_base.city_11001,localidad_1,CAOBOS SALAZAR,8518
+barrio_75,l10n_co_base.city_11001,localidad_1,SAN GABRIEL NORTE,8406
+barrio_76,l10n_co_base.city_11001,localidad_1,SANTA CECILIA NORTE,8543
+barrio_77,l10n_co_base.city_11001,localidad_1,PARAMO URBANO I,8420
 barrio_78,l10n_co_base.city_11001,localidad_1,PARAMO URBANO,208104
-barrio_79,l10n_co_base.city_11001,localidad_1,MONACO,009111
-barrio_80,l10n_co_base.city_11001,localidad_1,VICTORIA NORTE,009104
-barrio_81,l10n_co_base.city_11001,localidad_1,BARRANCAS,008507
-barrio_82,l10n_co_base.city_11001,localidad_1,SANTA BARBARA CENTRAL,008415
+barrio_79,l10n_co_base.city_11001,localidad_1,MONACO,9111
+barrio_80,l10n_co_base.city_11001,localidad_1,VICTORIA NORTE,9104
+barrio_81,l10n_co_base.city_11001,localidad_1,BARRANCAS,8507
+barrio_82,l10n_co_base.city_11001,localidad_1,SANTA BARBARA CENTRAL,8415
 barrio_83,l10n_co_base.city_11001,localidad_1,PARAMO IV,208101
-barrio_84,l10n_co_base.city_11001,localidad_1,BOSQUE DE PINOS III,008538
-barrio_85,l10n_co_base.city_11001,localidad_1,SANTA BARBARA ORIENTAL,008413
+barrio_84,l10n_co_base.city_11001,localidad_1,BOSQUE DE PINOS III,8538
+barrio_85,l10n_co_base.city_11001,localidad_1,SANTA BARBARA ORIENTAL,8413
 barrio_86,l10n_co_base.city_11001,localidad_1,BOSQUE DE PINOS III RURAL,108113
-barrio_87,l10n_co_base.city_11001,localidad_1,SAN ISIDRO,008317
-barrio_88,l10n_co_base.city_11001,localidad_1,PRADO PINZON,009105
-barrio_89,l10n_co_base.city_11001,localidad_1,CEDRO SALAZAR,008508
-barrio_90,l10n_co_base.city_11001,localidad_1,SAN GABRIEL NORTE II,008426
-barrio_91,l10n_co_base.city_11001,localidad_1,PARAMO URBANO III,008422
-barrio_92,l10n_co_base.city_11001,localidad_1,SAN JOSE DEL PRADO,009106
-barrio_93,l10n_co_base.city_11001,localidad_1,ACACIAS USAQUEN,008510
+barrio_87,l10n_co_base.city_11001,localidad_1,SAN ISIDRO,8317
+barrio_88,l10n_co_base.city_11001,localidad_1,PRADO PINZON,9105
+barrio_89,l10n_co_base.city_11001,localidad_1,CEDRO SALAZAR,8508
+barrio_90,l10n_co_base.city_11001,localidad_1,SAN GABRIEL NORTE II,8426
+barrio_91,l10n_co_base.city_11001,localidad_1,PARAMO URBANO III,8422
+barrio_92,l10n_co_base.city_11001,localidad_1,SAN JOSE DEL PRADO,9106
+barrio_93,l10n_co_base.city_11001,localidad_1,ACACIAS USAQUEN,8510
 barrio_94,l10n_co_base.city_11001,localidad_1,PARAMO II RURAL,108112
-barrio_95,l10n_co_base.city_11001,localidad_1,SAN PATRICIO,008418
-barrio_96,l10n_co_base.city_11001,localidad_1,CEDRITOS,008512
-barrio_97,l10n_co_base.city_11001,localidad_1,CEDRO NARVAEZ,008511
-barrio_98,l10n_co_base.city_11001,localidad_1,EL CONTADOR,008514
-barrio_99,l10n_co_base.city_11001,localidad_1,LOS CEDROS ORIENTAL,008509
-barrio_100,l10n_co_base.city_11001,localidad_1,USAQUEN,008407
-barrio_101,l10n_co_base.city_11001,localidad_1,ESTORIL,009126
+barrio_95,l10n_co_base.city_11001,localidad_1,SAN PATRICIO,8418
+barrio_96,l10n_co_base.city_11001,localidad_1,CEDRITOS,8512
+barrio_97,l10n_co_base.city_11001,localidad_1,CEDRO NARVAEZ,8511
+barrio_98,l10n_co_base.city_11001,localidad_1,EL CONTADOR,8514
+barrio_99,l10n_co_base.city_11001,localidad_1,LOS CEDROS ORIENTAL,8509
+barrio_100,l10n_co_base.city_11001,localidad_1,USAQUEN,8407
+barrio_101,l10n_co_base.city_11001,localidad_1,ESTORIL,9126
 barrio_102,l10n_co_base.city_11001,localidad_2,SIBERIA,101502
-barrio_103,l10n_co_base.city_11001,localidad_2,QUESADA,007204
-barrio_104,l10n_co_base.city_11001,localidad_2,INGEMAR,008215
-barrio_105,l10n_co_base.city_11001,localidad_2,MARLY,008212
-barrio_106,l10n_co_base.city_11001,localidad_2,PARDO RUBIO,008208
-barrio_107,l10n_co_base.city_11001,localidad_2,PARQUE NACIONAL,008102
+barrio_103,l10n_co_base.city_11001,localidad_2,QUESADA,7204
+barrio_104,l10n_co_base.city_11001,localidad_2,INGEMAR,8215
+barrio_105,l10n_co_base.city_11001,localidad_2,MARLY,8212
+barrio_106,l10n_co_base.city_11001,localidad_2,PARDO RUBIO,8208
+barrio_107,l10n_co_base.city_11001,localidad_2,PARQUE NACIONAL,8102
 barrio_108,l10n_co_base.city_11001,localidad_2,PARQUE NACIONAL ORIENTAL,101405
 barrio_109,l10n_co_base.city_11001,localidad_2,SIBERIA RURAL,201502
-barrio_110,l10n_co_base.city_11001,localidad_2,PALERMO,007205
+barrio_110,l10n_co_base.city_11001,localidad_2,PALERMO,7205
 barrio_111,l10n_co_base.city_11001,localidad_2,SIBERIA RURAL II,201503
-barrio_112,l10n_co_base.city_11001,localidad_2,SIBERIA CENTRAL,008220
+barrio_112,l10n_co_base.city_11001,localidad_2,SIBERIA CENTRAL,8220
 barrio_113,l10n_co_base.city_11001,localidad_2,PARDO RUBIO RURAL,201509
-barrio_114,l10n_co_base.city_11001,localidad_2,SANTA TERESITA,007102
-barrio_115,l10n_co_base.city_11001,localidad_2,SUCRE,008112
-barrio_116,l10n_co_base.city_11001,localidad_2,CATALUNA,008111
-barrio_117,l10n_co_base.city_11001,localidad_2,LA MAGDALENA,007103
-barrio_118,l10n_co_base.city_11001,localidad_2,EL PARAISO,008110
-barrio_119,l10n_co_base.city_11001,localidad_2,SAGRADO CORAZON,008101
-barrio_120,l10n_co_base.city_11001,localidad_2,INGEMAR ORIENTAL,008218
-barrio_121,l10n_co_base.city_11001,localidad_2,CHAPINERO CENTRAL,008213
+barrio_114,l10n_co_base.city_11001,localidad_2,SANTA TERESITA,7102
+barrio_115,l10n_co_base.city_11001,localidad_2,SUCRE,8112
+barrio_116,l10n_co_base.city_11001,localidad_2,CATALUNA,8111
+barrio_117,l10n_co_base.city_11001,localidad_2,LA MAGDALENA,7103
+barrio_118,l10n_co_base.city_11001,localidad_2,EL PARAISO,8110
+barrio_119,l10n_co_base.city_11001,localidad_2,SAGRADO CORAZON,8101
+barrio_120,l10n_co_base.city_11001,localidad_2,INGEMAR ORIENTAL,8218
+barrio_121,l10n_co_base.city_11001,localidad_2,CHAPINERO CENTRAL,8213
 barrio_122,l10n_co_base.city_11001,localidad_2,INGEMAR ORIENTAL RURAL,101103
-barrio_123,l10n_co_base.city_11001,localidad_2,CONCEPCION NORTE,007304
-barrio_124,l10n_co_base.city_11001,localidad_2,MARIA CRISTINA,008205
-barrio_125,l10n_co_base.city_11001,localidad_2,JUAN XXIII,008211
+barrio_123,l10n_co_base.city_11001,localidad_2,CONCEPCION NORTE,7304
+barrio_124,l10n_co_base.city_11001,localidad_2,MARIA CRISTINA,8205
+barrio_125,l10n_co_base.city_11001,localidad_2,JUAN XXIII,8211
 barrio_126,l10n_co_base.city_11001,localidad_2,HOYA TEUSACA,101201
-barrio_127,l10n_co_base.city_11001,localidad_2,LA SALLE,008206
-barrio_128,l10n_co_base.city_11001,localidad_2,BOSQUE CALDERON,008207
-barrio_129,l10n_co_base.city_11001,localidad_2,QUINTA CAMACHO,008201
-barrio_130,l10n_co_base.city_11001,localidad_2,BELLAVISTA,008305
-barrio_131,l10n_co_base.city_11001,localidad_2,EL BAGAZAL,008319
-barrio_132,l10n_co_base.city_11001,localidad_2,LA ESPERANZA,007305
-barrio_133,l10n_co_base.city_11001,localidad_2,EMAUS,008202
-barrio_134,l10n_co_base.city_11001,localidad_2,CHAPINERO NORTE,008214
-barrio_135,l10n_co_base.city_11001,localidad_2,GRANADA,008204
-barrio_136,l10n_co_base.city_11001,localidad_2,CHAPINERO OCCIDENTAL,007203
+barrio_127,l10n_co_base.city_11001,localidad_2,LA SALLE,8206
+barrio_128,l10n_co_base.city_11001,localidad_2,BOSQUE CALDERON,8207
+barrio_129,l10n_co_base.city_11001,localidad_2,QUINTA CAMACHO,8201
+barrio_130,l10n_co_base.city_11001,localidad_2,BELLAVISTA,8305
+barrio_131,l10n_co_base.city_11001,localidad_2,EL BAGAZAL,8319
+barrio_132,l10n_co_base.city_11001,localidad_2,LA ESPERANZA,7305
+barrio_133,l10n_co_base.city_11001,localidad_2,EMAUS,8202
+barrio_134,l10n_co_base.city_11001,localidad_2,CHAPINERO NORTE,8214
+barrio_135,l10n_co_base.city_11001,localidad_2,GRANADA,8204
+barrio_136,l10n_co_base.city_11001,localidad_2,CHAPINERO OCCIDENTAL,7203
 barrio_137,l10n_co_base.city_11001,localidad_2,PARAMO,108104
-barrio_138,l10n_co_base.city_11001,localidad_2,LAS ACACIAS,008203
-barrio_139,l10n_co_base.city_11001,localidad_2,LA CASTELLANA,005304
-barrio_140,l10n_co_base.city_11001,localidad_2,ESCUELA DE INFANTERIA,008410
-barrio_141,l10n_co_base.city_11001,localidad_2,CHICO NORTE III SECTOR,008315
-barrio_142,l10n_co_base.city_11001,localidad_2,CHICO NORTE II SECTOR,008301
+barrio_138,l10n_co_base.city_11001,localidad_2,LAS ACACIAS,8203
+barrio_139,l10n_co_base.city_11001,localidad_2,LA CASTELLANA,5304
+barrio_140,l10n_co_base.city_11001,localidad_2,ESCUELA DE INFANTERIA,8410
+barrio_141,l10n_co_base.city_11001,localidad_2,CHICO NORTE III SECTOR,8315
+barrio_142,l10n_co_base.city_11001,localidad_2,CHICO NORTE II SECTOR,8301
 barrio_143,l10n_co_base.city_11001,localidad_2,PARAMO III RURAL,108114
-barrio_144,l10n_co_base.city_11001,localidad_2,CHICO NORTE,008307
-barrio_145,l10n_co_base.city_11001,localidad_2,SEMINARIO,008302
-barrio_146,l10n_co_base.city_11001,localidad_2,EL CHICO,008308
-barrio_147,l10n_co_base.city_11001,localidad_2,POLO CLUB,007401
+barrio_144,l10n_co_base.city_11001,localidad_2,CHICO NORTE,8307
+barrio_145,l10n_co_base.city_11001,localidad_2,SEMINARIO,8302
+barrio_146,l10n_co_base.city_11001,localidad_2,EL CHICO,8308
+barrio_147,l10n_co_base.city_11001,localidad_2,POLO CLUB,7401
 barrio_148,l10n_co_base.city_11001,localidad_2,PARAMO I,108109
 barrio_149,l10n_co_base.city_11001,localidad_2,PARAMO URBANO,208104
-barrio_150,l10n_co_base.city_11001,localidad_2,ANTIGUO COUNTRY,008314
-barrio_151,l10n_co_base.city_11001,localidad_2,SAN LUIS ALTOS DEL CABO,008316
-barrio_152,l10n_co_base.city_11001,localidad_2,LA CABRERA,008309
+barrio_150,l10n_co_base.city_11001,localidad_2,ANTIGUO COUNTRY,8314
+barrio_151,l10n_co_base.city_11001,localidad_2,SAN LUIS ALTOS DEL CABO,8316
+barrio_152,l10n_co_base.city_11001,localidad_2,LA CABRERA,8309
 barrio_153,l10n_co_base.city_11001,localidad_2,PARAMO I RURAL,101110
 barrio_154,l10n_co_base.city_11001,localidad_2,PARAMO IV,208101
-barrio_155,l10n_co_base.city_11001,localidad_2,EL REFUGIO,008303
-barrio_156,l10n_co_base.city_11001,localidad_2,SAN ISIDRO,008317
-barrio_157,l10n_co_base.city_11001,localidad_2,PORCIUNCULA,008306
-barrio_158,l10n_co_base.city_11001,localidad_2,JUAN XXIII,007402
-barrio_159,l10n_co_base.city_11001,localidad_2,EL RETIRO,008310
-barrio_160,l10n_co_base.city_11001,localidad_2,LAGO GAITAN,008313
+barrio_155,l10n_co_base.city_11001,localidad_2,EL REFUGIO,8303
+barrio_156,l10n_co_base.city_11001,localidad_2,SAN ISIDRO,8317
+barrio_157,l10n_co_base.city_11001,localidad_2,PORCIUNCULA,8306
+barrio_158,l10n_co_base.city_11001,localidad_2,JUAN XXIII,7402
+barrio_159,l10n_co_base.city_11001,localidad_2,EL RETIRO,8310
+barrio_160,l10n_co_base.city_11001,localidad_2,LAGO GAITAN,8313
 barrio_161,l10n_co_base.city_11001,localidad_2,EL BAGAZAL,101101
-barrio_162,l10n_co_base.city_11001,localidad_2,PARAMO URBANO III,008422
-barrio_163,l10n_co_base.city_11001,localidad_2,ESPARTILLAL,008312
+barrio_162,l10n_co_base.city_11001,localidad_2,PARAMO URBANO III,8422
+barrio_163,l10n_co_base.city_11001,localidad_2,ESPARTILLAL,8312
 barrio_164,l10n_co_base.city_11001,localidad_2,LA ESPERANZA,208107
-barrio_165,l10n_co_base.city_11001,localidad_2,EL NOGAL,008311
+barrio_165,l10n_co_base.city_11001,localidad_2,EL NOGAL,8311
 barrio_166,l10n_co_base.city_11001,localidad_2,SAN ISIDRO RURAL,208108
-barrio_167,l10n_co_base.city_11001,localidad_2,SAN FELIPE,007403
+barrio_167,l10n_co_base.city_11001,localidad_2,SAN FELIPE,7403
 barrio_168,l10n_co_base.city_11001,localidad_2,PARAMO II,108108
-barrio_169,l10n_co_base.city_11001,localidad_2,LOS ROSALES,008304
+barrio_169,l10n_co_base.city_11001,localidad_2,LOS ROSALES,8304
 barrio_170,l10n_co_base.city_11001,localidad_2,EL REFUGIO II,201108
-barrio_171,l10n_co_base.city_11001,localidad_2,ESTORIL,009126
-barrio_172,l10n_co_base.city_11001,localidad_2,SIBERIA,008221
+barrio_171,l10n_co_base.city_11001,localidad_2,ESTORIL,9126
+barrio_172,l10n_co_base.city_11001,localidad_2,SIBERIA,8221
 barrio_173,l10n_co_base.city_11001,localidad_3,SIBERIA,101502
-barrio_174,l10n_co_base.city_11001,localidad_3,ARMENIA,007105
-barrio_175,l10n_co_base.city_11001,localidad_3,PARQUE NACIONAL,008102
-barrio_176,l10n_co_base.city_11001,localidad_3,TEUSAQUILLO,007104
+barrio_174,l10n_co_base.city_11001,localidad_3,ARMENIA,7105
+barrio_175,l10n_co_base.city_11001,localidad_3,PARQUE NACIONAL,8102
+barrio_176,l10n_co_base.city_11001,localidad_3,TEUSAQUILLO,7104
 barrio_177,l10n_co_base.city_11001,localidad_3,PARQUE NACIONAL ORIENTAL,101405
-barrio_178,l10n_co_base.city_11001,localidad_3,LA MERCED,008103
-barrio_179,l10n_co_base.city_11001,localidad_3,SAMPER,008108
-barrio_180,l10n_co_base.city_11001,localidad_3,SUCRE,008112
-barrio_181,l10n_co_base.city_11001,localidad_3,LA MAGDALENA,007103
-barrio_182,l10n_co_base.city_11001,localidad_3,SAGRADO CORAZON,008101
+barrio_178,l10n_co_base.city_11001,localidad_3,LA MERCED,8103
+barrio_179,l10n_co_base.city_11001,localidad_3,SAMPER,8108
+barrio_180,l10n_co_base.city_11001,localidad_3,SUCRE,8112
+barrio_181,l10n_co_base.city_11001,localidad_3,LA MAGDALENA,7103
+barrio_182,l10n_co_base.city_11001,localidad_3,SAGRADO CORAZON,8101
 barrio_183,l10n_co_base.city_11001,localidad_3,HOYA TEUSACA,101201
-barrio_184,l10n_co_base.city_11001,localidad_3,SANTA FE,006103
-barrio_185,l10n_co_base.city_11001,localidad_3,LA PERSEVERANCIA,008104
-barrio_186,l10n_co_base.city_11001,localidad_3,SAN MARTIN,008109
-barrio_187,l10n_co_base.city_11001,localidad_3,VOTO NACIONAL,004103
-barrio_188,l10n_co_base.city_11001,localidad_3,LA ALAMEDA,003101
-barrio_189,l10n_co_base.city_11001,localidad_3,LA FAVORITA,006104
-barrio_190,l10n_co_base.city_11001,localidad_3,LAS NIEVES,003102
-barrio_191,l10n_co_base.city_11001,localidad_3,EL DORADO,003209
-barrio_192,l10n_co_base.city_11001,localidad_3,BUENOS AIRES,001102
-barrio_193,l10n_co_base.city_11001,localidad_3,SAN VICTORINO,006105
-barrio_194,l10n_co_base.city_11001,localidad_3,BOSQUE IZQUIERDO,008106
-barrio_195,l10n_co_base.city_11001,localidad_3,LAS AGUAS,003103
-barrio_196,l10n_co_base.city_11001,localidad_3,LA CAPUCHINA,003108
-barrio_197,l10n_co_base.city_11001,localidad_3,VITELMA,001103
-barrio_198,l10n_co_base.city_11001,localidad_3,VERACRUZ,003109
-barrio_199,l10n_co_base.city_11001,localidad_3,LA ESTANZUELA,004104
+barrio_184,l10n_co_base.city_11001,localidad_3,SANTA FE,6103
+barrio_185,l10n_co_base.city_11001,localidad_3,LA PERSEVERANCIA,8104
+barrio_186,l10n_co_base.city_11001,localidad_3,SAN MARTIN,8109
+barrio_187,l10n_co_base.city_11001,localidad_3,VOTO NACIONAL,4103
+barrio_188,l10n_co_base.city_11001,localidad_3,LA ALAMEDA,3101
+barrio_189,l10n_co_base.city_11001,localidad_3,LA FAVORITA,6104
+barrio_190,l10n_co_base.city_11001,localidad_3,LAS NIEVES,3102
+barrio_191,l10n_co_base.city_11001,localidad_3,EL DORADO,3209
+barrio_192,l10n_co_base.city_11001,localidad_3,BUENOS AIRES,1102
+barrio_193,l10n_co_base.city_11001,localidad_3,SAN VICTORINO,6105
+barrio_194,l10n_co_base.city_11001,localidad_3,BOSQUE IZQUIERDO,8106
+barrio_195,l10n_co_base.city_11001,localidad_3,LAS AGUAS,3103
+barrio_196,l10n_co_base.city_11001,localidad_3,LA CAPUCHINA,3108
+barrio_197,l10n_co_base.city_11001,localidad_3,VITELMA,1103
+barrio_198,l10n_co_base.city_11001,localidad_3,VERACRUZ,3109
+barrio_199,l10n_co_base.city_11001,localidad_3,LA ESTANZUELA,4104
 barrio_200,l10n_co_base.city_11001,localidad_3,HOYA SAN CRISTOBAL,101301
-barrio_201,l10n_co_base.city_11001,localidad_3,SANTA INES,003107
-barrio_202,l10n_co_base.city_11001,localidad_3,LA CATEDRAL,003110
-barrio_203,l10n_co_base.city_11001,localidad_3,CENTRO ADMINISTRATIVO,003106
-barrio_204,l10n_co_base.city_11001,localidad_3,SAN BERNARDINO,003201
-barrio_205,l10n_co_base.city_11001,localidad_3,EGIPTO,003105
-barrio_206,l10n_co_base.city_11001,localidad_3,EDUARDO SANTOS,004105
-barrio_207,l10n_co_base.city_11001,localidad_3,SAN FRANCISCO RURAL,003215
-barrio_208,l10n_co_base.city_11001,localidad_3,SANTA BARBARA,003203
-barrio_209,l10n_co_base.city_11001,localidad_3,SAN ANTONIO,002102
-barrio_210,l10n_co_base.city_11001,localidad_3,BELEN,003204
-barrio_211,l10n_co_base.city_11001,localidad_3,LA PENA,003206
-barrio_212,l10n_co_base.city_11001,localidad_3,LAS CRUCES,003202
-barrio_213,l10n_co_base.city_11001,localidad_3,LA HORTUA,001208
-barrio_214,l10n_co_base.city_11001,localidad_3,EL GUAVIO,003205
-barrio_215,l10n_co_base.city_11001,localidad_3,LOURDES,003212
-barrio_216,l10n_co_base.city_11001,localidad_3,LOS LACHES,003207
-barrio_217,l10n_co_base.city_11001,localidad_3,MODELO SUR,001209
-barrio_218,l10n_co_base.city_11001,localidad_3,GIRARDOT,003211
-barrio_219,l10n_co_base.city_11001,localidad_3,SAN DIEGO,008107
-barrio_220,l10n_co_base.city_11001,localidad_3,LA MACARENA,008105
-barrio_221,l10n_co_base.city_11001,localidad_3,EL ROCIO,003208
+barrio_201,l10n_co_base.city_11001,localidad_3,SANTA INES,3107
+barrio_202,l10n_co_base.city_11001,localidad_3,LA CATEDRAL,3110
+barrio_203,l10n_co_base.city_11001,localidad_3,CENTRO ADMINISTRATIVO,3106
+barrio_204,l10n_co_base.city_11001,localidad_3,SAN BERNARDINO,3201
+barrio_205,l10n_co_base.city_11001,localidad_3,EGIPTO,3105
+barrio_206,l10n_co_base.city_11001,localidad_3,EDUARDO SANTOS,4105
+barrio_207,l10n_co_base.city_11001,localidad_3,SAN FRANCISCO RURAL,3215
+barrio_208,l10n_co_base.city_11001,localidad_3,SANTA BARBARA,3203
+barrio_209,l10n_co_base.city_11001,localidad_3,SAN ANTONIO,2102
+barrio_210,l10n_co_base.city_11001,localidad_3,BELEN,3204
+barrio_211,l10n_co_base.city_11001,localidad_3,LA PENA,3206
+barrio_212,l10n_co_base.city_11001,localidad_3,LAS CRUCES,3202
+barrio_213,l10n_co_base.city_11001,localidad_3,LA HORTUA,1208
+barrio_214,l10n_co_base.city_11001,localidad_3,EL GUAVIO,3205
+barrio_215,l10n_co_base.city_11001,localidad_3,LOURDES,3212
+barrio_216,l10n_co_base.city_11001,localidad_3,LOS LACHES,3207
+barrio_217,l10n_co_base.city_11001,localidad_3,MODELO SUR,1209
+barrio_218,l10n_co_base.city_11001,localidad_3,GIRARDOT,3211
+barrio_219,l10n_co_base.city_11001,localidad_3,SAN DIEGO,8107
+barrio_220,l10n_co_base.city_11001,localidad_3,LA MACARENA,8105
+barrio_221,l10n_co_base.city_11001,localidad_3,EL ROCIO,3208
 barrio_222,l10n_co_base.city_11001,localidad_3,LA PEÑA RURAL,201404
-barrio_223,l10n_co_base.city_11001,localidad_3,RAMIREZ,003210
+barrio_223,l10n_co_base.city_11001,localidad_3,RAMIREZ,3210
 barrio_224,l10n_co_base.city_11001,localidad_4,PARQUE NACIONAL ORIENTAL,101405
 barrio_225,l10n_co_base.city_11001,localidad_4,HOYA TEUSACA,101201
 barrio_226,l10n_co_base.city_11001,localidad_4,LA ARBOLEDA RURAL,101309
-barrio_227,l10n_co_base.city_11001,localidad_4,ARRAYANES V,002625
-barrio_228,l10n_co_base.city_11001,localidad_4,NARINO SUR,001207
-barrio_229,l10n_co_base.city_11001,localidad_4,SAN BLAS II,001113
-barrio_230,l10n_co_base.city_11001,localidad_4,LAS LOMAS,001409
-barrio_231,l10n_co_base.city_11001,localidad_4,QUINDIO,001318
-barrio_232,l10n_co_base.city_11001,localidad_4,EL PINAR,001324
-barrio_233,l10n_co_base.city_11001,localidad_4,EL DORADO,003209
+barrio_227,l10n_co_base.city_11001,localidad_4,ARRAYANES V,2625
+barrio_228,l10n_co_base.city_11001,localidad_4,NARINO SUR,1207
+barrio_229,l10n_co_base.city_11001,localidad_4,SAN BLAS II,1113
+barrio_230,l10n_co_base.city_11001,localidad_4,LAS LOMAS,1409
+barrio_231,l10n_co_base.city_11001,localidad_4,QUINDIO,1318
+barrio_232,l10n_co_base.city_11001,localidad_4,EL PINAR,1324
+barrio_233,l10n_co_base.city_11001,localidad_4,EL DORADO,3209
 barrio_234,l10n_co_base.city_11001,localidad_4,AGUAS CLARAS,201304
 barrio_235,l10n_co_base.city_11001,localidad_4,TIBAQUE,101306
-barrio_236,l10n_co_base.city_11001,localidad_4,BELLO HORIZONTE,001304
-barrio_237,l10n_co_base.city_11001,localidad_4,VILLA DE LOS ALPES I,001430
-barrio_238,l10n_co_base.city_11001,localidad_4,SANTA INES SUR,001308
-barrio_239,l10n_co_base.city_11001,localidad_4,BUENOS AIRES,001102
-barrio_240,l10n_co_base.city_11001,localidad_4,SAN JAVIER,001110
-barrio_241,l10n_co_base.city_11001,localidad_4,SOCIEGO,001205
-barrio_242,l10n_co_base.city_11001,localidad_4,CERROS DE ORIENTE,001428
-barrio_243,l10n_co_base.city_11001,localidad_4,RAMAJAL,001307
-barrio_244,l10n_co_base.city_11001,localidad_4,VILLA DE LOS ALPES,001408
-barrio_245,l10n_co_base.city_11001,localidad_4,QUINTA RAMOS,001206
-barrio_246,l10n_co_base.city_11001,localidad_4,VITELMA,001103
+barrio_236,l10n_co_base.city_11001,localidad_4,BELLO HORIZONTE,1304
+barrio_237,l10n_co_base.city_11001,localidad_4,VILLA DE LOS ALPES I,1430
+barrio_238,l10n_co_base.city_11001,localidad_4,SANTA INES SUR,1308
+barrio_239,l10n_co_base.city_11001,localidad_4,BUENOS AIRES,1102
+barrio_240,l10n_co_base.city_11001,localidad_4,SAN JAVIER,1110
+barrio_241,l10n_co_base.city_11001,localidad_4,SOCIEGO,1205
+barrio_242,l10n_co_base.city_11001,localidad_4,CERROS DE ORIENTE,1428
+barrio_243,l10n_co_base.city_11001,localidad_4,RAMAJAL,1307
+barrio_244,l10n_co_base.city_11001,localidad_4,VILLA DE LOS ALPES,1408
+barrio_245,l10n_co_base.city_11001,localidad_4,QUINTA RAMOS,1206
+barrio_246,l10n_co_base.city_11001,localidad_4,VITELMA,1103
 barrio_247,l10n_co_base.city_11001,localidad_4,TIBAQUE I,201306
-barrio_248,l10n_co_base.city_11001,localidad_4,GUACAMAYAS III,001354
-barrio_249,l10n_co_base.city_11001,localidad_4,ATENAS,001305
-barrio_250,l10n_co_base.city_11001,localidad_4,LOS LIBERTADORES,001327
-barrio_251,l10n_co_base.city_11001,localidad_4,SANTA ANA SUR,001111
-barrio_252,l10n_co_base.city_11001,localidad_4,GUACAMAYAS IV,001353
-barrio_253,l10n_co_base.city_11001,localidad_4,LOS ALPES,001312
-barrio_254,l10n_co_base.city_11001,localidad_4,LA BELLEZA,001338
-barrio_255,l10n_co_base.city_11001,localidad_4,LAS GAVIOTAS,001334
-barrio_256,l10n_co_base.city_11001,localidad_4,FISCALA ALTA,002602
-barrio_257,l10n_co_base.city_11001,localidad_4,SAN RAFAEL USME,001322
-barrio_258,l10n_co_base.city_11001,localidad_4,LA MARIA,001109
+barrio_248,l10n_co_base.city_11001,localidad_4,GUACAMAYAS III,1354
+barrio_249,l10n_co_base.city_11001,localidad_4,ATENAS,1305
+barrio_250,l10n_co_base.city_11001,localidad_4,LOS LIBERTADORES,1327
+barrio_251,l10n_co_base.city_11001,localidad_4,SANTA ANA SUR,1111
+barrio_252,l10n_co_base.city_11001,localidad_4,GUACAMAYAS IV,1353
+barrio_253,l10n_co_base.city_11001,localidad_4,LOS ALPES,1312
+barrio_254,l10n_co_base.city_11001,localidad_4,LA BELLEZA,1338
+barrio_255,l10n_co_base.city_11001,localidad_4,LAS GAVIOTAS,1334
+barrio_256,l10n_co_base.city_11001,localidad_4,FISCALA ALTA,2602
+barrio_257,l10n_co_base.city_11001,localidad_4,SAN RAFAEL USME,1322
+barrio_258,l10n_co_base.city_11001,localidad_4,LA MARIA,1109
 barrio_259,l10n_co_base.city_11001,localidad_4,HOYA SAN CRISTOBAL,101301
-barrio_260,l10n_co_base.city_11001,localidad_4,SAN VICENTE,001309
-barrio_261,l10n_co_base.city_11001,localidad_4,NUEVA DELHI,001323
-barrio_262,l10n_co_base.city_11001,localidad_4,JUAN REY (LA PAZ),001325
+barrio_260,l10n_co_base.city_11001,localidad_4,SAN VICENTE,1309
+barrio_261,l10n_co_base.city_11001,localidad_4,NUEVA DELHI,1323
+barrio_262,l10n_co_base.city_11001,localidad_4,JUAN REY (LA PAZ),1325
 barrio_263,l10n_co_base.city_11001,localidad_4,CHIGUAZA RURAL,101308
-barrio_264,l10n_co_base.city_11001,localidad_4,VELODROMO,001114
-barrio_265,l10n_co_base.city_11001,localidad_4,VEINTE DE JULIO,001405
-barrio_266,l10n_co_base.city_11001,localidad_4,LAS GUACAMAYAS I,001355
-barrio_267,l10n_co_base.city_11001,localidad_4,GUACAMAYAS II,001352
-barrio_268,l10n_co_base.city_11001,localidad_4,SAN MARTIN SUR,001321
-barrio_269,l10n_co_base.city_11001,localidad_4,YOMASA,001350
-barrio_270,l10n_co_base.city_11001,localidad_4,BOLONIA I,002626
-barrio_271,l10n_co_base.city_11001,localidad_4,SAN CRISTOBAL SUR,001108
-barrio_272,l10n_co_base.city_11001,localidad_4,LA VICTORIA,001310
-barrio_273,l10n_co_base.city_11001,localidad_4,SAN BERNARDINO,003201
-barrio_274,l10n_co_base.city_11001,localidad_4,CIUDAD LONDRES I,001346
-barrio_275,l10n_co_base.city_11001,localidad_4,PRIMERO DE MAYO,001112
-barrio_276,l10n_co_base.city_11001,localidad_4,GRANADA SUR,001301
-barrio_277,l10n_co_base.city_11001,localidad_4,ALTOS DEL ZIPA,001342
-barrio_278,l10n_co_base.city_11001,localidad_4,BELLAVISTA SUR,001313
+barrio_264,l10n_co_base.city_11001,localidad_4,VELODROMO,1114
+barrio_265,l10n_co_base.city_11001,localidad_4,VEINTE DE JULIO,1405
+barrio_266,l10n_co_base.city_11001,localidad_4,LAS GUACAMAYAS I,1355
+barrio_267,l10n_co_base.city_11001,localidad_4,GUACAMAYAS II,1352
+barrio_268,l10n_co_base.city_11001,localidad_4,SAN MARTIN SUR,1321
+barrio_269,l10n_co_base.city_11001,localidad_4,YOMASA,1350
+barrio_270,l10n_co_base.city_11001,localidad_4,BOLONIA I,2626
+barrio_271,l10n_co_base.city_11001,localidad_4,SAN CRISTOBAL SUR,1108
+barrio_272,l10n_co_base.city_11001,localidad_4,LA VICTORIA,1310
+barrio_273,l10n_co_base.city_11001,localidad_4,SAN BERNARDINO,3201
+barrio_274,l10n_co_base.city_11001,localidad_4,CIUDAD LONDRES I,1346
+barrio_275,l10n_co_base.city_11001,localidad_4,PRIMERO DE MAYO,1112
+barrio_276,l10n_co_base.city_11001,localidad_4,GRANADA SUR,1301
+barrio_277,l10n_co_base.city_11001,localidad_4,ALTOS DEL ZIPA,1342
+barrio_278,l10n_co_base.city_11001,localidad_4,BELLAVISTA SUR,1313
 barrio_279,l10n_co_base.city_11001,localidad_4,CIUDAD LONDRES RURAL,102312
-barrio_280,l10n_co_base.city_11001,localidad_4,JUAN REY SUR,001347
-barrio_281,l10n_co_base.city_11001,localidad_4,SAN LUIS,001426
-barrio_282,l10n_co_base.city_11001,localidad_4,BOSQUE DE LOS ALPES,001339
-barrio_283,l10n_co_base.city_11001,localidad_4,MOLINOS DE ORIENTE,001104
-barrio_284,l10n_co_base.city_11001,localidad_4,SAN BLAS,001106
-barrio_285,l10n_co_base.city_11001,localidad_4,LAS MERCEDES,001107
-barrio_286,l10n_co_base.city_11001,localidad_4,SAN ISIDRO,001406
-barrio_287,l10n_co_base.city_11001,localidad_4,SURAMERICA,001407
-barrio_288,l10n_co_base.city_11001,localidad_4,SAN PEDRO,001306
+barrio_280,l10n_co_base.city_11001,localidad_4,JUAN REY SUR,1347
+barrio_281,l10n_co_base.city_11001,localidad_4,SAN LUIS,1426
+barrio_282,l10n_co_base.city_11001,localidad_4,BOSQUE DE LOS ALPES,1339
+barrio_283,l10n_co_base.city_11001,localidad_4,MOLINOS DE ORIENTE,1104
+barrio_284,l10n_co_base.city_11001,localidad_4,SAN BLAS,1106
+barrio_285,l10n_co_base.city_11001,localidad_4,LAS MERCEDES,1107
+barrio_286,l10n_co_base.city_11001,localidad_4,SAN ISIDRO,1406
+barrio_287,l10n_co_base.city_11001,localidad_4,SURAMERICA,1407
+barrio_288,l10n_co_base.city_11001,localidad_4,SAN PEDRO,1306
 barrio_289,l10n_co_base.city_11001,localidad_4,MOLINO RURAL,101302
-barrio_290,l10n_co_base.city_11001,localidad_4,ALTOS DEL POBLADO,001333
-barrio_291,l10n_co_base.city_11001,localidad_4,LA GLORIA OCCIDENTAL,001311
-barrio_292,l10n_co_base.city_11001,localidad_4,SAN JOSE SUR ORIENTAL,001314
-barrio_293,l10n_co_base.city_11001,localidad_4,LAS CRUCES,003202
-barrio_294,l10n_co_base.city_11001,localidad_4,LA HORTUA,001208
-barrio_295,l10n_co_base.city_11001,localidad_4,MONTE CARLO,001115
-barrio_296,l10n_co_base.city_11001,localidad_4,TIBAQUE URBANO,001116
-barrio_297,l10n_co_base.city_11001,localidad_4,MONTEBELLO,001302
-barrio_298,l10n_co_base.city_11001,localidad_4,LA GLORIA ORIENTAL,001319
-barrio_299,l10n_co_base.city_11001,localidad_4,CANADA O GUIRA,001330
-barrio_300,l10n_co_base.city_11001,localidad_4,DIANA TURBAY ARRAYANES,001422
+barrio_290,l10n_co_base.city_11001,localidad_4,ALTOS DEL POBLADO,1333
+barrio_291,l10n_co_base.city_11001,localidad_4,LA GLORIA OCCIDENTAL,1311
+barrio_292,l10n_co_base.city_11001,localidad_4,SAN JOSE SUR ORIENTAL,1314
+barrio_293,l10n_co_base.city_11001,localidad_4,LAS CRUCES,3202
+barrio_294,l10n_co_base.city_11001,localidad_4,LA HORTUA,1208
+barrio_295,l10n_co_base.city_11001,localidad_4,MONTE CARLO,1115
+barrio_296,l10n_co_base.city_11001,localidad_4,TIBAQUE URBANO,1116
+barrio_297,l10n_co_base.city_11001,localidad_4,MONTEBELLO,1302
+barrio_298,l10n_co_base.city_11001,localidad_4,LA GLORIA ORIENTAL,1319
+barrio_299,l10n_co_base.city_11001,localidad_4,CANADA O GUIRA,1330
+barrio_300,l10n_co_base.city_11001,localidad_4,DIANA TURBAY ARRAYANES,1422
 barrio_301,l10n_co_base.city_11001,localidad_4,LOS LAURELES I,201305
-barrio_302,l10n_co_base.city_11001,localidad_4,MORALBA,001316
-barrio_303,l10n_co_base.city_11001,localidad_4,LOS LACHES,003207
-barrio_304,l10n_co_base.city_11001,localidad_4,POLICARPA,001211
-barrio_305,l10n_co_base.city_11001,localidad_4,MODELO SUR,001209
+barrio_302,l10n_co_base.city_11001,localidad_4,MORALBA,1316
+barrio_303,l10n_co_base.city_11001,localidad_4,LOS LACHES,3207
+barrio_304,l10n_co_base.city_11001,localidad_4,POLICARPA,1211
+barrio_305,l10n_co_base.city_11001,localidad_4,MODELO SUR,1209
 barrio_306,l10n_co_base.city_11001,localidad_4,EL TRIANGULO,201302
-barrio_307,l10n_co_base.city_11001,localidad_4,ALTAMIRA,001315
-barrio_308,l10n_co_base.city_11001,localidad_4,VILLA DEL CERRO,001356
-barrio_309,l10n_co_base.city_11001,localidad_4,ARRAYANES I,002601
-barrio_310,l10n_co_base.city_11001,localidad_4,CIUDAD BERNA,001202
-barrio_311,l10n_co_base.city_11001,localidad_4,CALVO SUR,001210
-barrio_312,l10n_co_base.city_11001,localidad_4,CORDOBA,001303
-barrio_313,l10n_co_base.city_11001,localidad_4,BARCELONA SUR,001424
-barrio_314,l10n_co_base.city_11001,localidad_4,ALTOS DEL ZUQUE,001331
-barrio_315,l10n_co_base.city_11001,localidad_4,EL ROCIO,003208
-barrio_316,l10n_co_base.city_11001,localidad_4,LAS BRISAS,001101
-barrio_317,l10n_co_base.city_11001,localidad_4,RAMIREZ,003210
-barrio_318,l10n_co_base.city_11001,localidad_4,PUENTE COLORADO,001317
-barrio_319,l10n_co_base.city_11001,localidad_4,SANTA RITA SUR ORIENTAL,001328
-barrio_320,l10n_co_base.city_11001,localidad_4,VILLABEL,001332
-barrio_321,l10n_co_base.city_11001,localidad_4,NUEVA GLORIA,001320
-barrio_322,l10n_co_base.city_11001,localidad_4,EL PARAISO,001329
-barrio_323,l10n_co_base.city_11001,localidad_5,EL PORTAL URBANO,002642
+barrio_307,l10n_co_base.city_11001,localidad_4,ALTAMIRA,1315
+barrio_308,l10n_co_base.city_11001,localidad_4,VILLA DEL CERRO,1356
+barrio_309,l10n_co_base.city_11001,localidad_4,ARRAYANES I,2601
+barrio_310,l10n_co_base.city_11001,localidad_4,CIUDAD BERNA,1202
+barrio_311,l10n_co_base.city_11001,localidad_4,CALVO SUR,1210
+barrio_312,l10n_co_base.city_11001,localidad_4,CORDOBA,1303
+barrio_313,l10n_co_base.city_11001,localidad_4,BARCELONA SUR,1424
+barrio_314,l10n_co_base.city_11001,localidad_4,ALTOS DEL ZUQUE,1331
+barrio_315,l10n_co_base.city_11001,localidad_4,EL ROCIO,3208
+barrio_316,l10n_co_base.city_11001,localidad_4,LAS BRISAS,1101
+barrio_317,l10n_co_base.city_11001,localidad_4,RAMIREZ,3210
+barrio_318,l10n_co_base.city_11001,localidad_4,PUENTE COLORADO,1317
+barrio_319,l10n_co_base.city_11001,localidad_4,SANTA RITA SUR ORIENTAL,1328
+barrio_320,l10n_co_base.city_11001,localidad_4,VILLABEL,1332
+barrio_321,l10n_co_base.city_11001,localidad_4,NUEVA GLORIA,1320
+barrio_322,l10n_co_base.city_11001,localidad_4,EL PARAISO,1329
+barrio_323,l10n_co_base.city_11001,localidad_5,EL PORTAL URBANO,2642
 barrio_324,l10n_co_base.city_11001,localidad_5,PORTAL RURAL II,102506
-barrio_325,l10n_co_base.city_11001,localidad_5,EL PROGRESO USME,002613
+barrio_325,l10n_co_base.city_11001,localidad_5,EL PROGRESO USME,2613
 barrio_326,l10n_co_base.city_11001,localidad_5,TOCAIMITA SUR,102412
-barrio_327,l10n_co_base.city_11001,localidad_5,LA ORQUIDEA DE USME,002614
+barrio_327,l10n_co_base.city_11001,localidad_5,LA ORQUIDEA DE USME,2614
 barrio_328,l10n_co_base.city_11001,localidad_5,BRAZUELOS OCCIDENTAL RURAL,104130
 barrio_329,l10n_co_base.city_11001,localidad_5,LOS ARRAYANES,102401
-barrio_330,l10n_co_base.city_11001,localidad_5,BRAZUELOS OCCIDENTAL,002591
-barrio_331,l10n_co_base.city_11001,localidad_5,EL NUEVO PORTAL,002616
-barrio_332,l10n_co_base.city_11001,localidad_5,USMINIA,002538
-barrio_333,l10n_co_base.city_11001,localidad_5,LA ESPERANZA DE USME,002615
-barrio_334,l10n_co_base.city_11001,localidad_5,DESARROLLO BRAZUELOS,002592
+barrio_330,l10n_co_base.city_11001,localidad_5,BRAZUELOS OCCIDENTAL,2591
+barrio_331,l10n_co_base.city_11001,localidad_5,EL NUEVO PORTAL,2616
+barrio_332,l10n_co_base.city_11001,localidad_5,USMINIA,2538
+barrio_333,l10n_co_base.city_11001,localidad_5,LA ESPERANZA DE USME,2615
+barrio_334,l10n_co_base.city_11001,localidad_5,DESARROLLO BRAZUELOS,2592
 barrio_335,l10n_co_base.city_11001,localidad_5,PUERTA AL LLANO RURAL,202511
-barrio_336,l10n_co_base.city_11001,localidad_5,ANTONIO JOSE DE SUCRE,002571
+barrio_336,l10n_co_base.city_11001,localidad_5,ANTONIO JOSE DE SUCRE,2571
 barrio_337,l10n_co_base.city_11001,localidad_5,EL PORVENIR DE LOS SOCHES,102110
-barrio_338,l10n_co_base.city_11001,localidad_5,EL NUEVO PORTAL II,002620
-barrio_339,l10n_co_base.city_11001,localidad_5,VILLA ISRAEL,002594
+barrio_338,l10n_co_base.city_11001,localidad_5,EL NUEVO PORTAL II,2620
+barrio_339,l10n_co_base.city_11001,localidad_5,VILLA ISRAEL,2594
 barrio_340,l10n_co_base.city_11001,localidad_5,EL UVAL RURAL,102502
-barrio_341,l10n_co_base.city_11001,localidad_5,VILLA ANITA,002619
+barrio_341,l10n_co_base.city_11001,localidad_5,VILLA ANITA,2619
 barrio_342,l10n_co_base.city_11001,localidad_5,LA REQUILINA RURAL II,102604
-barrio_343,l10n_co_base.city_11001,localidad_5,EL REFUGIO I,002617
+barrio_343,l10n_co_base.city_11001,localidad_5,EL REFUGIO I,2617
 barrio_344,l10n_co_base.city_11001,localidad_5,EL NUEVO PORTAL II RURAL,202506
-barrio_345,l10n_co_base.city_11001,localidad_5,PUERTA AL LLANO DE USME,002618
-barrio_346,l10n_co_base.city_11001,localidad_5,EL PORTAL DEL DIVINO,002630
-barrio_347,l10n_co_base.city_11001,localidad_5,EL TUNO,002634
-barrio_348,l10n_co_base.city_11001,localidad_5,BRISAS DEL LLANO,002635
-barrio_349,l10n_co_base.city_11001,localidad_5,EL BOSQUE SUR ORIENTAL,002628
+barrio_345,l10n_co_base.city_11001,localidad_5,PUERTA AL LLANO DE USME,2618
+barrio_346,l10n_co_base.city_11001,localidad_5,EL PORTAL DEL DIVINO,2630
+barrio_347,l10n_co_base.city_11001,localidad_5,EL TUNO,2634
+barrio_348,l10n_co_base.city_11001,localidad_5,BRISAS DEL LLANO,2635
+barrio_349,l10n_co_base.city_11001,localidad_5,EL BOSQUE SUR ORIENTAL,2628
 barrio_350,l10n_co_base.city_11001,localidad_5,CENTRO USME RURAL,102601
 barrio_351,l10n_co_base.city_11001,localidad_5,EL BOSQUE SUR ORIENTAL RURAL I,102309
 barrio_352,l10n_co_base.city_11001,localidad_5,EL UVAL,202502
-barrio_353,l10n_co_base.city_11001,localidad_5,LA HUERTA,002636
+barrio_353,l10n_co_base.city_11001,localidad_5,LA HUERTA,2636
 barrio_354,l10n_co_base.city_11001,localidad_5,EL BOSQUE SUR ORIENTAL RURAL I,102310
-barrio_355,l10n_co_base.city_11001,localidad_5,LA REQUILINA,002632
-barrio_356,l10n_co_base.city_11001,localidad_5,CENTRO USME URBANO,002599
+barrio_355,l10n_co_base.city_11001,localidad_5,LA REQUILINA,2632
+barrio_356,l10n_co_base.city_11001,localidad_5,CENTRO USME URBANO,2599
 barrio_357,l10n_co_base.city_11001,localidad_5,CENTRO USME RURAL I,102602
 barrio_358,l10n_co_base.city_11001,localidad_5,LA REQUILINA RURAL,102122
 barrio_359,l10n_co_base.city_11001,localidad_5,CENTRO USME,202601
@@ -377,985 +377,985 @@ barrio_375,l10n_co_base.city_11001,localidad_5,LA UNION,102115
 barrio_376,l10n_co_base.city_11001,localidad_5,CURUBITAL,102911
 barrio_377,l10n_co_base.city_11001,localidad_5,EL TABACO,103203
 barrio_378,l10n_co_base.city_11001,localidad_5,EL ISTMO,103202
-barrio_379,l10n_co_base.city_11001,localidad_5,TOCAIMITA ORIENTAL I,002622
-barrio_380,l10n_co_base.city_11001,localidad_5,LOS SOCHES,001344
+barrio_379,l10n_co_base.city_11001,localidad_5,TOCAIMITA ORIENTAL I,2622
+barrio_380,l10n_co_base.city_11001,localidad_5,LOS SOCHES,1344
 barrio_381,l10n_co_base.city_11001,localidad_5,SAN FELIPE DE USME RURAL,202404
 barrio_382,l10n_co_base.city_11001,localidad_5,LAS VIOLETAS RURAL,102118
 barrio_383,l10n_co_base.city_11001,localidad_5,LA ARBOLEDA RURAL,101309
 barrio_384,l10n_co_base.city_11001,localidad_5,PEPINITOS,102405
-barrio_385,l10n_co_base.city_11001,localidad_5,TIHUAQUE,001340
-barrio_386,l10n_co_base.city_11001,localidad_5,LA COMUNA,002612
-barrio_387,l10n_co_base.city_11001,localidad_5,LA REFORMA,002627
-barrio_388,l10n_co_base.city_11001,localidad_5,DESARROLLO BRAZUELOS I,002556
-barrio_389,l10n_co_base.city_11001,localidad_5,JUAN JOSE RONDON I,001336
-barrio_390,l10n_co_base.city_11001,localidad_5,COMUNEROS,002543
-barrio_391,l10n_co_base.city_11001,localidad_5,SERRANIAS,002542
-barrio_392,l10n_co_base.city_11001,localidad_5,SERRANIAS I,002576
-barrio_393,l10n_co_base.city_11001,localidad_5,LAS VIOLETAS,002633
-barrio_394,l10n_co_base.city_11001,localidad_5,PORVENIR,002589
-barrio_395,l10n_co_base.city_11001,localidad_5,ARRAYANES V,002625
-barrio_396,l10n_co_base.city_11001,localidad_5,DANUBIO,002519
-barrio_397,l10n_co_base.city_11001,localidad_5,ARRAYANES VI,002637
-barrio_398,l10n_co_base.city_11001,localidad_5,DANUBIO II,002577
-barrio_399,l10n_co_base.city_11001,localidad_5,LA FISCALA NORTE,002597
+barrio_385,l10n_co_base.city_11001,localidad_5,TIHUAQUE,1340
+barrio_386,l10n_co_base.city_11001,localidad_5,LA COMUNA,2612
+barrio_387,l10n_co_base.city_11001,localidad_5,LA REFORMA,2627
+barrio_388,l10n_co_base.city_11001,localidad_5,DESARROLLO BRAZUELOS I,2556
+barrio_389,l10n_co_base.city_11001,localidad_5,JUAN JOSE RONDON I,1336
+barrio_390,l10n_co_base.city_11001,localidad_5,COMUNEROS,2543
+barrio_391,l10n_co_base.city_11001,localidad_5,SERRANIAS,2542
+barrio_392,l10n_co_base.city_11001,localidad_5,SERRANIAS I,2576
+barrio_393,l10n_co_base.city_11001,localidad_5,LAS VIOLETAS,2633
+barrio_394,l10n_co_base.city_11001,localidad_5,PORVENIR,2589
+barrio_395,l10n_co_base.city_11001,localidad_5,ARRAYANES V,2625
+barrio_396,l10n_co_base.city_11001,localidad_5,DANUBIO,2519
+barrio_397,l10n_co_base.city_11001,localidad_5,ARRAYANES VI,2637
+barrio_398,l10n_co_base.city_11001,localidad_5,DANUBIO II,2577
+barrio_399,l10n_co_base.city_11001,localidad_5,LA FISCALA NORTE,2597
 barrio_400,l10n_co_base.city_11001,localidad_5,TIBAQUE,101306
-barrio_401,l10n_co_base.city_11001,localidad_5,EL MOCHUELO II URBANO,002598
-barrio_402,l10n_co_base.city_11001,localidad_5,SAN FELIPE DE USME,002621
-barrio_403,l10n_co_base.city_11001,localidad_5,CHARALA,002611
+barrio_401,l10n_co_base.city_11001,localidad_5,EL MOCHUELO II URBANO,2598
+barrio_402,l10n_co_base.city_11001,localidad_5,SAN FELIPE DE USME,2621
+barrio_403,l10n_co_base.city_11001,localidad_5,CHARALA,2611
 barrio_404,l10n_co_base.city_11001,localidad_5,TIBAQUE SUR,102407
-barrio_405,l10n_co_base.city_11001,localidad_5,YOMASA NORTE,002586
+barrio_405,l10n_co_base.city_11001,localidad_5,YOMASA NORTE,2586
 barrio_406,l10n_co_base.city_11001,localidad_5,TOCAIMITA ORIENTAL,202410
-barrio_407,l10n_co_base.city_11001,localidad_5,VILLA DIANA,001335
-barrio_408,l10n_co_base.city_11001,localidad_5,AREA ARTILLERIA,002512
-barrio_409,l10n_co_base.city_11001,localidad_5,LA BELLEZA,001338
-barrio_410,l10n_co_base.city_11001,localidad_5,LAS GAVIOTAS,001334
-barrio_411,l10n_co_base.city_11001,localidad_5,LA FISCALA,002590
-barrio_412,l10n_co_base.city_11001,localidad_5,FISCALA ALTA,002602
-barrio_413,l10n_co_base.city_11001,localidad_5,SAN RAFAEL USME,001322
-barrio_414,l10n_co_base.city_11001,localidad_5,ALASKA,002551
-barrio_415,l10n_co_base.city_11001,localidad_5,EL NEVADO,002631
-barrio_416,l10n_co_base.city_11001,localidad_5,JUAN REY (LA PAZ),001325
+barrio_407,l10n_co_base.city_11001,localidad_5,VILLA DIANA,1335
+barrio_408,l10n_co_base.city_11001,localidad_5,AREA ARTILLERIA,2512
+barrio_409,l10n_co_base.city_11001,localidad_5,LA BELLEZA,1338
+barrio_410,l10n_co_base.city_11001,localidad_5,LAS GAVIOTAS,1334
+barrio_411,l10n_co_base.city_11001,localidad_5,LA FISCALA,2590
+barrio_412,l10n_co_base.city_11001,localidad_5,FISCALA ALTA,2602
+barrio_413,l10n_co_base.city_11001,localidad_5,SAN RAFAEL USME,1322
+barrio_414,l10n_co_base.city_11001,localidad_5,ALASKA,2551
+barrio_415,l10n_co_base.city_11001,localidad_5,EL NEVADO,2631
+barrio_416,l10n_co_base.city_11001,localidad_5,JUAN REY (LA PAZ),1325
 barrio_417,l10n_co_base.city_11001,localidad_5,CHIGUAZA RURAL,101308
-barrio_418,l10n_co_base.city_11001,localidad_5,LA AURORA,002503
-barrio_419,l10n_co_base.city_11001,localidad_5,BARRANQUILLITA,002525
-barrio_420,l10n_co_base.city_11001,localidad_5,DUITAMA,002550
-barrio_421,l10n_co_base.city_11001,localidad_5,NUEVO SAN ANDRES,002505
-barrio_422,l10n_co_base.city_11001,localidad_5,YOMASA,001350
-barrio_423,l10n_co_base.city_11001,localidad_5,EL NEVADO II,002629
-barrio_424,l10n_co_base.city_11001,localidad_5,EL PEDREGAL,002563
-barrio_425,l10n_co_base.city_11001,localidad_5,BOLONIA I,002626
-barrio_426,l10n_co_base.city_11001,localidad_5,LA PICOTA,002511
-barrio_427,l10n_co_base.city_11001,localidad_5,EL PEDREGAL II,002640
-barrio_428,l10n_co_base.city_11001,localidad_5,CIUDAD LONDRES I,001346
-barrio_429,l10n_co_base.city_11001,localidad_5,SANTA LIBRADA NORTE,002528
-barrio_430,l10n_co_base.city_11001,localidad_5,TUNJUELITO,002593
-barrio_431,l10n_co_base.city_11001,localidad_5,GRANADA SUR,002541
-barrio_432,l10n_co_base.city_11001,localidad_5,SANTA LIBRADA,002526
+barrio_418,l10n_co_base.city_11001,localidad_5,LA AURORA,2503
+barrio_419,l10n_co_base.city_11001,localidad_5,BARRANQUILLITA,2525
+barrio_420,l10n_co_base.city_11001,localidad_5,DUITAMA,2550
+barrio_421,l10n_co_base.city_11001,localidad_5,NUEVO SAN ANDRES,2505
+barrio_422,l10n_co_base.city_11001,localidad_5,YOMASA,1350
+barrio_423,l10n_co_base.city_11001,localidad_5,EL NEVADO II,2629
+barrio_424,l10n_co_base.city_11001,localidad_5,EL PEDREGAL,2563
+barrio_425,l10n_co_base.city_11001,localidad_5,BOLONIA I,2626
+barrio_426,l10n_co_base.city_11001,localidad_5,LA PICOTA,2511
+barrio_427,l10n_co_base.city_11001,localidad_5,EL PEDREGAL II,2640
+barrio_428,l10n_co_base.city_11001,localidad_5,CIUDAD LONDRES I,1346
+barrio_429,l10n_co_base.city_11001,localidad_5,SANTA LIBRADA NORTE,2528
+barrio_430,l10n_co_base.city_11001,localidad_5,TUNJUELITO,2593
+barrio_431,l10n_co_base.city_11001,localidad_5,GRANADA SUR,2541
+barrio_432,l10n_co_base.city_11001,localidad_5,SANTA LIBRADA,2526
 barrio_433,l10n_co_base.city_11001,localidad_5,CIUDAD LONDRES RURAL,102312
-barrio_434,l10n_co_base.city_11001,localidad_5,SALAZAR USME,002572
-barrio_435,l10n_co_base.city_11001,localidad_5,LOS OLIVARES,002604
-barrio_436,l10n_co_base.city_11001,localidad_5,CIUDAD LONDRES,001349
-barrio_437,l10n_co_base.city_11001,localidad_5,JUAN REY SUR,001347
-barrio_438,l10n_co_base.city_11001,localidad_5,LA ANDREA,002524
-barrio_439,l10n_co_base.city_11001,localidad_5,SAN JUAN BAUTISTA,002555
-barrio_440,l10n_co_base.city_11001,localidad_5,EL CURUBO,002606
-barrio_441,l10n_co_base.city_11001,localidad_5,DONA LILIANA,001345
-barrio_442,l10n_co_base.city_11001,localidad_5,LA CABANA,002527
-barrio_443,l10n_co_base.city_11001,localidad_5,MARICHUELA,002529
-barrio_444,l10n_co_base.city_11001,localidad_5,LA CABANA,001348
+barrio_434,l10n_co_base.city_11001,localidad_5,SALAZAR USME,2572
+barrio_435,l10n_co_base.city_11001,localidad_5,LOS OLIVARES,2604
+barrio_436,l10n_co_base.city_11001,localidad_5,CIUDAD LONDRES,1349
+barrio_437,l10n_co_base.city_11001,localidad_5,JUAN REY SUR,1347
+barrio_438,l10n_co_base.city_11001,localidad_5,LA ANDREA,2524
+barrio_439,l10n_co_base.city_11001,localidad_5,SAN JUAN BAUTISTA,2555
+barrio_440,l10n_co_base.city_11001,localidad_5,EL CURUBO,2606
+barrio_441,l10n_co_base.city_11001,localidad_5,DONA LILIANA,1345
+barrio_442,l10n_co_base.city_11001,localidad_5,LA CABANA,2527
+barrio_443,l10n_co_base.city_11001,localidad_5,MARICHUELA,2529
+barrio_444,l10n_co_base.city_11001,localidad_5,LA CABANA,1348
 barrio_445,l10n_co_base.city_11001,localidad_5,LILIANA,102211
-barrio_446,l10n_co_base.city_11001,localidad_5,MOCHUELO ALTO,002596
+barrio_446,l10n_co_base.city_11001,localidad_5,MOCHUELO ALTO,2596
 barrio_447,l10n_co_base.city_11001,localidad_5,BOLONIA I,202203
-barrio_448,l10n_co_base.city_11001,localidad_5,BOLONIA,002605
-barrio_449,l10n_co_base.city_11001,localidad_5,GRAN YOMASA,002506
+barrio_448,l10n_co_base.city_11001,localidad_5,BOLONIA,2605
+barrio_449,l10n_co_base.city_11001,localidad_5,GRAN YOMASA,2506
 barrio_450,l10n_co_base.city_11001,localidad_5,TIBAQUE II,201309
-barrio_451,l10n_co_base.city_11001,localidad_5,CANADA O GUIRA,001330
-barrio_452,l10n_co_base.city_11001,localidad_5,MONTEBLANCO,002536
-barrio_453,l10n_co_base.city_11001,localidad_5,LA ESPERANZA SUR,002607
-barrio_454,l10n_co_base.city_11001,localidad_5,SAN PEDRO SUR,001337
+barrio_451,l10n_co_base.city_11001,localidad_5,CANADA O GUIRA,1330
+barrio_452,l10n_co_base.city_11001,localidad_5,MONTEBLANCO,2536
+barrio_453,l10n_co_base.city_11001,localidad_5,LA ESPERANZA SUR,2607
+barrio_454,l10n_co_base.city_11001,localidad_5,SAN PEDRO SUR,1337
 barrio_455,l10n_co_base.city_11001,localidad_5,LA ESPERANZA SUR I,202204
 barrio_456,l10n_co_base.city_11001,localidad_5,MOCHUELO ALTO RURAL,104131
-barrio_457,l10n_co_base.city_11001,localidad_5,CHUNIZA,002537
-barrio_458,l10n_co_base.city_11001,localidad_5,DIANA TURBAY ARRAYANES,001422
+barrio_457,l10n_co_base.city_11001,localidad_5,CHUNIZA,2537
+barrio_458,l10n_co_base.city_11001,localidad_5,DIANA TURBAY ARRAYANES,1422
 barrio_459,l10n_co_base.city_11001,localidad_5,EL BOSQUE CENTRAL,102406
-barrio_460,l10n_co_base.city_11001,localidad_5,EL BOSQUE,002609
-barrio_461,l10n_co_base.city_11001,localidad_5,EL BOSQUE CENTRAL I,002608
-barrio_462,l10n_co_base.city_11001,localidad_5,CHAPINERITO,002610
+barrio_460,l10n_co_base.city_11001,localidad_5,EL BOSQUE,2609
+barrio_461,l10n_co_base.city_11001,localidad_5,EL BOSQUE CENTRAL I,2608
+barrio_462,l10n_co_base.city_11001,localidad_5,CHAPINERITO,2610
 barrio_463,l10n_co_base.city_11001,localidad_5,TIHUAQUE RURAL,101307
-barrio_464,l10n_co_base.city_11001,localidad_5,EL VIRREY,002548
-barrio_465,l10n_co_base.city_11001,localidad_5,ARRAYANES I,002601
-barrio_466,l10n_co_base.city_11001,localidad_5,EL MOCHUELO ORIENTAL,002522
-barrio_467,l10n_co_base.city_11001,localidad_5,PALERMO SUR,002535
-barrio_468,l10n_co_base.city_11001,localidad_5,LA PAZ,002566
-barrio_469,l10n_co_base.city_11001,localidad_5,VILLABEL,001332
-barrio_470,l10n_co_base.city_11001,localidad_6,SAMORE,002406
-barrio_471,l10n_co_base.city_11001,localidad_6,EL CARMEN,002407
-barrio_472,l10n_co_base.city_11001,localidad_6,TUNJUELITO,002508
-barrio_473,l10n_co_base.city_11001,localidad_6,LA CORUNA,002420
-barrio_474,l10n_co_base.city_11001,localidad_6,EL PLAYON,001420
-barrio_475,l10n_co_base.city_11001,localidad_6,MEISSEN,002514
-barrio_476,l10n_co_base.city_11001,localidad_6,SANTA LUCIA,002205
-barrio_477,l10n_co_base.city_11001,localidad_6,TUNAL ORIENTAL,002401
-barrio_478,l10n_co_base.city_11001,localidad_6,ABRAHAM LINCOLN,002507
-barrio_479,l10n_co_base.city_11001,localidad_6,MOLINOS DEL SUR,001414
-barrio_480,l10n_co_base.city_11001,localidad_6,AREA ARTILLERIA,002512
-barrio_481,l10n_co_base.city_11001,localidad_6,ARBORIZADORA BAJA,002432
-barrio_482,l10n_co_base.city_11001,localidad_6,PARQUE EL TUNAL,002410
-barrio_483,l10n_co_base.city_11001,localidad_6,EL CHIRCAL SUR,002435
-barrio_484,l10n_co_base.city_11001,localidad_6,LA PICOTA,002511
-barrio_485,l10n_co_base.city_11001,localidad_6,VENECIA OCCIDENTAL,002403
-barrio_486,l10n_co_base.city_11001,localidad_6,VENECIA,002404
-barrio_487,l10n_co_base.city_11001,localidad_6,MADELENA,002415
-barrio_488,l10n_co_base.city_11001,localidad_6,ISLA DEL SOL,002411
-barrio_489,l10n_co_base.city_11001,localidad_6,MARCO FIDEL SUAREZ,001410
-barrio_490,l10n_co_base.city_11001,localidad_6,ESCUELA GENERAL SANTANDER,002405
-barrio_491,l10n_co_base.city_11001,localidad_6,RONDA,002518
-barrio_492,l10n_co_base.city_11001,localidad_6,SAN CARLOS,002501
-barrio_493,l10n_co_base.city_11001,localidad_6,NUEVO MUZU,002409
-barrio_494,l10n_co_base.city_11001,localidad_6,MARCO FIDEL SUAREZ I,001415
-barrio_495,l10n_co_base.city_11001,localidad_6,FATIMA,002408
-barrio_496,l10n_co_base.city_11001,localidad_6,ATLANTA,002422
-barrio_497,l10n_co_base.city_11001,localidad_6,MUZU,002413
-barrio_498,l10n_co_base.city_11001,localidad_6,CLARET,002308
-barrio_499,l10n_co_base.city_11001,localidad_6,SAN BENITO,002509
-barrio_500,l10n_co_base.city_11001,localidad_6,EL MOCHUELO ORIENTAL,002522
-barrio_501,l10n_co_base.city_11001,localidad_6,SAN VICENTE FERRER,002402
-barrio_502,l10n_co_base.city_11001,localidad_6,ARBOLEDA SUR,001423
-barrio_503,l10n_co_base.city_11001,localidad_7,CHARLES DE GAULLE,004574
-barrio_504,l10n_co_base.city_11001,localidad_7,EL CORZO,004631
+barrio_464,l10n_co_base.city_11001,localidad_5,EL VIRREY,2548
+barrio_465,l10n_co_base.city_11001,localidad_5,ARRAYANES I,2601
+barrio_466,l10n_co_base.city_11001,localidad_5,EL MOCHUELO ORIENTAL,2522
+barrio_467,l10n_co_base.city_11001,localidad_5,PALERMO SUR,2535
+barrio_468,l10n_co_base.city_11001,localidad_5,LA PAZ,2566
+barrio_469,l10n_co_base.city_11001,localidad_5,VILLABEL,1332
+barrio_470,l10n_co_base.city_11001,localidad_6,SAMORE,2406
+barrio_471,l10n_co_base.city_11001,localidad_6,EL CARMEN,2407
+barrio_472,l10n_co_base.city_11001,localidad_6,TUNJUELITO,2508
+barrio_473,l10n_co_base.city_11001,localidad_6,LA CORUNA,2420
+barrio_474,l10n_co_base.city_11001,localidad_6,EL PLAYON,1420
+barrio_475,l10n_co_base.city_11001,localidad_6,MEISSEN,2514
+barrio_476,l10n_co_base.city_11001,localidad_6,SANTA LUCIA,2205
+barrio_477,l10n_co_base.city_11001,localidad_6,TUNAL ORIENTAL,2401
+barrio_478,l10n_co_base.city_11001,localidad_6,ABRAHAM LINCOLN,2507
+barrio_479,l10n_co_base.city_11001,localidad_6,MOLINOS DEL SUR,1414
+barrio_480,l10n_co_base.city_11001,localidad_6,AREA ARTILLERIA,2512
+barrio_481,l10n_co_base.city_11001,localidad_6,ARBORIZADORA BAJA,2432
+barrio_482,l10n_co_base.city_11001,localidad_6,PARQUE EL TUNAL,2410
+barrio_483,l10n_co_base.city_11001,localidad_6,EL CHIRCAL SUR,2435
+barrio_484,l10n_co_base.city_11001,localidad_6,LA PICOTA,2511
+barrio_485,l10n_co_base.city_11001,localidad_6,VENECIA OCCIDENTAL,2403
+barrio_486,l10n_co_base.city_11001,localidad_6,VENECIA,2404
+barrio_487,l10n_co_base.city_11001,localidad_6,MADELENA,2415
+barrio_488,l10n_co_base.city_11001,localidad_6,ISLA DEL SOL,2411
+barrio_489,l10n_co_base.city_11001,localidad_6,MARCO FIDEL SUAREZ,1410
+barrio_490,l10n_co_base.city_11001,localidad_6,ESCUELA GENERAL SANTANDER,2405
+barrio_491,l10n_co_base.city_11001,localidad_6,RONDA,2518
+barrio_492,l10n_co_base.city_11001,localidad_6,SAN CARLOS,2501
+barrio_493,l10n_co_base.city_11001,localidad_6,NUEVO MUZU,2409
+barrio_494,l10n_co_base.city_11001,localidad_6,MARCO FIDEL SUAREZ I,1415
+barrio_495,l10n_co_base.city_11001,localidad_6,FATIMA,2408
+barrio_496,l10n_co_base.city_11001,localidad_6,ATLANTA,2422
+barrio_497,l10n_co_base.city_11001,localidad_6,MUZU,2413
+barrio_498,l10n_co_base.city_11001,localidad_6,CLARET,2308
+barrio_499,l10n_co_base.city_11001,localidad_6,SAN BENITO,2509
+barrio_500,l10n_co_base.city_11001,localidad_6,EL MOCHUELO ORIENTAL,2522
+barrio_501,l10n_co_base.city_11001,localidad_6,SAN VICENTE FERRER,2402
+barrio_502,l10n_co_base.city_11001,localidad_6,ARBOLEDA SUR,1423
+barrio_503,l10n_co_base.city_11001,localidad_7,CHARLES DE GAULLE,4574
+barrio_504,l10n_co_base.city_11001,localidad_7,EL CORZO,4631
 barrio_505,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO RURAL,105317
 barrio_506,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO XIX,205319
-barrio_507,l10n_co_base.city_11001,localidad_7,SANTA FE BOSA,004633
-barrio_508,l10n_co_base.city_11001,localidad_7,CIUDADELA EL RECREO II,004638
-barrio_509,l10n_co_base.city_11001,localidad_7,CHICALA,004605
-barrio_510,l10n_co_base.city_11001,localidad_7,VILLAS DEL PROGRESO,004567
-barrio_511,l10n_co_base.city_11001,localidad_7,JORGE URIBE BOTERO,004568
-barrio_512,l10n_co_base.city_11001,localidad_7,CHICO SUR,004595
-barrio_513,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO POTRERITOS,004623
-barrio_514,l10n_co_base.city_11001,localidad_7,CORREDOR FERREO DEL SUR,004572
-barrio_515,l10n_co_base.city_11001,localidad_7,EL PORTAL DEL BRASIL,004591
-barrio_516,l10n_co_base.city_11001,localidad_7,ESCOCIA,004519
-barrio_517,l10n_co_base.city_11001,localidad_7,EL DANUBIO AZUL,004588
+barrio_507,l10n_co_base.city_11001,localidad_7,SANTA FE BOSA,4633
+barrio_508,l10n_co_base.city_11001,localidad_7,CIUDADELA EL RECREO II,4638
+barrio_509,l10n_co_base.city_11001,localidad_7,CHICALA,4605
+barrio_510,l10n_co_base.city_11001,localidad_7,VILLAS DEL PROGRESO,4567
+barrio_511,l10n_co_base.city_11001,localidad_7,JORGE URIBE BOTERO,4568
+barrio_512,l10n_co_base.city_11001,localidad_7,CHICO SUR,4595
+barrio_513,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO POTRERITOS,4623
+barrio_514,l10n_co_base.city_11001,localidad_7,CORREDOR FERREO DEL SUR,4572
+barrio_515,l10n_co_base.city_11001,localidad_7,EL PORTAL DEL BRASIL,4591
+barrio_516,l10n_co_base.city_11001,localidad_7,ESCOCIA,4519
+barrio_517,l10n_co_base.city_11001,localidad_7,EL DANUBIO AZUL,4588
 barrio_518,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO XVIII,105318
-barrio_519,l10n_co_base.city_11001,localidad_7,GRAN BRITALIA,004557
-barrio_520,l10n_co_base.city_11001,localidad_7,EL REMANSO I,004625
-barrio_521,l10n_co_base.city_11001,localidad_7,BOSA NOVA EL PORVENIR,004580
-barrio_522,l10n_co_base.city_11001,localidad_7,LA INDEPENDENCIA,004641
-barrio_523,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO II,004635
-barrio_524,l10n_co_base.city_11001,localidad_7,LAS MARGARITAS,004316
-barrio_525,l10n_co_base.city_11001,localidad_7,LAS MARGARITAS,004637
-barrio_526,l10n_co_base.city_11001,localidad_7,LA CABANA,004632
-barrio_527,l10n_co_base.city_11001,localidad_7,BRASIL,004622
-barrio_528,l10n_co_base.city_11001,localidad_7,BRASILIA,004604
-barrio_529,l10n_co_base.city_11001,localidad_7,LA LIBERTAD,004593
+barrio_519,l10n_co_base.city_11001,localidad_7,GRAN BRITALIA,4557
+barrio_520,l10n_co_base.city_11001,localidad_7,EL REMANSO I,4625
+barrio_521,l10n_co_base.city_11001,localidad_7,BOSA NOVA EL PORVENIR,4580
+barrio_522,l10n_co_base.city_11001,localidad_7,LA INDEPENDENCIA,4641
+barrio_523,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO II,4635
+barrio_524,l10n_co_base.city_11001,localidad_7,LAS MARGARITAS,4316
+barrio_525,l10n_co_base.city_11001,localidad_7,LAS MARGARITAS,4637
+barrio_526,l10n_co_base.city_11001,localidad_7,LA CABANA,4632
+barrio_527,l10n_co_base.city_11001,localidad_7,BRASIL,4622
+barrio_528,l10n_co_base.city_11001,localidad_7,BRASILIA,4604
+barrio_529,l10n_co_base.city_11001,localidad_7,LA LIBERTAD,4593
 barrio_530,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO XXII,105322
-barrio_531,l10n_co_base.city_11001,localidad_7,SAN MARTIN,004592
-barrio_532,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO XXV URBANO,004590
-barrio_533,l10n_co_base.city_11001,localidad_7,BETANIA,004628
-barrio_534,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO XXII URBANO,004577
-barrio_535,l10n_co_base.city_11001,localidad_7,SAN ANTONIO,004594
-barrio_536,l10n_co_base.city_11001,localidad_7,ESCOCIA,004579
-barrio_537,l10n_co_base.city_11001,localidad_7,OSORIO XII,004615
+barrio_531,l10n_co_base.city_11001,localidad_7,SAN MARTIN,4592
+barrio_532,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO XXV URBANO,4590
+barrio_533,l10n_co_base.city_11001,localidad_7,BETANIA,4628
+barrio_534,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO XXII URBANO,4577
+barrio_535,l10n_co_base.city_11001,localidad_7,SAN ANTONIO,4594
+barrio_536,l10n_co_base.city_11001,localidad_7,ESCOCIA,4579
+barrio_537,l10n_co_base.city_11001,localidad_7,OSORIO XII,4615
 barrio_538,l10n_co_base.city_11001,localidad_7,VILLA EMMA,205316
-barrio_539,l10n_co_base.city_11001,localidad_7,EL CORZO I,004643
+barrio_539,l10n_co_base.city_11001,localidad_7,EL CORZO I,4643
 barrio_540,l10n_co_base.city_11001,localidad_7,OSORIO X,105210
 barrio_541,l10n_co_base.city_11001,localidad_7,CANAVERALEJO RURAL,205308
-barrio_542,l10n_co_base.city_11001,localidad_7,CANAVERALEJO,004634
-barrio_543,l10n_co_base.city_11001,localidad_7,CIUDADELA EL RECREO,004573
-barrio_544,l10n_co_base.city_11001,localidad_7,PARCELA EL PORVENIR,004630
-barrio_545,l10n_co_base.city_11001,localidad_7,OSORIO X URBANO,004616
+barrio_542,l10n_co_base.city_11001,localidad_7,CANAVERALEJO,4634
+barrio_543,l10n_co_base.city_11001,localidad_7,CIUDADELA EL RECREO,4573
+barrio_544,l10n_co_base.city_11001,localidad_7,PARCELA EL PORVENIR,4630
+barrio_545,l10n_co_base.city_11001,localidad_7,OSORIO X URBANO,4616
 barrio_546,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO XXV,105325
-barrio_547,l10n_co_base.city_11001,localidad_7,LA VEGA SAN BERNARDINO,004624
-barrio_548,l10n_co_base.city_11001,localidad_7,SAN PEDRO,004589
-barrio_549,l10n_co_base.city_11001,localidad_7,EL CARMELO,004559
-barrio_550,l10n_co_base.city_11001,localidad_7,LOS SAUCES,004587
-barrio_551,l10n_co_base.city_11001,localidad_7,LA PAZ BOSA,004520
-barrio_552,l10n_co_base.city_11001,localidad_7,REMANSO URBANO,004602
-barrio_553,l10n_co_base.city_11001,localidad_7,LOS LAURELES,004575
-barrio_554,l10n_co_base.city_11001,localidad_7,BOSA NOVA,004526
-barrio_555,l10n_co_base.city_11001,localidad_7,ISLANDIA,004642
+barrio_547,l10n_co_base.city_11001,localidad_7,LA VEGA SAN BERNARDINO,4624
+barrio_548,l10n_co_base.city_11001,localidad_7,SAN PEDRO,4589
+barrio_549,l10n_co_base.city_11001,localidad_7,EL CARMELO,4559
+barrio_550,l10n_co_base.city_11001,localidad_7,LOS SAUCES,4587
+barrio_551,l10n_co_base.city_11001,localidad_7,LA PAZ BOSA,4520
+barrio_552,l10n_co_base.city_11001,localidad_7,REMANSO URBANO,4602
+barrio_553,l10n_co_base.city_11001,localidad_7,LOS LAURELES,4575
+barrio_554,l10n_co_base.city_11001,localidad_7,BOSA NOVA,4526
+barrio_555,l10n_co_base.city_11001,localidad_7,ISLANDIA,4642
 barrio_556,l10n_co_base.city_11001,localidad_7,OSORIO XXIII,105223
 barrio_557,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO XVIII,205318
 barrio_558,l10n_co_base.city_11001,localidad_7,EL CORZO RURAL,105314
-barrio_559,l10n_co_base.city_11001,localidad_7,ARGELIA II,004583
-barrio_560,l10n_co_base.city_11001,localidad_7,CATALINA,004545
-barrio_561,l10n_co_base.city_11001,localidad_7,BOSA,004522
-barrio_562,l10n_co_base.city_11001,localidad_7,ANTONIA SANTOS,004570
-barrio_563,l10n_co_base.city_11001,localidad_7,PASO ANCHO,004528
-barrio_564,l10n_co_base.city_11001,localidad_7,JACQUELINE,004517
-barrio_565,l10n_co_base.city_11001,localidad_7,EL RUBI,004536
-barrio_566,l10n_co_base.city_11001,localidad_7,SAN PABLO BOSA,004524
-barrio_567,l10n_co_base.city_11001,localidad_7,EL RETAZO,004533
-barrio_568,l10n_co_base.city_11001,localidad_7,JOSE ANTONIO GALAN,004569
-barrio_569,l10n_co_base.city_11001,localidad_7,CATALINA II,004540
-barrio_570,l10n_co_base.city_11001,localidad_7,JIMENEZ DE QUESADA II SECTOR,004586
-barrio_571,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO I,004597
-barrio_572,l10n_co_base.city_11001,localidad_7,JIMENEZ DE QUESADA,004523
-barrio_573,l10n_co_base.city_11001,localidad_7,LA CECILIA,004532
-barrio_574,l10n_co_base.city_11001,localidad_7,VILLA ANNY I,004598
-barrio_575,l10n_co_base.city_11001,localidad_7,JOSE MARIA CARBONEL,004550
-barrio_576,l10n_co_base.city_11001,localidad_7,BOITA,004516
-barrio_577,l10n_co_base.city_11001,localidad_7,VILLA DEL RIO,004546
-barrio_578,l10n_co_base.city_11001,localidad_7,OLARTE,004538
-barrio_579,l10n_co_base.city_11001,localidad_7,ANDALUCIA II,004553
-barrio_580,l10n_co_base.city_11001,localidad_7,CEMENTERIO JARDINES APOGEO,004529
-barrio_581,l10n_co_base.city_11001,localidad_7,TUNDAMA,004515
-barrio_582,l10n_co_base.city_11001,localidad_7,GUALOCHE,004552
-barrio_583,l10n_co_base.city_11001,localidad_7,NUEVA GRANADA BOSA,004527
-barrio_584,l10n_co_base.city_11001,localidad_7,VILLA ANNY II,004599
-barrio_585,l10n_co_base.city_11001,localidad_7,LA ESTACION BOSA,004521
-barrio_586,l10n_co_base.city_11001,localidad_7,LA ESTANCIA,002418
-barrio_587,l10n_co_base.city_11001,localidad_7,PRIMAVERA II,002428
-barrio_588,l10n_co_base.city_11001,localidad_7,BARLOVENTO,002417
+barrio_559,l10n_co_base.city_11001,localidad_7,ARGELIA II,4583
+barrio_560,l10n_co_base.city_11001,localidad_7,CATALINA,4545
+barrio_561,l10n_co_base.city_11001,localidad_7,BOSA,4522
+barrio_562,l10n_co_base.city_11001,localidad_7,ANTONIA SANTOS,4570
+barrio_563,l10n_co_base.city_11001,localidad_7,PASO ANCHO,4528
+barrio_564,l10n_co_base.city_11001,localidad_7,JACQUELINE,4517
+barrio_565,l10n_co_base.city_11001,localidad_7,EL RUBI,4536
+barrio_566,l10n_co_base.city_11001,localidad_7,SAN PABLO BOSA,4524
+barrio_567,l10n_co_base.city_11001,localidad_7,EL RETAZO,4533
+barrio_568,l10n_co_base.city_11001,localidad_7,JOSE ANTONIO GALAN,4569
+barrio_569,l10n_co_base.city_11001,localidad_7,CATALINA II,4540
+barrio_570,l10n_co_base.city_11001,localidad_7,JIMENEZ DE QUESADA II SECTOR,4586
+barrio_571,l10n_co_base.city_11001,localidad_7,SAN BERNARDINO I,4597
+barrio_572,l10n_co_base.city_11001,localidad_7,JIMENEZ DE QUESADA,4523
+barrio_573,l10n_co_base.city_11001,localidad_7,LA CECILIA,4532
+barrio_574,l10n_co_base.city_11001,localidad_7,VILLA ANNY I,4598
+barrio_575,l10n_co_base.city_11001,localidad_7,JOSE MARIA CARBONEL,4550
+barrio_576,l10n_co_base.city_11001,localidad_7,BOITA,4516
+barrio_577,l10n_co_base.city_11001,localidad_7,VILLA DEL RIO,4546
+barrio_578,l10n_co_base.city_11001,localidad_7,OLARTE,4538
+barrio_579,l10n_co_base.city_11001,localidad_7,ANDALUCIA II,4553
+barrio_580,l10n_co_base.city_11001,localidad_7,CEMENTERIO JARDINES APOGEO,4529
+barrio_581,l10n_co_base.city_11001,localidad_7,TUNDAMA,4515
+barrio_582,l10n_co_base.city_11001,localidad_7,GUALOCHE,4552
+barrio_583,l10n_co_base.city_11001,localidad_7,NUEVA GRANADA BOSA,4527
+barrio_584,l10n_co_base.city_11001,localidad_7,VILLA ANNY II,4599
+barrio_585,l10n_co_base.city_11001,localidad_7,LA ESTACION BOSA,4521
+barrio_586,l10n_co_base.city_11001,localidad_7,LA ESTANCIA,2418
+barrio_587,l10n_co_base.city_11001,localidad_7,PRIMAVERA II,2428
+barrio_588,l10n_co_base.city_11001,localidad_7,BARLOVENTO,2417
 barrio_589,l10n_co_base.city_11001,localidad_7,EL REMANSO,205320
-barrio_590,l10n_co_base.city_11001,localidad_7,SAN DIEGO-BOSA,004513
-barrio_591,l10n_co_base.city_11001,localidad_7,GRAN COLOMBIANO,004539
-barrio_592,l10n_co_base.city_11001,localidad_7,EL JARDIN,004561
-barrio_593,l10n_co_base.city_11001,localidad_7,CLASS,004535
-barrio_594,l10n_co_base.city_11001,localidad_8,LA PAMPA,006511
-barrio_595,l10n_co_base.city_11001,localidad_8,VERGEL OCCIDENTAL,006514
-barrio_596,l10n_co_base.city_11001,localidad_8,MARSELLA,006502
-barrio_597,l10n_co_base.city_11001,localidad_8,CAMPO HERMOSO,004558
-barrio_598,l10n_co_base.city_11001,localidad_8,TAIRONA,004564
-barrio_599,l10n_co_base.city_11001,localidad_8,PROVIVIENDA OCCIDENTAL,004613
-barrio_600,l10n_co_base.city_11001,localidad_8,CASTILLA,006506
-barrio_601,l10n_co_base.city_11001,localidad_8,PATIO BONITO,004554
-barrio_602,l10n_co_base.city_11001,localidad_8,BAVARIA,006504
-barrio_603,l10n_co_base.city_11001,localidad_8,LUSITANIA,006509
-barrio_604,l10n_co_base.city_11001,localidad_8,MARIA PAZ,006517
-barrio_605,l10n_co_base.city_11001,localidad_8,CHICALA,004605
-barrio_606,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY OCCIDENTAL,004508
-barrio_607,l10n_co_base.city_11001,localidad_8,JORGE URIBE BOTERO,004568
-barrio_608,l10n_co_base.city_11001,localidad_8,HIPOTECHO OCCIDENTAL,004502
-barrio_609,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY ORIENTAL,004510
-barrio_610,l10n_co_base.city_11001,localidad_8,CORREDOR FERREO DEL SUR,004572
-barrio_611,l10n_co_base.city_11001,localidad_8,ESCOCIA,004519
-barrio_612,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY SUR,004507
-barrio_613,l10n_co_base.city_11001,localidad_8,EL DANUBIO AZUL,004588
-barrio_614,l10n_co_base.city_11001,localidad_8,GRAN BRITALIA,004557
-barrio_615,l10n_co_base.city_11001,localidad_8,PATIO BONITO II,004555
-barrio_616,l10n_co_base.city_11001,localidad_8,PIO XII,006505
-barrio_617,l10n_co_base.city_11001,localidad_8,LAS MARGARITAS,004316
-barrio_618,l10n_co_base.city_11001,localidad_8,DINDALITO,004614
-barrio_619,l10n_co_base.city_11001,localidad_8,DINTALITO,004618
-barrio_620,l10n_co_base.city_11001,localidad_8,LAS DOS AVENIDAS,006508
-barrio_621,l10n_co_base.city_11001,localidad_8,SAUCEDAL,004560
-barrio_622,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY NORTE,004514
-barrio_623,l10n_co_base.city_11001,localidad_8,CORABASTOS,004547
-barrio_624,l10n_co_base.city_11001,localidad_8,BRASIL,004622
-barrio_625,l10n_co_base.city_11001,localidad_8,LLANO GRANDE,004562
-barrio_626,l10n_co_base.city_11001,localidad_8,TINTALITO,004617
-barrio_627,l10n_co_base.city_11001,localidad_8,CHUCUA DE LA VACA III,004619
-barrio_628,l10n_co_base.city_11001,localidad_8,BRASILIA,004604
-barrio_629,l10n_co_base.city_11001,localidad_8,MANDALAY,004531
-barrio_630,l10n_co_base.city_11001,localidad_8,CHUCUA DE LA VACA II,004620
-barrio_631,l10n_co_base.city_11001,localidad_8,HIPOTECHO,004501
-barrio_632,l10n_co_base.city_11001,localidad_8,BETANIA,004628
-barrio_633,l10n_co_base.city_11001,localidad_8,TECHO,004548
-barrio_634,l10n_co_base.city_11001,localidad_8,CHUCUA DE LA VACA I,004621
-barrio_635,l10n_co_base.city_11001,localidad_8,HIPOTECHO SUR,004551
-barrio_636,l10n_co_base.city_11001,localidad_8,VILLA ALSACIA II,006510
-barrio_637,l10n_co_base.city_11001,localidad_8,COOPERATIVA DE SUB-OFICIALES,006501
-barrio_638,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY,004509
-barrio_639,l10n_co_base.city_11001,localidad_8,GRAN BRITALIA I,004556
-barrio_640,l10n_co_base.city_11001,localidad_8,VILLA NELLY III SECTOR,004578
-barrio_641,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY CENTRAL,004511
-barrio_642,l10n_co_base.city_11001,localidad_8,LOS ALMENDROS,004609
-barrio_643,l10n_co_base.city_11001,localidad_8,OSORIO XII,004615
-barrio_644,l10n_co_base.city_11001,localidad_8,EL PARAISO,004603
-barrio_645,l10n_co_base.city_11001,localidad_8,VALLADOLID,006515
-barrio_646,l10n_co_base.city_11001,localidad_8,VILLA ALSACIA,006512
-barrio_647,l10n_co_base.city_11001,localidad_8,EL JAZMIN,004611
+barrio_590,l10n_co_base.city_11001,localidad_7,SAN DIEGO-BOSA,4513
+barrio_591,l10n_co_base.city_11001,localidad_7,GRAN COLOMBIANO,4539
+barrio_592,l10n_co_base.city_11001,localidad_7,EL JARDIN,4561
+barrio_593,l10n_co_base.city_11001,localidad_7,CLASS,4535
+barrio_594,l10n_co_base.city_11001,localidad_8,LA PAMPA,6511
+barrio_595,l10n_co_base.city_11001,localidad_8,VERGEL OCCIDENTAL,6514
+barrio_596,l10n_co_base.city_11001,localidad_8,MARSELLA,6502
+barrio_597,l10n_co_base.city_11001,localidad_8,CAMPO HERMOSO,4558
+barrio_598,l10n_co_base.city_11001,localidad_8,TAIRONA,4564
+barrio_599,l10n_co_base.city_11001,localidad_8,PROVIVIENDA OCCIDENTAL,4613
+barrio_600,l10n_co_base.city_11001,localidad_8,CASTILLA,6506
+barrio_601,l10n_co_base.city_11001,localidad_8,PATIO BONITO,4554
+barrio_602,l10n_co_base.city_11001,localidad_8,BAVARIA,6504
+barrio_603,l10n_co_base.city_11001,localidad_8,LUSITANIA,6509
+barrio_604,l10n_co_base.city_11001,localidad_8,MARIA PAZ,6517
+barrio_605,l10n_co_base.city_11001,localidad_8,CHICALA,4605
+barrio_606,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY OCCIDENTAL,4508
+barrio_607,l10n_co_base.city_11001,localidad_8,JORGE URIBE BOTERO,4568
+barrio_608,l10n_co_base.city_11001,localidad_8,HIPOTECHO OCCIDENTAL,4502
+barrio_609,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY ORIENTAL,4510
+barrio_610,l10n_co_base.city_11001,localidad_8,CORREDOR FERREO DEL SUR,4572
+barrio_611,l10n_co_base.city_11001,localidad_8,ESCOCIA,4519
+barrio_612,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY SUR,4507
+barrio_613,l10n_co_base.city_11001,localidad_8,EL DANUBIO AZUL,4588
+barrio_614,l10n_co_base.city_11001,localidad_8,GRAN BRITALIA,4557
+barrio_615,l10n_co_base.city_11001,localidad_8,PATIO BONITO II,4555
+barrio_616,l10n_co_base.city_11001,localidad_8,PIO XII,6505
+barrio_617,l10n_co_base.city_11001,localidad_8,LAS MARGARITAS,4316
+barrio_618,l10n_co_base.city_11001,localidad_8,DINDALITO,4614
+barrio_619,l10n_co_base.city_11001,localidad_8,DINTALITO,4618
+barrio_620,l10n_co_base.city_11001,localidad_8,LAS DOS AVENIDAS,6508
+barrio_621,l10n_co_base.city_11001,localidad_8,SAUCEDAL,4560
+barrio_622,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY NORTE,4514
+barrio_623,l10n_co_base.city_11001,localidad_8,CORABASTOS,4547
+barrio_624,l10n_co_base.city_11001,localidad_8,BRASIL,4622
+barrio_625,l10n_co_base.city_11001,localidad_8,LLANO GRANDE,4562
+barrio_626,l10n_co_base.city_11001,localidad_8,TINTALITO,4617
+barrio_627,l10n_co_base.city_11001,localidad_8,CHUCUA DE LA VACA III,4619
+barrio_628,l10n_co_base.city_11001,localidad_8,BRASILIA,4604
+barrio_629,l10n_co_base.city_11001,localidad_8,MANDALAY,4531
+barrio_630,l10n_co_base.city_11001,localidad_8,CHUCUA DE LA VACA II,4620
+barrio_631,l10n_co_base.city_11001,localidad_8,HIPOTECHO,4501
+barrio_632,l10n_co_base.city_11001,localidad_8,BETANIA,4628
+barrio_633,l10n_co_base.city_11001,localidad_8,TECHO,4548
+barrio_634,l10n_co_base.city_11001,localidad_8,CHUCUA DE LA VACA I,4621
+barrio_635,l10n_co_base.city_11001,localidad_8,HIPOTECHO SUR,4551
+barrio_636,l10n_co_base.city_11001,localidad_8,VILLA ALSACIA II,6510
+barrio_637,l10n_co_base.city_11001,localidad_8,COOPERATIVA DE SUB-OFICIALES,6501
+barrio_638,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY,4509
+barrio_639,l10n_co_base.city_11001,localidad_8,GRAN BRITALIA I,4556
+barrio_640,l10n_co_base.city_11001,localidad_8,VILLA NELLY III SECTOR,4578
+barrio_641,l10n_co_base.city_11001,localidad_8,CIUDAD KENNEDY CENTRAL,4511
+barrio_642,l10n_co_base.city_11001,localidad_8,LOS ALMENDROS,4609
+barrio_643,l10n_co_base.city_11001,localidad_8,OSORIO XII,4615
+barrio_644,l10n_co_base.city_11001,localidad_8,EL PARAISO,4603
+barrio_645,l10n_co_base.city_11001,localidad_8,VALLADOLID,6515
+barrio_646,l10n_co_base.city_11001,localidad_8,VILLA ALSACIA,6512
+barrio_647,l10n_co_base.city_11001,localidad_8,EL JAZMIN,4611
 barrio_648,l10n_co_base.city_11001,localidad_8,OSORIO X,105210
-barrio_649,l10n_co_base.city_11001,localidad_8,GRANJAS DE TECHO,006306
-barrio_650,l10n_co_base.city_11001,localidad_8,CALANDAIMA,004601
-barrio_651,l10n_co_base.city_11001,localidad_8,PATIO BONITO III,004566
-barrio_652,l10n_co_base.city_11001,localidad_8,OSORIO X URBANO,004616
-barrio_653,l10n_co_base.city_11001,localidad_8,CIUDAD TECHO II,006531
-barrio_654,l10n_co_base.city_11001,localidad_8,CIUDAD DE CALI,004607
-barrio_655,l10n_co_base.city_11001,localidad_8,DINDALITO,004612
-barrio_656,l10n_co_base.city_11001,localidad_8,EL PARAISO BOSA,004541
-barrio_657,l10n_co_base.city_11001,localidad_8,EL CARMELO,004559
-barrio_658,l10n_co_base.city_11001,localidad_8,PASTRANA,004525
-barrio_659,l10n_co_base.city_11001,localidad_8,CASA BLANCA SUR,004576
-barrio_660,l10n_co_base.city_11001,localidad_8,LA PAZ BOSA,004520
-barrio_661,l10n_co_base.city_11001,localidad_8,TIMIZA,004512
-barrio_662,l10n_co_base.city_11001,localidad_8,PROVIVIENDA,004504
-barrio_663,l10n_co_base.city_11001,localidad_8,CASABLANCA,004537
-barrio_664,l10n_co_base.city_11001,localidad_8,PROVIVIENDA OCCIDENTAL,004505
-barrio_665,l10n_co_base.city_11001,localidad_8,EL VERGEL,006528
-barrio_666,l10n_co_base.city_11001,localidad_8,EL TINTAL IV,006534
-barrio_667,l10n_co_base.city_11001,localidad_8,TINTALA,006516
-barrio_668,l10n_co_base.city_11001,localidad_8,OSORIO III,006518
-barrio_669,l10n_co_base.city_11001,localidad_8,EL TINTAL III,006533
-barrio_670,l10n_co_base.city_11001,localidad_8,INTERINDUSTRIAL,006527
-barrio_671,l10n_co_base.city_11001,localidad_8,GALAN,004627
+barrio_649,l10n_co_base.city_11001,localidad_8,GRANJAS DE TECHO,6306
+barrio_650,l10n_co_base.city_11001,localidad_8,CALANDAIMA,4601
+barrio_651,l10n_co_base.city_11001,localidad_8,PATIO BONITO III,4566
+barrio_652,l10n_co_base.city_11001,localidad_8,OSORIO X URBANO,4616
+barrio_653,l10n_co_base.city_11001,localidad_8,CIUDAD TECHO II,6531
+barrio_654,l10n_co_base.city_11001,localidad_8,CIUDAD DE CALI,4607
+barrio_655,l10n_co_base.city_11001,localidad_8,DINDALITO,4612
+barrio_656,l10n_co_base.city_11001,localidad_8,EL PARAISO BOSA,4541
+barrio_657,l10n_co_base.city_11001,localidad_8,EL CARMELO,4559
+barrio_658,l10n_co_base.city_11001,localidad_8,PASTRANA,4525
+barrio_659,l10n_co_base.city_11001,localidad_8,CASA BLANCA SUR,4576
+barrio_660,l10n_co_base.city_11001,localidad_8,LA PAZ BOSA,4520
+barrio_661,l10n_co_base.city_11001,localidad_8,TIMIZA,4512
+barrio_662,l10n_co_base.city_11001,localidad_8,PROVIVIENDA,4504
+barrio_663,l10n_co_base.city_11001,localidad_8,CASABLANCA,4537
+barrio_664,l10n_co_base.city_11001,localidad_8,PROVIVIENDA OCCIDENTAL,4505
+barrio_665,l10n_co_base.city_11001,localidad_8,EL VERGEL,6528
+barrio_666,l10n_co_base.city_11001,localidad_8,EL TINTAL IV,6534
+barrio_667,l10n_co_base.city_11001,localidad_8,TINTALA,6516
+barrio_668,l10n_co_base.city_11001,localidad_8,OSORIO III,6518
+barrio_669,l10n_co_base.city_11001,localidad_8,EL TINTAL III,6533
+barrio_670,l10n_co_base.city_11001,localidad_8,INTERINDUSTRIAL,6527
+barrio_671,l10n_co_base.city_11001,localidad_8,GALAN,4627
 barrio_672,l10n_co_base.city_11001,localidad_8,GALAN RURAL,205221
-barrio_673,l10n_co_base.city_11001,localidad_8,LAS ACACIAS,004626
-barrio_674,l10n_co_base.city_11001,localidad_8,NUEVO TECHO,006507
-barrio_675,l10n_co_base.city_11001,localidad_8,MONTEVIDEO,006307
+barrio_673,l10n_co_base.city_11001,localidad_8,LAS ACACIAS,4626
+barrio_674,l10n_co_base.city_11001,localidad_8,NUEVO TECHO,6507
+barrio_675,l10n_co_base.city_11001,localidad_8,MONTEVIDEO,6307
 barrio_676,l10n_co_base.city_11001,localidad_8,LAS ACACIAS RURAL,205225
-barrio_677,l10n_co_base.city_11001,localidad_8,VISION DE ORIENTE,006503
-barrio_678,l10n_co_base.city_11001,localidad_8,EL VERGEL ORIENTAL,006529
+barrio_677,l10n_co_base.city_11001,localidad_8,VISION DE ORIENTE,6503
+barrio_678,l10n_co_base.city_11001,localidad_8,EL VERGEL ORIENTAL,6529
 barrio_679,l10n_co_base.city_11001,localidad_8,EL JAZMIN,205209
-barrio_680,l10n_co_base.city_11001,localidad_8,SABANA GRANDE,006521
-barrio_681,l10n_co_base.city_11001,localidad_8,EL TINTAL II,006522
-barrio_682,l10n_co_base.city_11001,localidad_8,LA MAGDALENA,006524
+barrio_680,l10n_co_base.city_11001,localidad_8,SABANA GRANDE,6521
+barrio_681,l10n_co_base.city_11001,localidad_8,EL TINTAL II,6522
+barrio_682,l10n_co_base.city_11001,localidad_8,LA MAGDALENA,6524
 barrio_683,l10n_co_base.city_11001,localidad_8,VEREDA EL TINTAL RURAL,105105
 barrio_684,l10n_co_base.city_11001,localidad_8,VEREDA EL TINTAL,205102
 barrio_685,l10n_co_base.city_11001,localidad_8,VEREDA EL TINTAL URBANO,205101
 barrio_686,l10n_co_base.city_11001,localidad_8,OSORIO II,105203
-barrio_687,l10n_co_base.city_11001,localidad_8,ROMA,004534
-barrio_688,l10n_co_base.city_11001,localidad_8,TOCAREMA,004565
-barrio_689,l10n_co_base.city_11001,localidad_8,ARGELIA II,004583
-barrio_690,l10n_co_base.city_11001,localidad_8,CATALINA,004545
-barrio_691,l10n_co_base.city_11001,localidad_8,TIMIZA B,004530
-barrio_692,l10n_co_base.city_11001,localidad_8,BOSA,004522
-barrio_693,l10n_co_base.city_11001,localidad_8,TIMIZA A,004518
-barrio_694,l10n_co_base.city_11001,localidad_8,JACQUELINE,004517
-barrio_695,l10n_co_base.city_11001,localidad_8,EL RUBI,004536
-barrio_696,l10n_co_base.city_11001,localidad_8,LA CAMPINA,004506
-barrio_697,l10n_co_base.city_11001,localidad_8,JOSE ANTONIO GALAN,004569
-barrio_698,l10n_co_base.city_11001,localidad_8,CATALINA II,004540
-barrio_699,l10n_co_base.city_11001,localidad_8,ALQUERIA LA FRAGUA NORTE,004542
-barrio_700,l10n_co_base.city_11001,localidad_8,TEJAR,004408
-barrio_701,l10n_co_base.city_11001,localidad_8,LA CECILIA,004532
-barrio_702,l10n_co_base.city_11001,localidad_8,SANTA CATALINA,004584
-barrio_703,l10n_co_base.city_11001,localidad_8,NUEVA YORK,004549
-barrio_704,l10n_co_base.city_11001,localidad_8,RENANIA URAPANES,004582
-barrio_705,l10n_co_base.city_11001,localidad_8,BOITA,004516
-barrio_706,l10n_co_base.city_11001,localidad_8,ALQUERIA LA FRAGUA,004543
-barrio_707,l10n_co_base.city_11001,localidad_8,VILLA DEL RIO,004546
-barrio_708,l10n_co_base.city_11001,localidad_8,ANDALUCIA II,004553
-barrio_709,l10n_co_base.city_11001,localidad_8,ALQUERIA LA FRAGUA II,004596
-barrio_710,l10n_co_base.city_11001,localidad_8,ALQUERIA,004409
-barrio_711,l10n_co_base.city_11001,localidad_8,CEMENTERIO JARDINES APOGEO,004529
-barrio_712,l10n_co_base.city_11001,localidad_8,TUNDAMA,004515
-barrio_713,l10n_co_base.city_11001,localidad_8,LAS DELICIAS,004544
-barrio_714,l10n_co_base.city_11001,localidad_8,GUADALUPE,004563
-barrio_715,l10n_co_base.city_11001,localidad_8,VENECIA OCCIDENTAL,002403
-barrio_716,l10n_co_base.city_11001,localidad_8,VENECIA,002404
-barrio_717,l10n_co_base.city_11001,localidad_8,ISLA DEL SOL,002411
-barrio_718,l10n_co_base.city_11001,localidad_8,PROVIVIENDA NORTE,004310
-barrio_719,l10n_co_base.city_11001,localidad_8,PROVIVIENDA ORIENTAL,004503
-barrio_720,l10n_co_base.city_11001,localidad_8,CLASS,004535
-barrio_721,l10n_co_base.city_11001,localidad_8,TIMIZA C,004581
-barrio_722,l10n_co_base.city_11001,localidad_9,MARSELLA,006502
-barrio_723,l10n_co_base.city_11001,localidad_9,LUSITANIA,006509
-barrio_724,l10n_co_base.city_11001,localidad_9,SAN PEDRO DE LOS ROBLES,006523
-barrio_725,l10n_co_base.city_11001,localidad_9,CIUDAD SALITRE SUR-ORIENTAL,006217
-barrio_726,l10n_co_base.city_11001,localidad_9,VILLA ALSACIA,006512
-barrio_727,l10n_co_base.city_11001,localidad_9,GRANJAS DE TECHO,006306
-barrio_728,l10n_co_base.city_11001,localidad_9,CENTRO INDUSTRIAL,006218
-barrio_729,l10n_co_base.city_11001,localidad_9,SALITRE OCCIDENTAL,006313
-barrio_730,l10n_co_base.city_11001,localidad_9,EL VERGEL,006528
-barrio_731,l10n_co_base.city_11001,localidad_9,TERMINAL DE TRANSPORTES,006319
-barrio_732,l10n_co_base.city_11001,localidad_9,FRANCO,006308
-barrio_733,l10n_co_base.city_11001,localidad_9,EL REFUGIO,006419
-barrio_734,l10n_co_base.city_11001,localidad_9,LOS ALAMOS,005626
-barrio_735,l10n_co_base.city_11001,localidad_9,INTERINDUSTRIAL,006527
-barrio_736,l10n_co_base.city_11001,localidad_9,SAN PABLO JERICO,006413
-barrio_737,l10n_co_base.city_11001,localidad_9,KASANDRA,006532
+barrio_687,l10n_co_base.city_11001,localidad_8,ROMA,4534
+barrio_688,l10n_co_base.city_11001,localidad_8,TOCAREMA,4565
+barrio_689,l10n_co_base.city_11001,localidad_8,ARGELIA II,4583
+barrio_690,l10n_co_base.city_11001,localidad_8,CATALINA,4545
+barrio_691,l10n_co_base.city_11001,localidad_8,TIMIZA B,4530
+barrio_692,l10n_co_base.city_11001,localidad_8,BOSA,4522
+barrio_693,l10n_co_base.city_11001,localidad_8,TIMIZA A,4518
+barrio_694,l10n_co_base.city_11001,localidad_8,JACQUELINE,4517
+barrio_695,l10n_co_base.city_11001,localidad_8,EL RUBI,4536
+barrio_696,l10n_co_base.city_11001,localidad_8,LA CAMPINA,4506
+barrio_697,l10n_co_base.city_11001,localidad_8,JOSE ANTONIO GALAN,4569
+barrio_698,l10n_co_base.city_11001,localidad_8,CATALINA II,4540
+barrio_699,l10n_co_base.city_11001,localidad_8,ALQUERIA LA FRAGUA NORTE,4542
+barrio_700,l10n_co_base.city_11001,localidad_8,TEJAR,4408
+barrio_701,l10n_co_base.city_11001,localidad_8,LA CECILIA,4532
+barrio_702,l10n_co_base.city_11001,localidad_8,SANTA CATALINA,4584
+barrio_703,l10n_co_base.city_11001,localidad_8,NUEVA YORK,4549
+barrio_704,l10n_co_base.city_11001,localidad_8,RENANIA URAPANES,4582
+barrio_705,l10n_co_base.city_11001,localidad_8,BOITA,4516
+barrio_706,l10n_co_base.city_11001,localidad_8,ALQUERIA LA FRAGUA,4543
+barrio_707,l10n_co_base.city_11001,localidad_8,VILLA DEL RIO,4546
+barrio_708,l10n_co_base.city_11001,localidad_8,ANDALUCIA II,4553
+barrio_709,l10n_co_base.city_11001,localidad_8,ALQUERIA LA FRAGUA II,4596
+barrio_710,l10n_co_base.city_11001,localidad_8,ALQUERIA,4409
+barrio_711,l10n_co_base.city_11001,localidad_8,CEMENTERIO JARDINES APOGEO,4529
+barrio_712,l10n_co_base.city_11001,localidad_8,TUNDAMA,4515
+barrio_713,l10n_co_base.city_11001,localidad_8,LAS DELICIAS,4544
+barrio_714,l10n_co_base.city_11001,localidad_8,GUADALUPE,4563
+barrio_715,l10n_co_base.city_11001,localidad_8,VENECIA OCCIDENTAL,2403
+barrio_716,l10n_co_base.city_11001,localidad_8,VENECIA,2404
+barrio_717,l10n_co_base.city_11001,localidad_8,ISLA DEL SOL,2411
+barrio_718,l10n_co_base.city_11001,localidad_8,PROVIVIENDA NORTE,4310
+barrio_719,l10n_co_base.city_11001,localidad_8,PROVIVIENDA ORIENTAL,4503
+barrio_720,l10n_co_base.city_11001,localidad_8,CLASS,4535
+barrio_721,l10n_co_base.city_11001,localidad_8,TIMIZA C,4581
+barrio_722,l10n_co_base.city_11001,localidad_9,MARSELLA,6502
+barrio_723,l10n_co_base.city_11001,localidad_9,LUSITANIA,6509
+barrio_724,l10n_co_base.city_11001,localidad_9,SAN PEDRO DE LOS ROBLES,6523
+barrio_725,l10n_co_base.city_11001,localidad_9,CIUDAD SALITRE SUR-ORIENTAL,6217
+barrio_726,l10n_co_base.city_11001,localidad_9,VILLA ALSACIA,6512
+barrio_727,l10n_co_base.city_11001,localidad_9,GRANJAS DE TECHO,6306
+barrio_728,l10n_co_base.city_11001,localidad_9,CENTRO INDUSTRIAL,6218
+barrio_729,l10n_co_base.city_11001,localidad_9,SALITRE OCCIDENTAL,6313
+barrio_730,l10n_co_base.city_11001,localidad_9,EL VERGEL,6528
+barrio_731,l10n_co_base.city_11001,localidad_9,TERMINAL DE TRANSPORTES,6319
+barrio_732,l10n_co_base.city_11001,localidad_9,FRANCO,6308
+barrio_733,l10n_co_base.city_11001,localidad_9,EL REFUGIO,6419
+barrio_734,l10n_co_base.city_11001,localidad_9,LOS ALAMOS,5626
+barrio_735,l10n_co_base.city_11001,localidad_9,INTERINDUSTRIAL,6527
+barrio_736,l10n_co_base.city_11001,localidad_9,SAN PABLO JERICO,6413
+barrio_737,l10n_co_base.city_11001,localidad_9,KASANDRA,6532
 barrio_738,l10n_co_base.city_11001,localidad_9,EL CHANCO RURAL II,105401
-barrio_739,l10n_co_base.city_11001,localidad_9,EL CHANCO I,006525
-barrio_740,l10n_co_base.city_11001,localidad_9,NUEVO TECHO,006507
-barrio_741,l10n_co_base.city_11001,localidad_9,MONTEVIDEO,006307
-barrio_742,l10n_co_base.city_11001,localidad_9,SABANA DEL DORADO,005657
-barrio_743,l10n_co_base.city_11001,localidad_9,AEROPUERTO EL DORADO,005624
-barrio_744,l10n_co_base.city_11001,localidad_9,ATAHUALPA,006416
+barrio_739,l10n_co_base.city_11001,localidad_9,EL CHANCO I,6525
+barrio_740,l10n_co_base.city_11001,localidad_9,NUEVO TECHO,6507
+barrio_741,l10n_co_base.city_11001,localidad_9,MONTEVIDEO,6307
+barrio_742,l10n_co_base.city_11001,localidad_9,SABANA DEL DORADO,5657
+barrio_743,l10n_co_base.city_11001,localidad_9,AEROPUERTO EL DORADO,5624
+barrio_744,l10n_co_base.city_11001,localidad_9,ATAHUALPA,6416
 barrio_745,l10n_co_base.city_11001,localidad_9,EL CHANCO II,205401
-barrio_746,l10n_co_base.city_11001,localidad_9,SAN JOSE DE FONTIBON,006403
-barrio_747,l10n_co_base.city_11001,localidad_9,VERSALLES FONTIBON,006401
-barrio_748,l10n_co_base.city_11001,localidad_9,CIUDAD SALITRE NOR-ORIENTAL,006216
-barrio_749,l10n_co_base.city_11001,localidad_9,VISION DE ORIENTE,006503
-barrio_750,l10n_co_base.city_11001,localidad_9,LA CABANA FONTIBON,006402
-barrio_751,l10n_co_base.city_11001,localidad_9,PUERTA DE TEJA,006404
-barrio_752,l10n_co_base.city_11001,localidad_9,BELEN FONTIBON,006409
-barrio_753,l10n_co_base.city_11001,localidad_9,MARANDU,005665
-barrio_754,l10n_co_base.city_11001,localidad_9,VILLA GLADYS,005637
-barrio_755,l10n_co_base.city_11001,localidad_9,PUEBLO VIEJO,005673
-barrio_756,l10n_co_base.city_11001,localidad_9,EL CARMEN FONTIBON,006408
-barrio_757,l10n_co_base.city_11001,localidad_9,VILLA CARMENZA,006417
-barrio_758,l10n_co_base.city_11001,localidad_9,SANTA CECILIA,006301
+barrio_746,l10n_co_base.city_11001,localidad_9,SAN JOSE DE FONTIBON,6403
+barrio_747,l10n_co_base.city_11001,localidad_9,VERSALLES FONTIBON,6401
+barrio_748,l10n_co_base.city_11001,localidad_9,CIUDAD SALITRE NOR-ORIENTAL,6216
+barrio_749,l10n_co_base.city_11001,localidad_9,VISION DE ORIENTE,6503
+barrio_750,l10n_co_base.city_11001,localidad_9,LA CABANA FONTIBON,6402
+barrio_751,l10n_co_base.city_11001,localidad_9,PUERTA DE TEJA,6404
+barrio_752,l10n_co_base.city_11001,localidad_9,BELEN FONTIBON,6409
+barrio_753,l10n_co_base.city_11001,localidad_9,MARANDU,5665
+barrio_754,l10n_co_base.city_11001,localidad_9,VILLA GLADYS,5637
+barrio_755,l10n_co_base.city_11001,localidad_9,PUEBLO VIEJO,5673
+barrio_756,l10n_co_base.city_11001,localidad_9,EL CARMEN FONTIBON,6408
+barrio_757,l10n_co_base.city_11001,localidad_9,VILLA CARMENZA,6417
+barrio_758,l10n_co_base.city_11001,localidad_9,SANTA CECILIA,6301
 barrio_759,l10n_co_base.city_11001,localidad_9,EL CHANCO RURAL III,105403
-barrio_760,l10n_co_base.city_11001,localidad_9,SAN IGNACIO,005607
-barrio_761,l10n_co_base.city_11001,localidad_9,LA GIRALDA,006420
-barrio_762,l10n_co_base.city_11001,localidad_9,LAS NAVETAS,005672
-barrio_763,l10n_co_base.city_11001,localidad_9,CENTRO FONTIBON,006410
-barrio_764,l10n_co_base.city_11001,localidad_9,FERROCAJA FONTIBON,006405
-barrio_765,l10n_co_base.city_11001,localidad_9,MORAVIA,006519
+barrio_760,l10n_co_base.city_11001,localidad_9,SAN IGNACIO,5607
+barrio_761,l10n_co_base.city_11001,localidad_9,LA GIRALDA,6420
+barrio_762,l10n_co_base.city_11001,localidad_9,LAS NAVETAS,5672
+barrio_763,l10n_co_base.city_11001,localidad_9,CENTRO FONTIBON,6410
+barrio_764,l10n_co_base.city_11001,localidad_9,FERROCAJA FONTIBON,6405
+barrio_765,l10n_co_base.city_11001,localidad_9,MORAVIA,6519
 barrio_766,l10n_co_base.city_11001,localidad_9,CHARCO RURAL,105402
-barrio_767,l10n_co_base.city_11001,localidad_9,NORMANDIA OCCIDENTAL,005606
+barrio_767,l10n_co_base.city_11001,localidad_9,NORMANDIA OCCIDENTAL,5606
 barrio_768,l10n_co_base.city_11001,localidad_9,EL TINTAL,105104
-barrio_769,l10n_co_base.city_11001,localidad_9,ZONA FRANCA,006520
-barrio_770,l10n_co_base.city_11001,localidad_9,CAPELLANIA,006302
-barrio_771,l10n_co_base.city_11001,localidad_9,VILLEMAR,006406
-barrio_772,l10n_co_base.city_11001,localidad_9,BOSQUE DE MODELIA,006316
-barrio_773,l10n_co_base.city_11001,localidad_9,LA LAGUNA FONTIBON,006415
-barrio_774,l10n_co_base.city_11001,localidad_9,MODELIA OCCIDENTAL,006312
-barrio_775,l10n_co_base.city_11001,localidad_9,SABANA GRANDE,006521
-barrio_776,l10n_co_base.city_11001,localidad_9,EL TINTAL CENTRAL,006423
-barrio_777,l10n_co_base.city_11001,localidad_9,MODELIA,006311
-barrio_778,l10n_co_base.city_11001,localidad_9,JARDIN BOTANICO,005506
-barrio_779,l10n_co_base.city_11001,localidad_9,GUADUAL FONTIBON,006407
-barrio_780,l10n_co_base.city_11001,localidad_9,BRISAS ALDEA FONTIBON,006414
-barrio_781,l10n_co_base.city_11001,localidad_9,LOS ANGELES,005623
+barrio_769,l10n_co_base.city_11001,localidad_9,ZONA FRANCA,6520
+barrio_770,l10n_co_base.city_11001,localidad_9,CAPELLANIA,6302
+barrio_771,l10n_co_base.city_11001,localidad_9,VILLEMAR,6406
+barrio_772,l10n_co_base.city_11001,localidad_9,BOSQUE DE MODELIA,6316
+barrio_773,l10n_co_base.city_11001,localidad_9,LA LAGUNA FONTIBON,6415
+barrio_774,l10n_co_base.city_11001,localidad_9,MODELIA OCCIDENTAL,6312
+barrio_775,l10n_co_base.city_11001,localidad_9,SABANA GRANDE,6521
+barrio_776,l10n_co_base.city_11001,localidad_9,EL TINTAL CENTRAL,6423
+barrio_777,l10n_co_base.city_11001,localidad_9,MODELIA,6311
+barrio_778,l10n_co_base.city_11001,localidad_9,JARDIN BOTANICO,5506
+barrio_779,l10n_co_base.city_11001,localidad_9,GUADUAL FONTIBON,6407
+barrio_780,l10n_co_base.city_11001,localidad_9,BRISAS ALDEA FONTIBON,6414
+barrio_781,l10n_co_base.city_11001,localidad_9,LOS ANGELES,5623
 barrio_782,l10n_co_base.city_11001,localidad_9,SAN PEDRO,105103
-barrio_783,l10n_co_base.city_11001,localidad_9,CIUDAD HAYUELOS,006320
-barrio_784,l10n_co_base.city_11001,localidad_9,LA ESPERANZA NORTE,006303
-barrio_785,l10n_co_base.city_11001,localidad_9,EL TINTAL II,006522
-barrio_786,l10n_co_base.city_11001,localidad_9,EL CEDRO,005662
+barrio_783,l10n_co_base.city_11001,localidad_9,CIUDAD HAYUELOS,6320
+barrio_784,l10n_co_base.city_11001,localidad_9,LA ESPERANZA NORTE,6303
+barrio_785,l10n_co_base.city_11001,localidad_9,EL TINTAL II,6522
+barrio_786,l10n_co_base.city_11001,localidad_9,EL CEDRO,5662
 barrio_787,l10n_co_base.city_11001,localidad_9,EL PANTANO,106201
 barrio_788,l10n_co_base.city_11001,localidad_9,EL CHARCO,205402
-barrio_789,l10n_co_base.city_11001,localidad_9,PUENTE GRANDE,006418
-barrio_790,l10n_co_base.city_11001,localidad_9,CHARCO URBANO,006411
-barrio_791,l10n_co_base.city_11001,localidad_9,LA MAGDALENA,006524
+barrio_789,l10n_co_base.city_11001,localidad_9,PUENTE GRANDE,6418
+barrio_790,l10n_co_base.city_11001,localidad_9,CHARCO URBANO,6411
+barrio_791,l10n_co_base.city_11001,localidad_9,LA MAGDALENA,6524
 barrio_792,l10n_co_base.city_11001,localidad_9,VEREDA EL TINTAL RURAL,105105
 barrio_793,l10n_co_base.city_11001,localidad_9,VEREDA EL TINTAL,205102
-barrio_794,l10n_co_base.city_11001,localidad_9,LA ESPERANZA SUR,006315
-barrio_795,l10n_co_base.city_11001,localidad_10,EL ENCANTO,005605
-barrio_796,l10n_co_base.city_11001,localidad_10,SALITRE OCCIDENTAL,006313
-barrio_797,l10n_co_base.city_11001,localidad_10,EL SALITRE,005110
-barrio_798,l10n_co_base.city_11001,localidad_10,CIUDAD BACHUE,005630
-barrio_799,l10n_co_base.city_11001,localidad_10,VILLAS DE ALCALA,005668
-barrio_800,l10n_co_base.city_11001,localidad_10,BOCHICA II,005644
-barrio_801,l10n_co_base.city_11001,localidad_10,VILLAS DE GRANADA I,005649
-barrio_802,l10n_co_base.city_11001,localidad_10,BOLIVIA,005622
-barrio_803,l10n_co_base.city_11001,localidad_10,LA FAENA,005666
-barrio_804,l10n_co_base.city_11001,localidad_10,CIUDAD BACHUE II,005682
-barrio_805,l10n_co_base.city_11001,localidad_10,LAS FERIAS OCCIDENTAL,005405
-barrio_806,l10n_co_base.city_11001,localidad_10,BONANZA,005406
-barrio_807,l10n_co_base.city_11001,localidad_10,SANTA HELENITA,005608
-barrio_808,l10n_co_base.city_11001,localidad_10,LOS ALAMOS,005626
-barrio_809,l10n_co_base.city_11001,localidad_10,CIUDAD BACHUE I ETAPA,005631
-barrio_810,l10n_co_base.city_11001,localidad_10,ENGATIVA ZONA URBANA,005636
-barrio_811,l10n_co_base.city_11001,localidad_10,CLUB DE LOS LAGARTOS,009121
-barrio_812,l10n_co_base.city_11001,localidad_10,VILLAS DE GRANADA,005647
-barrio_813,l10n_co_base.city_11001,localidad_10,BOYACA,005603
-barrio_814,l10n_co_base.city_11001,localidad_10,LUIS CARLOS GALAN,005661
-barrio_815,l10n_co_base.city_11001,localidad_10,VILLA LUZ,005614
-barrio_816,l10n_co_base.city_11001,localidad_10,SABANA DEL DORADO,005657
-barrio_817,l10n_co_base.city_11001,localidad_10,CENTRO ENGATIVA II,005667
-barrio_818,l10n_co_base.city_11001,localidad_10,VILLA AMALIA,005648
-barrio_819,l10n_co_base.city_11001,localidad_10,AEROPUERTO EL DORADO,005624
-barrio_820,l10n_co_base.city_11001,localidad_10,GARCES NAVAS,005627
-barrio_821,l10n_co_base.city_11001,localidad_10,CIUDAD SALITRE NOR-ORIENTAL,006216
-barrio_822,l10n_co_base.city_11001,localidad_10,QUIRIGUA I,005683
-barrio_823,l10n_co_base.city_11001,localidad_10,LA RIVIERA,005670
-barrio_824,l10n_co_base.city_11001,localidad_10,LOS CEREZOS,005616
-barrio_825,l10n_co_base.city_11001,localidad_10,GARCES NAVAS SUR,005655
-barrio_826,l10n_co_base.city_11001,localidad_10,GARCES NAVAS ORIENTAL,005628
-barrio_827,l10n_co_base.city_11001,localidad_10,BOCHICA,005632
-barrio_828,l10n_co_base.city_11001,localidad_10,LAS FERIAS,005404
-barrio_829,l10n_co_base.city_11001,localidad_10,PALO BLANCO,005501
-barrio_830,l10n_co_base.city_11001,localidad_10,PUERTA DE TEJA,006404
-barrio_831,l10n_co_base.city_11001,localidad_10,EL REAL,005604
-barrio_832,l10n_co_base.city_11001,localidad_10,EL CEDRO,005629
-barrio_833,l10n_co_base.city_11001,localidad_10,TIBABUYES,009257
-barrio_834,l10n_co_base.city_11001,localidad_10,PRIMAVERA,005617
-barrio_835,l10n_co_base.city_11001,localidad_10,MARANDU,005665
-barrio_836,l10n_co_base.city_11001,localidad_10,QUIRIGUA ORIENTAL,005639
-barrio_837,l10n_co_base.city_11001,localidad_10,QUIRIGUA II,005684
-barrio_838,l10n_co_base.city_11001,localidad_10,METROPOLIS,005207
-barrio_839,l10n_co_base.city_11001,localidad_10,LA ESTRADA,005502
-barrio_840,l10n_co_base.city_11001,localidad_10,EL MADRIGAL,005635
-barrio_841,l10n_co_base.city_11001,localidad_10,VILLA GLADYS,005637
-barrio_842,l10n_co_base.city_11001,localidad_10,EL DORADO,005664
-barrio_843,l10n_co_base.city_11001,localidad_10,PARIS GAITAN,005612
+barrio_794,l10n_co_base.city_11001,localidad_9,LA ESPERANZA SUR,6315
+barrio_795,l10n_co_base.city_11001,localidad_10,EL ENCANTO,5605
+barrio_796,l10n_co_base.city_11001,localidad_10,SALITRE OCCIDENTAL,6313
+barrio_797,l10n_co_base.city_11001,localidad_10,EL SALITRE,5110
+barrio_798,l10n_co_base.city_11001,localidad_10,CIUDAD BACHUE,5630
+barrio_799,l10n_co_base.city_11001,localidad_10,VILLAS DE ALCALA,5668
+barrio_800,l10n_co_base.city_11001,localidad_10,BOCHICA II,5644
+barrio_801,l10n_co_base.city_11001,localidad_10,VILLAS DE GRANADA I,5649
+barrio_802,l10n_co_base.city_11001,localidad_10,BOLIVIA,5622
+barrio_803,l10n_co_base.city_11001,localidad_10,LA FAENA,5666
+barrio_804,l10n_co_base.city_11001,localidad_10,CIUDAD BACHUE II,5682
+barrio_805,l10n_co_base.city_11001,localidad_10,LAS FERIAS OCCIDENTAL,5405
+barrio_806,l10n_co_base.city_11001,localidad_10,BONANZA,5406
+barrio_807,l10n_co_base.city_11001,localidad_10,SANTA HELENITA,5608
+barrio_808,l10n_co_base.city_11001,localidad_10,LOS ALAMOS,5626
+barrio_809,l10n_co_base.city_11001,localidad_10,CIUDAD BACHUE I ETAPA,5631
+barrio_810,l10n_co_base.city_11001,localidad_10,ENGATIVA ZONA URBANA,5636
+barrio_811,l10n_co_base.city_11001,localidad_10,CLUB DE LOS LAGARTOS,9121
+barrio_812,l10n_co_base.city_11001,localidad_10,VILLAS DE GRANADA,5647
+barrio_813,l10n_co_base.city_11001,localidad_10,BOYACA,5603
+barrio_814,l10n_co_base.city_11001,localidad_10,LUIS CARLOS GALAN,5661
+barrio_815,l10n_co_base.city_11001,localidad_10,VILLA LUZ,5614
+barrio_816,l10n_co_base.city_11001,localidad_10,SABANA DEL DORADO,5657
+barrio_817,l10n_co_base.city_11001,localidad_10,CENTRO ENGATIVA II,5667
+barrio_818,l10n_co_base.city_11001,localidad_10,VILLA AMALIA,5648
+barrio_819,l10n_co_base.city_11001,localidad_10,AEROPUERTO EL DORADO,5624
+barrio_820,l10n_co_base.city_11001,localidad_10,GARCES NAVAS,5627
+barrio_821,l10n_co_base.city_11001,localidad_10,CIUDAD SALITRE NOR-ORIENTAL,6216
+barrio_822,l10n_co_base.city_11001,localidad_10,QUIRIGUA I,5683
+barrio_823,l10n_co_base.city_11001,localidad_10,LA RIVIERA,5670
+barrio_824,l10n_co_base.city_11001,localidad_10,LOS CEREZOS,5616
+barrio_825,l10n_co_base.city_11001,localidad_10,GARCES NAVAS SUR,5655
+barrio_826,l10n_co_base.city_11001,localidad_10,GARCES NAVAS ORIENTAL,5628
+barrio_827,l10n_co_base.city_11001,localidad_10,BOCHICA,5632
+barrio_828,l10n_co_base.city_11001,localidad_10,LAS FERIAS,5404
+barrio_829,l10n_co_base.city_11001,localidad_10,PALO BLANCO,5501
+barrio_830,l10n_co_base.city_11001,localidad_10,PUERTA DE TEJA,6404
+barrio_831,l10n_co_base.city_11001,localidad_10,EL REAL,5604
+barrio_832,l10n_co_base.city_11001,localidad_10,EL CEDRO,5629
+barrio_833,l10n_co_base.city_11001,localidad_10,TIBABUYES,9257
+barrio_834,l10n_co_base.city_11001,localidad_10,PRIMAVERA,5617
+barrio_835,l10n_co_base.city_11001,localidad_10,MARANDU,5665
+barrio_836,l10n_co_base.city_11001,localidad_10,QUIRIGUA ORIENTAL,5639
+barrio_837,l10n_co_base.city_11001,localidad_10,QUIRIGUA II,5684
+barrio_838,l10n_co_base.city_11001,localidad_10,METROPOLIS,5207
+barrio_839,l10n_co_base.city_11001,localidad_10,LA ESTRADA,5502
+barrio_840,l10n_co_base.city_11001,localidad_10,EL MADRIGAL,5635
+barrio_841,l10n_co_base.city_11001,localidad_10,VILLA GLADYS,5637
+barrio_842,l10n_co_base.city_11001,localidad_10,EL DORADO,5664
+barrio_843,l10n_co_base.city_11001,localidad_10,PARIS GAITAN,5612
 barrio_844,l10n_co_base.city_11001,localidad_10,SANTA CECILIA,207801
-barrio_845,l10n_co_base.city_11001,localidad_10,LA SERENA,005613
-barrio_846,l10n_co_base.city_11001,localidad_10,BOLIVIA,005675
-barrio_847,l10n_co_base.city_11001,localidad_10,EL LAUREL,005510
-barrio_848,l10n_co_base.city_11001,localidad_10,SANTA CECILIA,006301
-barrio_849,l10n_co_base.city_11001,localidad_10,SAN IGNACIO,005607
-barrio_850,l10n_co_base.city_11001,localidad_10,SAN ANTONIO ENGATIVA,005679
-barrio_851,l10n_co_base.city_11001,localidad_10,ALAMOS,005643
-barrio_852,l10n_co_base.city_11001,localidad_10,PARIS,005619
-barrio_853,l10n_co_base.city_11001,localidad_10,SAN JOAQUIN,005509
-barrio_854,l10n_co_base.city_11001,localidad_10,BELLAVISTA OCCIDENTAL,005503
-barrio_855,l10n_co_base.city_11001,localidad_10,SANTA CECILIA,005638
-barrio_856,l10n_co_base.city_11001,localidad_10,CIUDADELA COLSUBSIDIO,005650
-barrio_857,l10n_co_base.city_11001,localidad_10,VILLA SAGRARIO,005658
-barrio_858,l10n_co_base.city_11001,localidad_10,EL MINUTO DE DIOS,005601
-barrio_859,l10n_co_base.city_11001,localidad_10,NORMANDIA OCCIDENTAL,005606
-barrio_860,l10n_co_base.city_11001,localidad_10,JOSE JOAQUIN VARGAS,005101
-barrio_861,l10n_co_base.city_11001,localidad_10,LA CABANA,005508
-barrio_862,l10n_co_base.city_11001,localidad_10,LA ESTRADITA,005504
-barrio_863,l10n_co_base.city_11001,localidad_10,EL CORTIJO,005634
-barrio_864,l10n_co_base.city_11001,localidad_10,VILLA DEL MAR,005680
-barrio_865,l10n_co_base.city_11001,localidad_10,SAN ANTONIO URBANO,005660
-barrio_866,l10n_co_base.city_11001,localidad_10,FLORENCIA,005620
-barrio_867,l10n_co_base.city_11001,localidad_10,CAMPO EUCARISTICO,005114
-barrio_868,l10n_co_base.city_11001,localidad_10,POTOSI,005401
-barrio_869,l10n_co_base.city_11001,localidad_10,BOSQUE POPULAR,005505
-barrio_870,l10n_co_base.city_11001,localidad_10,NORMANDIA,005507
-barrio_871,l10n_co_base.city_11001,localidad_10,AUTOPISTA MEDELLIN,005611
-barrio_872,l10n_co_base.city_11001,localidad_10,SANTA MONICA,005641
+barrio_845,l10n_co_base.city_11001,localidad_10,LA SERENA,5613
+barrio_846,l10n_co_base.city_11001,localidad_10,BOLIVIA,5675
+barrio_847,l10n_co_base.city_11001,localidad_10,EL LAUREL,5510
+barrio_848,l10n_co_base.city_11001,localidad_10,SANTA CECILIA,6301
+barrio_849,l10n_co_base.city_11001,localidad_10,SAN IGNACIO,5607
+barrio_850,l10n_co_base.city_11001,localidad_10,SAN ANTONIO ENGATIVA,5679
+barrio_851,l10n_co_base.city_11001,localidad_10,ALAMOS,5643
+barrio_852,l10n_co_base.city_11001,localidad_10,PARIS,5619
+barrio_853,l10n_co_base.city_11001,localidad_10,SAN JOAQUIN,5509
+barrio_854,l10n_co_base.city_11001,localidad_10,BELLAVISTA OCCIDENTAL,5503
+barrio_855,l10n_co_base.city_11001,localidad_10,SANTA CECILIA,5638
+barrio_856,l10n_co_base.city_11001,localidad_10,CIUDADELA COLSUBSIDIO,5650
+barrio_857,l10n_co_base.city_11001,localidad_10,VILLA SAGRARIO,5658
+barrio_858,l10n_co_base.city_11001,localidad_10,EL MINUTO DE DIOS,5601
+barrio_859,l10n_co_base.city_11001,localidad_10,NORMANDIA OCCIDENTAL,5606
+barrio_860,l10n_co_base.city_11001,localidad_10,JOSE JOAQUIN VARGAS,5101
+barrio_861,l10n_co_base.city_11001,localidad_10,LA CABANA,5508
+barrio_862,l10n_co_base.city_11001,localidad_10,LA ESTRADITA,5504
+barrio_863,l10n_co_base.city_11001,localidad_10,EL CORTIJO,5634
+barrio_864,l10n_co_base.city_11001,localidad_10,VILLA DEL MAR,5680
+barrio_865,l10n_co_base.city_11001,localidad_10,SAN ANTONIO URBANO,5660
+barrio_866,l10n_co_base.city_11001,localidad_10,FLORENCIA,5620
+barrio_867,l10n_co_base.city_11001,localidad_10,CAMPO EUCARISTICO,5114
+barrio_868,l10n_co_base.city_11001,localidad_10,POTOSI,5401
+barrio_869,l10n_co_base.city_11001,localidad_10,BOSQUE POPULAR,5505
+barrio_870,l10n_co_base.city_11001,localidad_10,NORMANDIA,5507
+barrio_871,l10n_co_base.city_11001,localidad_10,AUTOPISTA MEDELLIN,5611
+barrio_872,l10n_co_base.city_11001,localidad_10,SANTA MONICA,5641
 barrio_873,l10n_co_base.city_11001,localidad_10,ENGATIVA EL DORADO,106301
-barrio_874,l10n_co_base.city_11001,localidad_10,LA GRANJA,005610
-barrio_875,l10n_co_base.city_11001,localidad_10,EL MUELLE,005652
-barrio_876,l10n_co_base.city_11001,localidad_10,PARQUE POPULAR SALITRE,005115
-barrio_877,l10n_co_base.city_11001,localidad_10,MODELIA,006311
-barrio_878,l10n_co_base.city_11001,localidad_10,JARDIN BOTANICO,005506
-barrio_879,l10n_co_base.city_11001,localidad_10,EL GACO,005669
-barrio_880,l10n_co_base.city_11001,localidad_10,LECH WALESA,009227
-barrio_881,l10n_co_base.city_11001,localidad_10,LOS ALAMOS,005625
-barrio_882,l10n_co_base.city_11001,localidad_10,LOS ANGELES,005623
-barrio_883,l10n_co_base.city_11001,localidad_10,LA SOLEDAD NORTE,005615
-barrio_884,l10n_co_base.city_11001,localidad_10,EL DORADO INDUSTRIAL,005663
-barrio_885,l10n_co_base.city_11001,localidad_10,JULIO FLOREZ,005403
-barrio_886,l10n_co_base.city_11001,localidad_10,LA CAROLINA DE SUBA,009236
-barrio_887,l10n_co_base.city_11001,localidad_10,FLORIDA BLANCA,005621
-barrio_888,l10n_co_base.city_11001,localidad_10,LA ESPERANZA NORTE,006303
-barrio_889,l10n_co_base.city_11001,localidad_10,SANTA TERESA DE SUBA,009238
-barrio_890,l10n_co_base.city_11001,localidad_10,EL CEDRO,005662
+barrio_874,l10n_co_base.city_11001,localidad_10,LA GRANJA,5610
+barrio_875,l10n_co_base.city_11001,localidad_10,EL MUELLE,5652
+barrio_876,l10n_co_base.city_11001,localidad_10,PARQUE POPULAR SALITRE,5115
+barrio_877,l10n_co_base.city_11001,localidad_10,MODELIA,6311
+barrio_878,l10n_co_base.city_11001,localidad_10,JARDIN BOTANICO,5506
+barrio_879,l10n_co_base.city_11001,localidad_10,EL GACO,5669
+barrio_880,l10n_co_base.city_11001,localidad_10,LECH WALESA,9227
+barrio_881,l10n_co_base.city_11001,localidad_10,LOS ALAMOS,5625
+barrio_882,l10n_co_base.city_11001,localidad_10,LOS ANGELES,5623
+barrio_883,l10n_co_base.city_11001,localidad_10,LA SOLEDAD NORTE,5615
+barrio_884,l10n_co_base.city_11001,localidad_10,EL DORADO INDUSTRIAL,5663
+barrio_885,l10n_co_base.city_11001,localidad_10,JULIO FLOREZ,5403
+barrio_886,l10n_co_base.city_11001,localidad_10,LA CAROLINA DE SUBA,9236
+barrio_887,l10n_co_base.city_11001,localidad_10,FLORIDA BLANCA,5621
+barrio_888,l10n_co_base.city_11001,localidad_10,LA ESPERANZA NORTE,6303
+barrio_889,l10n_co_base.city_11001,localidad_10,SANTA TERESA DE SUBA,9238
+barrio_890,l10n_co_base.city_11001,localidad_10,EL CEDRO,5662
 barrio_891,l10n_co_base.city_11001,localidad_10,EL PANTANO,106201
-barrio_892,l10n_co_base.city_11001,localidad_10,BOLIVIA ORIENTAL,005640
-barrio_893,l10n_co_base.city_11001,localidad_10,SANTA ROSA,005402
-barrio_894,l10n_co_base.city_11001,localidad_10,GRAN GRANADA,005654
-barrio_895,l10n_co_base.city_11001,localidad_10,SANTA MARIA,005602
-barrio_896,l10n_co_base.city_11001,localidad_10,TABORA,005609
-barrio_897,l10n_co_base.city_11001,localidad_11,SABANA DE TIBABUYES NORTE,009234
-barrio_898,l10n_co_base.city_11001,localidad_11,LAS MERCEDES SUBA,009239
-barrio_899,l10n_co_base.city_11001,localidad_11,NUEVA ZELANDIA,009120
-barrio_900,l10n_co_base.city_11001,localidad_11,SALITRE SUBA,009226
-barrio_901,l10n_co_base.city_11001,localidad_11,VEREDA SUBA CERROS II,009265
-barrio_902,l10n_co_base.city_11001,localidad_11,VILLA DEL PRADO,009129
-barrio_903,l10n_co_base.city_11001,localidad_11,PINOS DE LOMBARDIA,009245
-barrio_904,l10n_co_base.city_11001,localidad_11,TIBABUYES II,009248
-barrio_905,l10n_co_base.city_11001,localidad_11,IRAGUA,009247
-barrio_906,l10n_co_base.city_11001,localidad_11,RINCON DE SANTA INES,009217
-barrio_907,l10n_co_base.city_11001,localidad_11,TUNA,009261
-barrio_908,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA,009215
-barrio_909,l10n_co_base.city_11001,localidad_11,PORTALES DEL NORTE,009135
-barrio_910,l10n_co_base.city_11001,localidad_11,SABANA DE TIBABUYES,009232
-barrio_911,l10n_co_base.city_11001,localidad_11,CAMPANELLA,009219
-barrio_912,l10n_co_base.city_11001,localidad_11,EL PINO,009213
-barrio_913,l10n_co_base.city_11001,localidad_11,TIBABUYES OCCIDENTAL,009250
-barrio_914,l10n_co_base.city_11001,localidad_11,BRITALIA,009102
-barrio_915,l10n_co_base.city_11001,localidad_11,GRANADA NORTE,009101
-barrio_916,l10n_co_base.city_11001,localidad_11,BILBAO,009252
-barrio_917,l10n_co_base.city_11001,localidad_11,SAN CARLOS DE SUBA,009251
-barrio_918,l10n_co_base.city_11001,localidad_11,EL TOBERIN,008501
-barrio_919,l10n_co_base.city_11001,localidad_11,LOS ARRAYANES DE SUBA,009143
-barrio_920,l10n_co_base.city_11001,localidad_11,LAS MERCEDES I,009243
-barrio_921,l10n_co_base.city_11001,localidad_11,SUBA CERROS,009231
-barrio_922,l10n_co_base.city_11001,localidad_11,EL CEREZO,008527
+barrio_892,l10n_co_base.city_11001,localidad_10,BOLIVIA ORIENTAL,5640
+barrio_893,l10n_co_base.city_11001,localidad_10,SANTA ROSA,5402
+barrio_894,l10n_co_base.city_11001,localidad_10,GRAN GRANADA,5654
+barrio_895,l10n_co_base.city_11001,localidad_10,SANTA MARIA,5602
+barrio_896,l10n_co_base.city_11001,localidad_10,TABORA,5609
+barrio_897,l10n_co_base.city_11001,localidad_11,SABANA DE TIBABUYES NORTE,9234
+barrio_898,l10n_co_base.city_11001,localidad_11,LAS MERCEDES SUBA,9239
+barrio_899,l10n_co_base.city_11001,localidad_11,NUEVA ZELANDIA,9120
+barrio_900,l10n_co_base.city_11001,localidad_11,SALITRE SUBA,9226
+barrio_901,l10n_co_base.city_11001,localidad_11,VEREDA SUBA CERROS II,9265
+barrio_902,l10n_co_base.city_11001,localidad_11,VILLA DEL PRADO,9129
+barrio_903,l10n_co_base.city_11001,localidad_11,PINOS DE LOMBARDIA,9245
+barrio_904,l10n_co_base.city_11001,localidad_11,TIBABUYES II,9248
+barrio_905,l10n_co_base.city_11001,localidad_11,IRAGUA,9247
+barrio_906,l10n_co_base.city_11001,localidad_11,RINCON DE SANTA INES,9217
+barrio_907,l10n_co_base.city_11001,localidad_11,TUNA,9261
+barrio_908,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA,9215
+barrio_909,l10n_co_base.city_11001,localidad_11,PORTALES DEL NORTE,9135
+barrio_910,l10n_co_base.city_11001,localidad_11,SABANA DE TIBABUYES,9232
+barrio_911,l10n_co_base.city_11001,localidad_11,CAMPANELLA,9219
+barrio_912,l10n_co_base.city_11001,localidad_11,EL PINO,9213
+barrio_913,l10n_co_base.city_11001,localidad_11,TIBABUYES OCCIDENTAL,9250
+barrio_914,l10n_co_base.city_11001,localidad_11,BRITALIA,9102
+barrio_915,l10n_co_base.city_11001,localidad_11,GRANADA NORTE,9101
+barrio_916,l10n_co_base.city_11001,localidad_11,BILBAO,9252
+barrio_917,l10n_co_base.city_11001,localidad_11,SAN CARLOS DE SUBA,9251
+barrio_918,l10n_co_base.city_11001,localidad_11,EL TOBERIN,8501
+barrio_919,l10n_co_base.city_11001,localidad_11,LOS ARRAYANES DE SUBA,9143
+barrio_920,l10n_co_base.city_11001,localidad_11,LAS MERCEDES I,9243
+barrio_921,l10n_co_base.city_11001,localidad_11,SUBA CERROS,9231
+barrio_922,l10n_co_base.city_11001,localidad_11,EL CEREZO,8527
 barrio_923,l10n_co_base.city_11001,localidad_11,LA LOMITA,107112
-barrio_924,l10n_co_base.city_11001,localidad_11,TUNA BAJA,009242
-barrio_925,l10n_co_base.city_11001,localidad_11,SAN JOSE V SECTOR,009134
-barrio_926,l10n_co_base.city_11001,localidad_11,DELMONTE,009246
-barrio_927,l10n_co_base.city_11001,localidad_11,TUNA ALTA,009214
-barrio_928,l10n_co_base.city_11001,localidad_11,TIBABUYES,009233
-barrio_929,l10n_co_base.city_11001,localidad_11,VILLA HERMOSA,009244
+barrio_924,l10n_co_base.city_11001,localidad_11,TUNA BAJA,9242
+barrio_925,l10n_co_base.city_11001,localidad_11,SAN JOSE V SECTOR,9134
+barrio_926,l10n_co_base.city_11001,localidad_11,DELMONTE,9246
+barrio_927,l10n_co_base.city_11001,localidad_11,TUNA ALTA,9214
+barrio_928,l10n_co_base.city_11001,localidad_11,TIBABUYES,9233
+barrio_929,l10n_co_base.city_11001,localidad_11,VILLA HERMOSA,9244
 barrio_930,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA II,107111
-barrio_931,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA URBANO,009136
+barrio_931,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA URBANO,9136
 barrio_932,l10n_co_base.city_11001,localidad_11,GUAYMARAL,107101
 barrio_933,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA,107102
 barrio_934,l10n_co_base.city_11001,localidad_11,TORCA RURAL II,108110
-barrio_935,l10n_co_base.city_11001,localidad_11,LA CANDELARIA,009141
-barrio_936,l10n_co_base.city_11001,localidad_11,CONEJERA,009142
+barrio_935,l10n_co_base.city_11001,localidad_11,LA CANDELARIA,9141
+barrio_936,l10n_co_base.city_11001,localidad_11,CONEJERA,9142
 barrio_937,l10n_co_base.city_11001,localidad_11,BARAJAS NORTE,107109
 barrio_938,l10n_co_base.city_11001,localidad_11,TUNA RURAL,107106
-barrio_939,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA URBANO II,009139
+barrio_939,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA URBANO II,9139
 barrio_940,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA I,107110
-barrio_941,l10n_co_base.city_11001,localidad_11,NUESTRA SENORA DEL ROSARIO,009140
+barrio_941,l10n_co_base.city_11001,localidad_11,NUESTRA SENORA DEL ROSARIO,9140
 barrio_942,l10n_co_base.city_11001,localidad_11,LAS MERCEDES SUBA RURAL,107107
-barrio_943,l10n_co_base.city_11001,localidad_11,MIRANDELA,009133
+barrio_943,l10n_co_base.city_11001,localidad_11,MIRANDELA,9133
 barrio_944,l10n_co_base.city_11001,localidad_11,TIBABITA RURAL,108102
-barrio_945,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA URBANO I,009138
-barrio_946,l10n_co_base.city_11001,localidad_11,CANAIMA,008544
-barrio_947,l10n_co_base.city_11001,localidad_11,SAN JOSE DE BAVARIA,009113
-barrio_948,l10n_co_base.city_11001,localidad_11,RINCON ALTAMAR,009266
-barrio_949,l10n_co_base.city_11001,localidad_11,BOCHICA II,005644
-barrio_950,l10n_co_base.city_11001,localidad_11,PRADO VERANIEGO,009107
-barrio_951,l10n_co_base.city_11001,localidad_11,RIONEGRO,005308
-barrio_952,l10n_co_base.city_11001,localidad_11,ANDES NORTE,009127
-barrio_953,l10n_co_base.city_11001,localidad_11,NIZA NORTE,009123
-barrio_954,l10n_co_base.city_11001,localidad_11,LAS VILLAS,009122
-barrio_955,l10n_co_base.city_11001,localidad_11,ALMIRANTE COLON,009218
-barrio_956,l10n_co_base.city_11001,localidad_11,CLUB DE LOS LAGARTOS,009121
-barrio_957,l10n_co_base.city_11001,localidad_11,LUIS CARLOS GALAN,005661
-barrio_958,l10n_co_base.city_11001,localidad_11,LOMBARDIA,009228
-barrio_959,l10n_co_base.city_11001,localidad_11,SANTA RITA DE SUBA,009255
-barrio_960,l10n_co_base.city_11001,localidad_11,BOSQUES DE SAN JORGE,009241
-barrio_961,l10n_co_base.city_11001,localidad_11,SUBA URBANO,009212
-barrio_962,l10n_co_base.city_11001,localidad_11,EL POA,009211
-barrio_963,l10n_co_base.city_11001,localidad_11,BERLIN,009259
-barrio_964,l10n_co_base.city_11001,localidad_11,PRADO VERANIEGO SUR,009117
-barrio_965,l10n_co_base.city_11001,localidad_11,CANODROMO,009130
-barrio_966,l10n_co_base.city_11001,localidad_11,LOS ANDES,005307
-barrio_967,l10n_co_base.city_11001,localidad_11,GILMAR,009114
-barrio_968,l10n_co_base.city_11001,localidad_11,SAN PEDRO,009253
-barrio_969,l10n_co_base.city_11001,localidad_11,TIBABUYES UNIVERSAL,009225
-barrio_970,l10n_co_base.city_11001,localidad_11,LAS FLORES,009210
-barrio_971,l10n_co_base.city_11001,localidad_11,CANTAGALLO,009103
-barrio_972,l10n_co_base.city_11001,localidad_11,PUERTA DEL SOL,009203
-barrio_973,l10n_co_base.city_11001,localidad_11,TOSCANA,009229
-barrio_974,l10n_co_base.city_11001,localidad_11,LISBOA,009254
-barrio_975,l10n_co_base.city_11001,localidad_11,LAS ORQUIDEAS,008516
-barrio_976,l10n_co_base.city_11001,localidad_11,LOS CEREZOS,005616
-barrio_977,l10n_co_base.city_11001,localidad_11,LA CASTELLANA,005304
-barrio_978,l10n_co_base.city_11001,localidad_11,EL PLAN,009128
-barrio_979,l10n_co_base.city_11001,localidad_11,LA GAITANA,009216
-barrio_980,l10n_co_base.city_11001,localidad_11,LA GAITANA ORIENTAL,009262
-barrio_981,l10n_co_base.city_11001,localidad_11,VILLA MARIA,009209
-barrio_982,l10n_co_base.city_11001,localidad_11,TIBABUYES,009257
-barrio_983,l10n_co_base.city_11001,localidad_11,SANTA CECILIA,009256
-barrio_984,l10n_co_base.city_11001,localidad_11,EL DORADO,005664
-barrio_985,l10n_co_base.city_11001,localidad_11,ESTRELLA DEL NORTE,008519
+barrio_945,l10n_co_base.city_11001,localidad_11,CASABLANCA SUBA URBANO I,9138
+barrio_946,l10n_co_base.city_11001,localidad_11,CANAIMA,8544
+barrio_947,l10n_co_base.city_11001,localidad_11,SAN JOSE DE BAVARIA,9113
+barrio_948,l10n_co_base.city_11001,localidad_11,RINCON ALTAMAR,9266
+barrio_949,l10n_co_base.city_11001,localidad_11,BOCHICA II,5644
+barrio_950,l10n_co_base.city_11001,localidad_11,PRADO VERANIEGO,9107
+barrio_951,l10n_co_base.city_11001,localidad_11,RIONEGRO,5308
+barrio_952,l10n_co_base.city_11001,localidad_11,ANDES NORTE,9127
+barrio_953,l10n_co_base.city_11001,localidad_11,NIZA NORTE,9123
+barrio_954,l10n_co_base.city_11001,localidad_11,LAS VILLAS,9122
+barrio_955,l10n_co_base.city_11001,localidad_11,ALMIRANTE COLON,9218
+barrio_956,l10n_co_base.city_11001,localidad_11,CLUB DE LOS LAGARTOS,9121
+barrio_957,l10n_co_base.city_11001,localidad_11,LUIS CARLOS GALAN,5661
+barrio_958,l10n_co_base.city_11001,localidad_11,LOMBARDIA,9228
+barrio_959,l10n_co_base.city_11001,localidad_11,SANTA RITA DE SUBA,9255
+barrio_960,l10n_co_base.city_11001,localidad_11,BOSQUES DE SAN JORGE,9241
+barrio_961,l10n_co_base.city_11001,localidad_11,SUBA URBANO,9212
+barrio_962,l10n_co_base.city_11001,localidad_11,EL POA,9211
+barrio_963,l10n_co_base.city_11001,localidad_11,BERLIN,9259
+barrio_964,l10n_co_base.city_11001,localidad_11,PRADO VERANIEGO SUR,9117
+barrio_965,l10n_co_base.city_11001,localidad_11,CANODROMO,9130
+barrio_966,l10n_co_base.city_11001,localidad_11,LOS ANDES,5307
+barrio_967,l10n_co_base.city_11001,localidad_11,GILMAR,9114
+barrio_968,l10n_co_base.city_11001,localidad_11,SAN PEDRO,9253
+barrio_969,l10n_co_base.city_11001,localidad_11,TIBABUYES UNIVERSAL,9225
+barrio_970,l10n_co_base.city_11001,localidad_11,LAS FLORES,9210
+barrio_971,l10n_co_base.city_11001,localidad_11,CANTAGALLO,9103
+barrio_972,l10n_co_base.city_11001,localidad_11,PUERTA DEL SOL,9203
+barrio_973,l10n_co_base.city_11001,localidad_11,TOSCANA,9229
+barrio_974,l10n_co_base.city_11001,localidad_11,LISBOA,9254
+barrio_975,l10n_co_base.city_11001,localidad_11,LAS ORQUIDEAS,8516
+barrio_976,l10n_co_base.city_11001,localidad_11,LOS CEREZOS,5616
+barrio_977,l10n_co_base.city_11001,localidad_11,LA CASTELLANA,5304
+barrio_978,l10n_co_base.city_11001,localidad_11,EL PLAN,9128
+barrio_979,l10n_co_base.city_11001,localidad_11,LA GAITANA,9216
+barrio_980,l10n_co_base.city_11001,localidad_11,LA GAITANA ORIENTAL,9262
+barrio_981,l10n_co_base.city_11001,localidad_11,VILLA MARIA,9209
+barrio_982,l10n_co_base.city_11001,localidad_11,TIBABUYES,9257
+barrio_983,l10n_co_base.city_11001,localidad_11,SANTA CECILIA,9256
+barrio_984,l10n_co_base.city_11001,localidad_11,EL DORADO,5664
+barrio_985,l10n_co_base.city_11001,localidad_11,ESTRELLA DEL NORTE,8519
 barrio_986,l10n_co_base.city_11001,localidad_11,SANTA CECILIA,207801
-barrio_987,l10n_co_base.city_11001,localidad_11,COSTA AZUL,009208
-barrio_988,l10n_co_base.city_11001,localidad_11,MAZUREN,009110
-barrio_989,l10n_co_base.city_11001,localidad_11,LA SERENA,005613
-barrio_990,l10n_co_base.city_11001,localidad_11,BATAN,009118
-barrio_991,l10n_co_base.city_11001,localidad_11,NIZA SUR,009109
-barrio_992,l10n_co_base.city_11001,localidad_11,LA CHUCUA,009221
-barrio_993,l10n_co_base.city_11001,localidad_11,CASA BLANCA SUBA I,009258
-barrio_994,l10n_co_base.city_11001,localidad_11,ESCUELA DE CARABINEROS,009132
-barrio_995,l10n_co_base.city_11001,localidad_11,NUEVA TIBABUYES,009224
-barrio_996,l10n_co_base.city_11001,localidad_11,ALTOS DE CHOZICA,009222
-barrio_997,l10n_co_base.city_11001,localidad_11,LAS MARGARITAS,008530
-barrio_998,l10n_co_base.city_11001,localidad_11,VILLA ELISA,009207
-barrio_999,l10n_co_base.city_11001,localidad_11,POTRERILLO,009240
-barrio_1000,l10n_co_base.city_11001,localidad_11,CIUDADELA COLSUBSIDIO,005650
-barrio_1001,l10n_co_base.city_11001,localidad_11,AURES II,009206
-barrio_1002,l10n_co_base.city_11001,localidad_11,AURES,009205
-barrio_1003,l10n_co_base.city_11001,localidad_11,EL MINUTO DE DIOS,005601
-barrio_1004,l10n_co_base.city_11001,localidad_11,SANTA HELENA,009131
-barrio_1005,l10n_co_base.city_11001,localidad_11,LAGO DE SUBA,009220
-barrio_1006,l10n_co_base.city_11001,localidad_11,MONACO,009111
-barrio_1007,l10n_co_base.city_11001,localidad_11,VICTORIA NORTE,009104
-barrio_1008,l10n_co_base.city_11001,localidad_11,ALTOS DE SUBA,009260
-barrio_1009,l10n_co_base.city_11001,localidad_11,NIZA SUBA,009112
-barrio_1010,l10n_co_base.city_11001,localidad_11,VEREDA SUBA NARANJOS,009249
-barrio_1011,l10n_co_base.city_11001,localidad_11,POTOSI,005401
-barrio_1012,l10n_co_base.city_11001,localidad_11,ATENAS,009119
-barrio_1013,l10n_co_base.city_11001,localidad_11,TTES DE COLOMBIA,009223
-barrio_1014,l10n_co_base.city_11001,localidad_11,PUENTE LARGO,009124
-barrio_1015,l10n_co_base.city_11001,localidad_11,PRADO PINZON,009105
-barrio_1016,l10n_co_base.city_11001,localidad_11,IBERIA,009115
-barrio_1017,l10n_co_base.city_11001,localidad_11,EL RINCON NORTE,009204
-barrio_1018,l10n_co_base.city_11001,localidad_11,LECH WALESA,009227
-barrio_1019,l10n_co_base.city_11001,localidad_11,SAN CAYETANO,009230
-barrio_1020,l10n_co_base.city_11001,localidad_11,LOS NARANJOS,009201
-barrio_1021,l10n_co_base.city_11001,localidad_11,JULIO FLOREZ,005403
-barrio_1022,l10n_co_base.city_11001,localidad_11,SAN JOSE DEL PRADO,009106
-barrio_1023,l10n_co_base.city_11001,localidad_11,LA CAROLINA DE SUBA,009236
-barrio_1024,l10n_co_base.city_11001,localidad_11,SANTA TERESA DE SUBA,009238
-barrio_1025,l10n_co_base.city_11001,localidad_11,EL RINCON,009202
-barrio_1026,l10n_co_base.city_11001,localidad_11,CIUDAD JARDIN NORTE,009108
-barrio_1027,l10n_co_base.city_11001,localidad_11,VILLA ALCAZAR,009263
-barrio_1028,l10n_co_base.city_11001,localidad_11,BOLIVIA ORIENTAL,005640
-barrio_1029,l10n_co_base.city_11001,localidad_11,SANTA ROSA,005402
-barrio_1030,l10n_co_base.city_11001,localidad_11,PRADO VERANIEGO NORTE,009116
-barrio_1031,l10n_co_base.city_11001,localidad_11,RINCON DE SUBA,009237
-barrio_1032,l10n_co_base.city_11001,localidad_11,CIUDAD HUNZA,009235
-barrio_1033,l10n_co_base.city_11001,localidad_11,PASADENA,009125
-barrio_1034,l10n_co_base.city_11001,localidad_11,ESTORIL,009126
-barrio_1035,l10n_co_base.city_11001,localidad_12,LA MERCED NORTE,007301
-barrio_1036,l10n_co_base.city_11001,localidad_12,CONCEPCION NORTE,007304
-barrio_1037,l10n_co_base.city_11001,localidad_12,QUINTA CAMACHO,008201
-barrio_1038,l10n_co_base.city_11001,localidad_12,EL ROSARIO,005104
-barrio_1039,l10n_co_base.city_11001,localidad_12,RAFAEL URIBE,007312
-barrio_1040,l10n_co_base.city_11001,localidad_12,SIMON BOLIVAR,005205
-barrio_1041,l10n_co_base.city_11001,localidad_12,QUINTA MUTIS,007308
-barrio_1042,l10n_co_base.city_11001,localidad_12,RIONEGRO,005308
-barrio_1043,l10n_co_base.city_11001,localidad_12,BENJAMIN HERRERA,007309
-barrio_1044,l10n_co_base.city_11001,localidad_12,LA ESPERANZA,007305
-barrio_1045,l10n_co_base.city_11001,localidad_12,MUEQUETA,007307
-barrio_1046,l10n_co_base.city_11001,localidad_12,BAQUERO,007306
-barrio_1047,l10n_co_base.city_11001,localidad_12,CHAPINERO NORTE,008214
-barrio_1048,l10n_co_base.city_11001,localidad_12,SAN LUIS,007202
-barrio_1049,l10n_co_base.city_11001,localidad_12,LOS ANDES,005307
-barrio_1050,l10n_co_base.city_11001,localidad_12,CAMPIN OCCIDENTAL,005105
-barrio_1051,l10n_co_base.city_11001,localidad_12,NICOLAS DE FEDERMAN,005106
-barrio_1052,l10n_co_base.city_11001,localidad_12,LA CASTELLANA,005304
-barrio_1053,l10n_co_base.city_11001,localidad_12,LAS FERIAS,005404
-barrio_1054,l10n_co_base.city_11001,localidad_12,ENTRERIOS,005306
-barrio_1055,l10n_co_base.city_11001,localidad_12,JORGE ELIECER GAITAN,005201
-barrio_1056,l10n_co_base.city_11001,localidad_12,ESCUELA MILITAR,005310
-barrio_1057,l10n_co_base.city_11001,localidad_12,METROPOLIS,005207
-barrio_1058,l10n_co_base.city_11001,localidad_12,BELLAVISTA OCCIDENTAL,005503
-barrio_1059,l10n_co_base.city_11001,localidad_12,LA PATRIA,005305
-barrio_1060,l10n_co_base.city_11001,localidad_12,SAN FERNANDO OCCIDENTAL,005204
-barrio_1061,l10n_co_base.city_11001,localidad_12,LA LIBERTAD,005206
-barrio_1062,l10n_co_base.city_11001,localidad_12,POLO CLUB,007401
-barrio_1063,l10n_co_base.city_11001,localidad_12,JOSE JOAQUIN VARGAS,005101
-barrio_1064,l10n_co_base.city_11001,localidad_12,LA ESTRADITA,005504
-barrio_1065,l10n_co_base.city_11001,localidad_12,PARQUE DISTRITAL SALITRE,005112
-barrio_1066,l10n_co_base.city_11001,localidad_12,SAN FERNANDO,005203
-barrio_1067,l10n_co_base.city_11001,localidad_12,DOCE DE OCTUBRE,005202
-barrio_1068,l10n_co_base.city_11001,localidad_12,CAMPO EUCARISTICO,005114
-barrio_1069,l10n_co_base.city_11001,localidad_12,BOSQUE POPULAR,005505
-barrio_1070,l10n_co_base.city_11001,localidad_12,ALCAZARES,007302
-barrio_1071,l10n_co_base.city_11001,localidad_12,SAN MIGUEL,005103
-barrio_1072,l10n_co_base.city_11001,localidad_12,SANTA SOFIA,007406
-barrio_1073,l10n_co_base.city_11001,localidad_12,PARQUE POPULAR SALITRE,005115
-barrio_1074,l10n_co_base.city_11001,localidad_12,POPULAR MODELO,005102
-barrio_1075,l10n_co_base.city_11001,localidad_12,ONCE DE NOVIEMBRE,007405
-barrio_1076,l10n_co_base.city_11001,localidad_12,JUAN XXIII,007402
-barrio_1077,l10n_co_base.city_11001,localidad_12,LAGO GAITAN,008313
-barrio_1078,l10n_co_base.city_11001,localidad_12,LA AURORA,007407
-barrio_1079,l10n_co_base.city_11001,localidad_12,ALCAZARES NORTE,007404
-barrio_1080,l10n_co_base.city_11001,localidad_12,CAMPIN,007201
-barrio_1081,l10n_co_base.city_11001,localidad_12,JULIO FLOREZ,005403
-barrio_1082,l10n_co_base.city_11001,localidad_12,COLOMBIA,007303
-barrio_1083,l10n_co_base.city_11001,localidad_12,SAN FELIPE,007403
-barrio_1084,l10n_co_base.city_11001,localidad_12,LA PAZ,007310
-barrio_1085,l10n_co_base.city_11001,localidad_12,ESTORIL,009126
-barrio_1086,l10n_co_base.city_11001,localidad_12,SIETE DE AGOSTO,007311
-barrio_1087,l10n_co_base.city_11001,localidad_12,PABLO VI NORTE,005116
-barrio_1088,l10n_co_base.city_11001,localidad_13,QUESADA,007204
-barrio_1089,l10n_co_base.city_11001,localidad_13,ARMENIA,007105
-barrio_1090,l10n_co_base.city_11001,localidad_13,ALFONSO LOPEZ,007209
-barrio_1091,l10n_co_base.city_11001,localidad_13,QUINTA PAREDES,006209
-barrio_1092,l10n_co_base.city_11001,localidad_13,FLORIDA,006101
-barrio_1093,l10n_co_base.city_11001,localidad_13,CENTRO NARINO,006210
-barrio_1094,l10n_co_base.city_11001,localidad_13,TEUSAQUILLO,007104
-barrio_1095,l10n_co_base.city_11001,localidad_13,LA FLORIDA OCCIDENTAL,006203
-barrio_1096,l10n_co_base.city_11001,localidad_13,USATAMA,006110
-barrio_1097,l10n_co_base.city_11001,localidad_13,ESTRELLA,007106
-barrio_1098,l10n_co_base.city_11001,localidad_13,PUENTE ARANDA,006215
-barrio_1099,l10n_co_base.city_11001,localidad_13,ORTEZAL,006208
-barrio_1100,l10n_co_base.city_11001,localidad_13,PALERMO,007205
-barrio_1101,l10n_co_base.city_11001,localidad_13,SAMPER,008108
-barrio_1102,l10n_co_base.city_11001,localidad_13,EL RECUERDO,006201
-barrio_1103,l10n_co_base.city_11001,localidad_13,LA SOLEDAD,007101
-barrio_1104,l10n_co_base.city_11001,localidad_13,SANTA TERESITA,007102
-barrio_1105,l10n_co_base.city_11001,localidad_13,LAS AMERICAS,007107
-barrio_1106,l10n_co_base.city_11001,localidad_13,ACEVEDO TEJADA,005107
-barrio_1107,l10n_co_base.city_11001,localidad_13,LA MAGDALENA,007103
-barrio_1108,l10n_co_base.city_11001,localidad_13,GRAN AMERICA,006202
-barrio_1109,l10n_co_base.city_11001,localidad_13,CHAPINERO CENTRAL,008213
-barrio_1110,l10n_co_base.city_11001,localidad_13,CIUDAD SALITRE SUR-ORIENTAL,006217
-barrio_1111,l10n_co_base.city_11001,localidad_13,GALERIAS,007207
-barrio_1112,l10n_co_base.city_11001,localidad_13,RAFAEL NUNEZ,005117
-barrio_1113,l10n_co_base.city_11001,localidad_13,CENTRO INDUSTRIAL,006218
-barrio_1114,l10n_co_base.city_11001,localidad_13,CIUDAD UNIVERSITARIA,005108
-barrio_1115,l10n_co_base.city_11001,localidad_13,SANTA FE,006103
-barrio_1116,l10n_co_base.city_11001,localidad_13,SALITRE OCCIDENTAL,006313
-barrio_1117,l10n_co_base.city_11001,localidad_13,BANCO CENTRAL,007208
-barrio_1118,l10n_co_base.city_11001,localidad_13,BELALCAZAR,007206
-barrio_1119,l10n_co_base.city_11001,localidad_13,EL ROSARIO,005104
-barrio_1120,l10n_co_base.city_11001,localidad_13,EL SALITRE,005110
-barrio_1121,l10n_co_base.city_11001,localidad_13,LA ESPERANZA,007305
-barrio_1122,l10n_co_base.city_11001,localidad_13,BAQUERO,007306
-barrio_1123,l10n_co_base.city_11001,localidad_13,PAULO VI,005113
-barrio_1124,l10n_co_base.city_11001,localidad_13,CHAPINERO NORTE,008214
-barrio_1125,l10n_co_base.city_11001,localidad_13,SAN LUIS,007202
-barrio_1126,l10n_co_base.city_11001,localidad_13,MONTEVIDEO,006307
-barrio_1127,l10n_co_base.city_11001,localidad_13,CENTRO ADMINISTRATIVO OCC.,005109
-barrio_1128,l10n_co_base.city_11001,localidad_13,CHAPINERO OCCIDENTAL,007203
-barrio_1129,l10n_co_base.city_11001,localidad_13,CIUDAD SALITRE NOR-ORIENTAL,006216
-barrio_1130,l10n_co_base.city_11001,localidad_13,CAMPIN OCCIDENTAL,005105
-barrio_1131,l10n_co_base.city_11001,localidad_13,NICOLAS DE FEDERMAN,005106
-barrio_1132,l10n_co_base.city_11001,localidad_13,LA ESMERALDA,005111
-barrio_1133,l10n_co_base.city_11001,localidad_13,PARQUE DISTRITAL SALITRE,005112
-barrio_1134,l10n_co_base.city_11001,localidad_13,CAMPO EUCARISTICO,005114
-barrio_1135,l10n_co_base.city_11001,localidad_13,BOSQUE POPULAR,005505
-barrio_1136,l10n_co_base.city_11001,localidad_13,PARQUE POPULAR SALITRE,005115
-barrio_1137,l10n_co_base.city_11001,localidad_13,JARDIN BOTANICO,005506
-barrio_1138,l10n_co_base.city_11001,localidad_13,CAMPIN,007201
-barrio_1139,l10n_co_base.city_11001,localidad_13,PABLO VI NORTE,005116
-barrio_1140,l10n_co_base.city_11001,localidad_14,ARMENIA,007105
-barrio_1141,l10n_co_base.city_11001,localidad_14,ESTACION CENTRAL,006204
-barrio_1142,l10n_co_base.city_11001,localidad_14,FLORIDA,006101
-barrio_1143,l10n_co_base.city_11001,localidad_14,SAMPER MENDOZA,006108
-barrio_1144,l10n_co_base.city_11001,localidad_14,LA FLORIDA OCCIDENTAL,006203
-barrio_1145,l10n_co_base.city_11001,localidad_14,USATAMA,006110
-barrio_1146,l10n_co_base.city_11001,localidad_14,ESTRELLA,007106
-barrio_1147,l10n_co_base.city_11001,localidad_14,SANTA FE,006103
-barrio_1148,l10n_co_base.city_11001,localidad_14,PALOQUEMAO,006107
-barrio_1149,l10n_co_base.city_11001,localidad_14,COLSEGUROS,006109
-barrio_1150,l10n_co_base.city_11001,localidad_14,VOTO NACIONAL,004103
-barrio_1151,l10n_co_base.city_11001,localidad_14,LA ALAMEDA,003101
-barrio_1152,l10n_co_base.city_11001,localidad_14,RICAURTE,004101
-barrio_1153,l10n_co_base.city_11001,localidad_14,LA FAVORITA,006104
-barrio_1154,l10n_co_base.city_11001,localidad_14,LA SABANA,004102
-barrio_1155,l10n_co_base.city_11001,localidad_14,COMUNEROS,004202
-barrio_1156,l10n_co_base.city_11001,localidad_14,SAN VICTORINO,006105
-barrio_1157,l10n_co_base.city_11001,localidad_14,LA CAPUCHINA,003108
-barrio_1158,l10n_co_base.city_11001,localidad_14,LA PEPITA,004110
-barrio_1159,l10n_co_base.city_11001,localidad_14,VERAGUAS,004109
-barrio_1160,l10n_co_base.city_11001,localidad_14,LA ESTANZUELA,004104
-barrio_1161,l10n_co_base.city_11001,localidad_14,EL PROGRESO,004111
-barrio_1162,l10n_co_base.city_11001,localidad_14,LA ASUNCION,004203
-barrio_1163,l10n_co_base.city_11001,localidad_14,SANTA ISABEL,004108
-barrio_1164,l10n_co_base.city_11001,localidad_14,SANTA INES,003107
-barrio_1165,l10n_co_base.city_11001,localidad_14,SANTA ISABEL SUR,004107
-barrio_1166,l10n_co_base.city_11001,localidad_14,EL VERGEL,004106
-barrio_1167,l10n_co_base.city_11001,localidad_14,LA FRAGUA,002107
-barrio_1168,l10n_co_base.city_11001,localidad_14,EDUARDO SANTOS,004105
-barrio_1169,l10n_co_base.city_11001,localidad_14,LA FRAGUITA,002101
-barrio_1170,l10n_co_base.city_11001,localidad_14,SAN ANTONIO,002102
-barrio_1171,l10n_co_base.city_11001,localidad_14,LA HORTUA,001208
-barrio_1172,l10n_co_base.city_11001,localidad_14,EL LISTON,006106
-barrio_1173,l10n_co_base.city_11001,localidad_15,SAN JOSE SUR,001401
-barrio_1174,l10n_co_base.city_11001,localidad_15,CARACAS,001203
-barrio_1175,l10n_co_base.city_11001,localidad_15,CIUDAD JARDIN SUR,001204
-barrio_1176,l10n_co_base.city_11001,localidad_15,NARINO SUR,001207
-barrio_1177,l10n_co_base.city_11001,localidad_15,SOCIEGO,001205
-barrio_1178,l10n_co_base.city_11001,localidad_15,SOSIEGO SUR,001404
-barrio_1179,l10n_co_base.city_11001,localidad_15,EL VERGEL,004106
-barrio_1180,l10n_co_base.city_11001,localidad_15,SENA,002106
-barrio_1181,l10n_co_base.city_11001,localidad_15,LA FRAGUA,002107
-barrio_1182,l10n_co_base.city_11001,localidad_15,SAN BERNARDINO,003201
-barrio_1183,l10n_co_base.city_11001,localidad_15,EDUARDO SANTOS,004105
-barrio_1184,l10n_co_base.city_11001,localidad_15,SANTANDER,002105
-barrio_1185,l10n_co_base.city_11001,localidad_15,EDUARDO FREY,002301
-barrio_1186,l10n_co_base.city_11001,localidad_15,LA FRAGUITA,002101
-barrio_1187,l10n_co_base.city_11001,localidad_15,VILLA MAYOR ORIENTAL,002309
-barrio_1188,l10n_co_base.city_11001,localidad_15,SANTANDER SUR,002302
-barrio_1189,l10n_co_base.city_11001,localidad_15,RESTREPO OCCIDENTAL,002104
-barrio_1190,l10n_co_base.city_11001,localidad_15,ESCUELA GENERAL SANTANDER,002405
-barrio_1191,l10n_co_base.city_11001,localidad_15,SAN ANTONIO,002102
-barrio_1192,l10n_co_base.city_11001,localidad_15,LIBERTADOR,002305
-barrio_1193,l10n_co_base.city_11001,localidad_15,VILLA MAYOR,002311
-barrio_1194,l10n_co_base.city_11001,localidad_15,LA HORTUA,001208
-barrio_1195,l10n_co_base.city_11001,localidad_15,SEVILLA,001201
-barrio_1196,l10n_co_base.city_11001,localidad_15,RESTREPO,002103
-barrio_1197,l10n_co_base.city_11001,localidad_15,BRAVO PAEZ,002306
-barrio_1198,l10n_co_base.city_11001,localidad_15,SANTIAGO PEREZ,002304
-barrio_1199,l10n_co_base.city_11001,localidad_15,POLICARPA,001211
-barrio_1200,l10n_co_base.city_11001,localidad_15,MURILLO TORO,002310
-barrio_1201,l10n_co_base.city_11001,localidad_15,CIUDAD BERNA,001202
-barrio_1202,l10n_co_base.city_11001,localidad_16,ESTACION CENTRAL,006204
-barrio_1203,l10n_co_base.city_11001,localidad_16,LUSITANIA,006509
-barrio_1204,l10n_co_base.city_11001,localidad_16,GORGONZOLA,004207
-barrio_1205,l10n_co_base.city_11001,localidad_16,EL EJIDO,006206
-barrio_1206,l10n_co_base.city_11001,localidad_16,SAN FRANCISCO,004206
-barrio_1207,l10n_co_base.city_11001,localidad_16,CENTRO NARINO,006210
-barrio_1208,l10n_co_base.city_11001,localidad_16,SAN GABRIEL,004307
-barrio_1209,l10n_co_base.city_11001,localidad_16,INDUSTRIAL CENTENARIO,006205
-barrio_1210,l10n_co_base.city_11001,localidad_16,LA FLORIDA OCCIDENTAL,006203
-barrio_1211,l10n_co_base.city_11001,localidad_16,COLON,004308
-barrio_1212,l10n_co_base.city_11001,localidad_16,CORREDOR FERREO DEL SUR,004572
-barrio_1213,l10n_co_base.city_11001,localidad_16,CUNDINAMARCA,006211
-barrio_1214,l10n_co_base.city_11001,localidad_16,GALAN,004304
-barrio_1215,l10n_co_base.city_11001,localidad_16,BARCELONA,004303
-barrio_1216,l10n_co_base.city_11001,localidad_16,LOS EJIDOS,004208
-barrio_1217,l10n_co_base.city_11001,localidad_16,SAN RAFAEL,004302
-barrio_1218,l10n_co_base.city_11001,localidad_16,PUENTE ARANDA,006215
-barrio_1219,l10n_co_base.city_11001,localidad_16,ORTEZAL,006208
-barrio_1220,l10n_co_base.city_11001,localidad_16,SALAZAR GOMEZ,006212
-barrio_1221,l10n_co_base.city_11001,localidad_16,BATALLON CALDAS,006207
-barrio_1222,l10n_co_base.city_11001,localidad_16,GRAN AMERICA,006202
-barrio_1223,l10n_co_base.city_11001,localidad_16,HIPOTECHO SUR,004551
-barrio_1224,l10n_co_base.city_11001,localidad_16,LA PRADERA,004305
-barrio_1225,l10n_co_base.city_11001,localidad_16,LA TRINIDAD,004306
-barrio_1226,l10n_co_base.city_11001,localidad_16,SAN RAFAEL INDUSTRIAL,004301
-barrio_1227,l10n_co_base.city_11001,localidad_16,GRANJAS DE TECHO,006306
-barrio_1228,l10n_co_base.city_11001,localidad_16,CENTRO INDUSTRIAL,006218
-barrio_1229,l10n_co_base.city_11001,localidad_16,PALOQUEMAO,006107
-barrio_1230,l10n_co_base.city_11001,localidad_16,MONTEVIDEO,006307
-barrio_1231,l10n_co_base.city_11001,localidad_16,REMANSO,004402
-barrio_1232,l10n_co_base.city_11001,localidad_16,MONTES,004204
-barrio_1233,l10n_co_base.city_11001,localidad_16,RICAURTE,004101
-barrio_1234,l10n_co_base.city_11001,localidad_16,LA CAMELIA,004309
-barrio_1235,l10n_co_base.city_11001,localidad_16,TIBANA,004212
-barrio_1236,l10n_co_base.city_11001,localidad_16,JORGE GAITAN CORTES,004210
-barrio_1237,l10n_co_base.city_11001,localidad_16,SAN EUSEBIO,004401
-barrio_1238,l10n_co_base.city_11001,localidad_16,COMUNEROS,004202
-barrio_1239,l10n_co_base.city_11001,localidad_16,ALQUERIA LA FRAGUA NORTE,004542
-barrio_1240,l10n_co_base.city_11001,localidad_16,TEJAR,004408
-barrio_1241,l10n_co_base.city_11001,localidad_16,BOCHICA,004211
-barrio_1242,l10n_co_base.city_11001,localidad_16,VERAGUAS,004109
-barrio_1243,l10n_co_base.city_11001,localidad_16,ALCALA,004407
-barrio_1244,l10n_co_base.city_11001,localidad_16,REMANSO SUR,004412
-barrio_1245,l10n_co_base.city_11001,localidad_16,ALQUERIA,004409
-barrio_1246,l10n_co_base.city_11001,localidad_16,LA ASUNCION,004203
-barrio_1247,l10n_co_base.city_11001,localidad_16,AUTOPISTA SUR,004404
-barrio_1248,l10n_co_base.city_11001,localidad_16,SANTA MATILDE,004209
-barrio_1249,l10n_co_base.city_11001,localidad_16,SANTA ISABEL,004108
-barrio_1250,l10n_co_base.city_11001,localidad_16,AUTOPISTA MUZU,004403
-barrio_1251,l10n_co_base.city_11001,localidad_16,OSPINA PEREZ,004406
-barrio_1252,l10n_co_base.city_11001,localidad_16,SANTA ISABEL SUR,004107
-barrio_1253,l10n_co_base.city_11001,localidad_16,AUTOPISTA MUZU ORIENTAL,004413
-barrio_1254,l10n_co_base.city_11001,localidad_16,SENA,002106
-barrio_1255,l10n_co_base.city_11001,localidad_16,LA FRAGUA,002107
-barrio_1256,l10n_co_base.city_11001,localidad_16,OSPINA PEREZ SUR,004405
-barrio_1257,l10n_co_base.city_11001,localidad_16,VENECIA,002404
-barrio_1258,l10n_co_base.city_11001,localidad_16,EDUARDO FREY,002301
-barrio_1259,l10n_co_base.city_11001,localidad_16,VILLA MAYOR ORIENTAL,002309
-barrio_1260,l10n_co_base.city_11001,localidad_16,ESCUELA GENERAL SANTANDER,002405
-barrio_1261,l10n_co_base.city_11001,localidad_16,PRIMAVERA OCCIDENTAL,004205
-barrio_1262,l10n_co_base.city_11001,localidad_16,PROVIVIENDA NORTE,004310
-barrio_1263,l10n_co_base.city_11001,localidad_16,PROVIVIENDA ORIENTAL,004503
-barrio_1264,l10n_co_base.city_11001,localidad_16,PENSILVANIA,004201
-barrio_1265,l10n_co_base.city_11001,localidad_16,LA CAMELIA II,004317
+barrio_987,l10n_co_base.city_11001,localidad_11,COSTA AZUL,9208
+barrio_988,l10n_co_base.city_11001,localidad_11,MAZUREN,9110
+barrio_989,l10n_co_base.city_11001,localidad_11,LA SERENA,5613
+barrio_990,l10n_co_base.city_11001,localidad_11,BATAN,9118
+barrio_991,l10n_co_base.city_11001,localidad_11,NIZA SUR,9109
+barrio_992,l10n_co_base.city_11001,localidad_11,LA CHUCUA,9221
+barrio_993,l10n_co_base.city_11001,localidad_11,CASA BLANCA SUBA I,9258
+barrio_994,l10n_co_base.city_11001,localidad_11,ESCUELA DE CARABINEROS,9132
+barrio_995,l10n_co_base.city_11001,localidad_11,NUEVA TIBABUYES,9224
+barrio_996,l10n_co_base.city_11001,localidad_11,ALTOS DE CHOZICA,9222
+barrio_997,l10n_co_base.city_11001,localidad_11,LAS MARGARITAS,8530
+barrio_998,l10n_co_base.city_11001,localidad_11,VILLA ELISA,9207
+barrio_999,l10n_co_base.city_11001,localidad_11,POTRERILLO,9240
+barrio_1000,l10n_co_base.city_11001,localidad_11,CIUDADELA COLSUBSIDIO,5650
+barrio_1001,l10n_co_base.city_11001,localidad_11,AURES II,9206
+barrio_1002,l10n_co_base.city_11001,localidad_11,AURES,9205
+barrio_1003,l10n_co_base.city_11001,localidad_11,EL MINUTO DE DIOS,5601
+barrio_1004,l10n_co_base.city_11001,localidad_11,SANTA HELENA,9131
+barrio_1005,l10n_co_base.city_11001,localidad_11,LAGO DE SUBA,9220
+barrio_1006,l10n_co_base.city_11001,localidad_11,MONACO,9111
+barrio_1007,l10n_co_base.city_11001,localidad_11,VICTORIA NORTE,9104
+barrio_1008,l10n_co_base.city_11001,localidad_11,ALTOS DE SUBA,9260
+barrio_1009,l10n_co_base.city_11001,localidad_11,NIZA SUBA,9112
+barrio_1010,l10n_co_base.city_11001,localidad_11,VEREDA SUBA NARANJOS,9249
+barrio_1011,l10n_co_base.city_11001,localidad_11,POTOSI,5401
+barrio_1012,l10n_co_base.city_11001,localidad_11,ATENAS,9119
+barrio_1013,l10n_co_base.city_11001,localidad_11,TTES DE COLOMBIA,9223
+barrio_1014,l10n_co_base.city_11001,localidad_11,PUENTE LARGO,9124
+barrio_1015,l10n_co_base.city_11001,localidad_11,PRADO PINZON,9105
+barrio_1016,l10n_co_base.city_11001,localidad_11,IBERIA,9115
+barrio_1017,l10n_co_base.city_11001,localidad_11,EL RINCON NORTE,9204
+barrio_1018,l10n_co_base.city_11001,localidad_11,LECH WALESA,9227
+barrio_1019,l10n_co_base.city_11001,localidad_11,SAN CAYETANO,9230
+barrio_1020,l10n_co_base.city_11001,localidad_11,LOS NARANJOS,9201
+barrio_1021,l10n_co_base.city_11001,localidad_11,JULIO FLOREZ,5403
+barrio_1022,l10n_co_base.city_11001,localidad_11,SAN JOSE DEL PRADO,9106
+barrio_1023,l10n_co_base.city_11001,localidad_11,LA CAROLINA DE SUBA,9236
+barrio_1024,l10n_co_base.city_11001,localidad_11,SANTA TERESA DE SUBA,9238
+barrio_1025,l10n_co_base.city_11001,localidad_11,EL RINCON,9202
+barrio_1026,l10n_co_base.city_11001,localidad_11,CIUDAD JARDIN NORTE,9108
+barrio_1027,l10n_co_base.city_11001,localidad_11,VILLA ALCAZAR,9263
+barrio_1028,l10n_co_base.city_11001,localidad_11,BOLIVIA ORIENTAL,5640
+barrio_1029,l10n_co_base.city_11001,localidad_11,SANTA ROSA,5402
+barrio_1030,l10n_co_base.city_11001,localidad_11,PRADO VERANIEGO NORTE,9116
+barrio_1031,l10n_co_base.city_11001,localidad_11,RINCON DE SUBA,9237
+barrio_1032,l10n_co_base.city_11001,localidad_11,CIUDAD HUNZA,9235
+barrio_1033,l10n_co_base.city_11001,localidad_11,PASADENA,9125
+barrio_1034,l10n_co_base.city_11001,localidad_11,ESTORIL,9126
+barrio_1035,l10n_co_base.city_11001,localidad_12,LA MERCED NORTE,7301
+barrio_1036,l10n_co_base.city_11001,localidad_12,CONCEPCION NORTE,7304
+barrio_1037,l10n_co_base.city_11001,localidad_12,QUINTA CAMACHO,8201
+barrio_1038,l10n_co_base.city_11001,localidad_12,EL ROSARIO,5104
+barrio_1039,l10n_co_base.city_11001,localidad_12,RAFAEL URIBE,7312
+barrio_1040,l10n_co_base.city_11001,localidad_12,SIMON BOLIVAR,5205
+barrio_1041,l10n_co_base.city_11001,localidad_12,QUINTA MUTIS,7308
+barrio_1042,l10n_co_base.city_11001,localidad_12,RIONEGRO,5308
+barrio_1043,l10n_co_base.city_11001,localidad_12,BENJAMIN HERRERA,7309
+barrio_1044,l10n_co_base.city_11001,localidad_12,LA ESPERANZA,7305
+barrio_1045,l10n_co_base.city_11001,localidad_12,MUEQUETA,7307
+barrio_1046,l10n_co_base.city_11001,localidad_12,BAQUERO,7306
+barrio_1047,l10n_co_base.city_11001,localidad_12,CHAPINERO NORTE,8214
+barrio_1048,l10n_co_base.city_11001,localidad_12,SAN LUIS,7202
+barrio_1049,l10n_co_base.city_11001,localidad_12,LOS ANDES,5307
+barrio_1050,l10n_co_base.city_11001,localidad_12,CAMPIN OCCIDENTAL,5105
+barrio_1051,l10n_co_base.city_11001,localidad_12,NICOLAS DE FEDERMAN,5106
+barrio_1052,l10n_co_base.city_11001,localidad_12,LA CASTELLANA,5304
+barrio_1053,l10n_co_base.city_11001,localidad_12,LAS FERIAS,5404
+barrio_1054,l10n_co_base.city_11001,localidad_12,ENTRERIOS,5306
+barrio_1055,l10n_co_base.city_11001,localidad_12,JORGE ELIECER GAITAN,5201
+barrio_1056,l10n_co_base.city_11001,localidad_12,ESCUELA MILITAR,5310
+barrio_1057,l10n_co_base.city_11001,localidad_12,METROPOLIS,5207
+barrio_1058,l10n_co_base.city_11001,localidad_12,BELLAVISTA OCCIDENTAL,5503
+barrio_1059,l10n_co_base.city_11001,localidad_12,LA PATRIA,5305
+barrio_1060,l10n_co_base.city_11001,localidad_12,SAN FERNANDO OCCIDENTAL,5204
+barrio_1061,l10n_co_base.city_11001,localidad_12,LA LIBERTAD,5206
+barrio_1062,l10n_co_base.city_11001,localidad_12,POLO CLUB,7401
+barrio_1063,l10n_co_base.city_11001,localidad_12,JOSE JOAQUIN VARGAS,5101
+barrio_1064,l10n_co_base.city_11001,localidad_12,LA ESTRADITA,5504
+barrio_1065,l10n_co_base.city_11001,localidad_12,PARQUE DISTRITAL SALITRE,5112
+barrio_1066,l10n_co_base.city_11001,localidad_12,SAN FERNANDO,5203
+barrio_1067,l10n_co_base.city_11001,localidad_12,DOCE DE OCTUBRE,5202
+barrio_1068,l10n_co_base.city_11001,localidad_12,CAMPO EUCARISTICO,5114
+barrio_1069,l10n_co_base.city_11001,localidad_12,BOSQUE POPULAR,5505
+barrio_1070,l10n_co_base.city_11001,localidad_12,ALCAZARES,7302
+barrio_1071,l10n_co_base.city_11001,localidad_12,SAN MIGUEL,5103
+barrio_1072,l10n_co_base.city_11001,localidad_12,SANTA SOFIA,7406
+barrio_1073,l10n_co_base.city_11001,localidad_12,PARQUE POPULAR SALITRE,5115
+barrio_1074,l10n_co_base.city_11001,localidad_12,POPULAR MODELO,5102
+barrio_1075,l10n_co_base.city_11001,localidad_12,ONCE DE NOVIEMBRE,7405
+barrio_1076,l10n_co_base.city_11001,localidad_12,JUAN XXIII,7402
+barrio_1077,l10n_co_base.city_11001,localidad_12,LAGO GAITAN,8313
+barrio_1078,l10n_co_base.city_11001,localidad_12,LA AURORA,7407
+barrio_1079,l10n_co_base.city_11001,localidad_12,ALCAZARES NORTE,7404
+barrio_1080,l10n_co_base.city_11001,localidad_12,CAMPIN,7201
+barrio_1081,l10n_co_base.city_11001,localidad_12,JULIO FLOREZ,5403
+barrio_1082,l10n_co_base.city_11001,localidad_12,COLOMBIA,7303
+barrio_1083,l10n_co_base.city_11001,localidad_12,SAN FELIPE,7403
+barrio_1084,l10n_co_base.city_11001,localidad_12,LA PAZ,7310
+barrio_1085,l10n_co_base.city_11001,localidad_12,ESTORIL,9126
+barrio_1086,l10n_co_base.city_11001,localidad_12,SIETE DE AGOSTO,7311
+barrio_1087,l10n_co_base.city_11001,localidad_12,PABLO VI NORTE,5116
+barrio_1088,l10n_co_base.city_11001,localidad_13,QUESADA,7204
+barrio_1089,l10n_co_base.city_11001,localidad_13,ARMENIA,7105
+barrio_1090,l10n_co_base.city_11001,localidad_13,ALFONSO LOPEZ,7209
+barrio_1091,l10n_co_base.city_11001,localidad_13,QUINTA PAREDES,6209
+barrio_1092,l10n_co_base.city_11001,localidad_13,FLORIDA,6101
+barrio_1093,l10n_co_base.city_11001,localidad_13,CENTRO NARINO,6210
+barrio_1094,l10n_co_base.city_11001,localidad_13,TEUSAQUILLO,7104
+barrio_1095,l10n_co_base.city_11001,localidad_13,LA FLORIDA OCCIDENTAL,6203
+barrio_1096,l10n_co_base.city_11001,localidad_13,USATAMA,6110
+barrio_1097,l10n_co_base.city_11001,localidad_13,ESTRELLA,7106
+barrio_1098,l10n_co_base.city_11001,localidad_13,PUENTE ARANDA,6215
+barrio_1099,l10n_co_base.city_11001,localidad_13,ORTEZAL,6208
+barrio_1100,l10n_co_base.city_11001,localidad_13,PALERMO,7205
+barrio_1101,l10n_co_base.city_11001,localidad_13,SAMPER,8108
+barrio_1102,l10n_co_base.city_11001,localidad_13,EL RECUERDO,6201
+barrio_1103,l10n_co_base.city_11001,localidad_13,LA SOLEDAD,7101
+barrio_1104,l10n_co_base.city_11001,localidad_13,SANTA TERESITA,7102
+barrio_1105,l10n_co_base.city_11001,localidad_13,LAS AMERICAS,7107
+barrio_1106,l10n_co_base.city_11001,localidad_13,ACEVEDO TEJADA,5107
+barrio_1107,l10n_co_base.city_11001,localidad_13,LA MAGDALENA,7103
+barrio_1108,l10n_co_base.city_11001,localidad_13,GRAN AMERICA,6202
+barrio_1109,l10n_co_base.city_11001,localidad_13,CHAPINERO CENTRAL,8213
+barrio_1110,l10n_co_base.city_11001,localidad_13,CIUDAD SALITRE SUR-ORIENTAL,6217
+barrio_1111,l10n_co_base.city_11001,localidad_13,GALERIAS,7207
+barrio_1112,l10n_co_base.city_11001,localidad_13,RAFAEL NUNEZ,5117
+barrio_1113,l10n_co_base.city_11001,localidad_13,CENTRO INDUSTRIAL,6218
+barrio_1114,l10n_co_base.city_11001,localidad_13,CIUDAD UNIVERSITARIA,5108
+barrio_1115,l10n_co_base.city_11001,localidad_13,SANTA FE,6103
+barrio_1116,l10n_co_base.city_11001,localidad_13,SALITRE OCCIDENTAL,6313
+barrio_1117,l10n_co_base.city_11001,localidad_13,BANCO CENTRAL,7208
+barrio_1118,l10n_co_base.city_11001,localidad_13,BELALCAZAR,7206
+barrio_1119,l10n_co_base.city_11001,localidad_13,EL ROSARIO,5104
+barrio_1120,l10n_co_base.city_11001,localidad_13,EL SALITRE,5110
+barrio_1121,l10n_co_base.city_11001,localidad_13,LA ESPERANZA,7305
+barrio_1122,l10n_co_base.city_11001,localidad_13,BAQUERO,7306
+barrio_1123,l10n_co_base.city_11001,localidad_13,PAULO VI,5113
+barrio_1124,l10n_co_base.city_11001,localidad_13,CHAPINERO NORTE,8214
+barrio_1125,l10n_co_base.city_11001,localidad_13,SAN LUIS,7202
+barrio_1126,l10n_co_base.city_11001,localidad_13,MONTEVIDEO,6307
+barrio_1127,l10n_co_base.city_11001,localidad_13,CENTRO ADMINISTRATIVO OCC.,5109
+barrio_1128,l10n_co_base.city_11001,localidad_13,CHAPINERO OCCIDENTAL,7203
+barrio_1129,l10n_co_base.city_11001,localidad_13,CIUDAD SALITRE NOR-ORIENTAL,6216
+barrio_1130,l10n_co_base.city_11001,localidad_13,CAMPIN OCCIDENTAL,5105
+barrio_1131,l10n_co_base.city_11001,localidad_13,NICOLAS DE FEDERMAN,5106
+barrio_1132,l10n_co_base.city_11001,localidad_13,LA ESMERALDA,5111
+barrio_1133,l10n_co_base.city_11001,localidad_13,PARQUE DISTRITAL SALITRE,5112
+barrio_1134,l10n_co_base.city_11001,localidad_13,CAMPO EUCARISTICO,5114
+barrio_1135,l10n_co_base.city_11001,localidad_13,BOSQUE POPULAR,5505
+barrio_1136,l10n_co_base.city_11001,localidad_13,PARQUE POPULAR SALITRE,5115
+barrio_1137,l10n_co_base.city_11001,localidad_13,JARDIN BOTANICO,5506
+barrio_1138,l10n_co_base.city_11001,localidad_13,CAMPIN,7201
+barrio_1139,l10n_co_base.city_11001,localidad_13,PABLO VI NORTE,5116
+barrio_1140,l10n_co_base.city_11001,localidad_14,ARMENIA,7105
+barrio_1141,l10n_co_base.city_11001,localidad_14,ESTACION CENTRAL,6204
+barrio_1142,l10n_co_base.city_11001,localidad_14,FLORIDA,6101
+barrio_1143,l10n_co_base.city_11001,localidad_14,SAMPER MENDOZA,6108
+barrio_1144,l10n_co_base.city_11001,localidad_14,LA FLORIDA OCCIDENTAL,6203
+barrio_1145,l10n_co_base.city_11001,localidad_14,USATAMA,6110
+barrio_1146,l10n_co_base.city_11001,localidad_14,ESTRELLA,7106
+barrio_1147,l10n_co_base.city_11001,localidad_14,SANTA FE,6103
+barrio_1148,l10n_co_base.city_11001,localidad_14,PALOQUEMAO,6107
+barrio_1149,l10n_co_base.city_11001,localidad_14,COLSEGUROS,6109
+barrio_1150,l10n_co_base.city_11001,localidad_14,VOTO NACIONAL,4103
+barrio_1151,l10n_co_base.city_11001,localidad_14,LA ALAMEDA,3101
+barrio_1152,l10n_co_base.city_11001,localidad_14,RICAURTE,4101
+barrio_1153,l10n_co_base.city_11001,localidad_14,LA FAVORITA,6104
+barrio_1154,l10n_co_base.city_11001,localidad_14,LA SABANA,4102
+barrio_1155,l10n_co_base.city_11001,localidad_14,COMUNEROS,4202
+barrio_1156,l10n_co_base.city_11001,localidad_14,SAN VICTORINO,6105
+barrio_1157,l10n_co_base.city_11001,localidad_14,LA CAPUCHINA,3108
+barrio_1158,l10n_co_base.city_11001,localidad_14,LA PEPITA,4110
+barrio_1159,l10n_co_base.city_11001,localidad_14,VERAGUAS,4109
+barrio_1160,l10n_co_base.city_11001,localidad_14,LA ESTANZUELA,4104
+barrio_1161,l10n_co_base.city_11001,localidad_14,EL PROGRESO,4111
+barrio_1162,l10n_co_base.city_11001,localidad_14,LA ASUNCION,4203
+barrio_1163,l10n_co_base.city_11001,localidad_14,SANTA ISABEL,4108
+barrio_1164,l10n_co_base.city_11001,localidad_14,SANTA INES,3107
+barrio_1165,l10n_co_base.city_11001,localidad_14,SANTA ISABEL SUR,4107
+barrio_1166,l10n_co_base.city_11001,localidad_14,EL VERGEL,4106
+barrio_1167,l10n_co_base.city_11001,localidad_14,LA FRAGUA,2107
+barrio_1168,l10n_co_base.city_11001,localidad_14,EDUARDO SANTOS,4105
+barrio_1169,l10n_co_base.city_11001,localidad_14,LA FRAGUITA,2101
+barrio_1170,l10n_co_base.city_11001,localidad_14,SAN ANTONIO,2102
+barrio_1171,l10n_co_base.city_11001,localidad_14,LA HORTUA,1208
+barrio_1172,l10n_co_base.city_11001,localidad_14,EL LISTON,6106
+barrio_1173,l10n_co_base.city_11001,localidad_15,SAN JOSE SUR,1401
+barrio_1174,l10n_co_base.city_11001,localidad_15,CARACAS,1203
+barrio_1175,l10n_co_base.city_11001,localidad_15,CIUDAD JARDIN SUR,1204
+barrio_1176,l10n_co_base.city_11001,localidad_15,NARINO SUR,1207
+barrio_1177,l10n_co_base.city_11001,localidad_15,SOCIEGO,1205
+barrio_1178,l10n_co_base.city_11001,localidad_15,SOSIEGO SUR,1404
+barrio_1179,l10n_co_base.city_11001,localidad_15,EL VERGEL,4106
+barrio_1180,l10n_co_base.city_11001,localidad_15,SENA,2106
+barrio_1181,l10n_co_base.city_11001,localidad_15,LA FRAGUA,2107
+barrio_1182,l10n_co_base.city_11001,localidad_15,SAN BERNARDINO,3201
+barrio_1183,l10n_co_base.city_11001,localidad_15,EDUARDO SANTOS,4105
+barrio_1184,l10n_co_base.city_11001,localidad_15,SANTANDER,2105
+barrio_1185,l10n_co_base.city_11001,localidad_15,EDUARDO FREY,2301
+barrio_1186,l10n_co_base.city_11001,localidad_15,LA FRAGUITA,2101
+barrio_1187,l10n_co_base.city_11001,localidad_15,VILLA MAYOR ORIENTAL,2309
+barrio_1188,l10n_co_base.city_11001,localidad_15,SANTANDER SUR,2302
+barrio_1189,l10n_co_base.city_11001,localidad_15,RESTREPO OCCIDENTAL,2104
+barrio_1190,l10n_co_base.city_11001,localidad_15,ESCUELA GENERAL SANTANDER,2405
+barrio_1191,l10n_co_base.city_11001,localidad_15,SAN ANTONIO,2102
+barrio_1192,l10n_co_base.city_11001,localidad_15,LIBERTADOR,2305
+barrio_1193,l10n_co_base.city_11001,localidad_15,VILLA MAYOR,2311
+barrio_1194,l10n_co_base.city_11001,localidad_15,LA HORTUA,1208
+barrio_1195,l10n_co_base.city_11001,localidad_15,SEVILLA,1201
+barrio_1196,l10n_co_base.city_11001,localidad_15,RESTREPO,2103
+barrio_1197,l10n_co_base.city_11001,localidad_15,BRAVO PAEZ,2306
+barrio_1198,l10n_co_base.city_11001,localidad_15,SANTIAGO PEREZ,2304
+barrio_1199,l10n_co_base.city_11001,localidad_15,POLICARPA,1211
+barrio_1200,l10n_co_base.city_11001,localidad_15,MURILLO TORO,2310
+barrio_1201,l10n_co_base.city_11001,localidad_15,CIUDAD BERNA,1202
+barrio_1202,l10n_co_base.city_11001,localidad_16,ESTACION CENTRAL,6204
+barrio_1203,l10n_co_base.city_11001,localidad_16,LUSITANIA,6509
+barrio_1204,l10n_co_base.city_11001,localidad_16,GORGONZOLA,4207
+barrio_1205,l10n_co_base.city_11001,localidad_16,EL EJIDO,6206
+barrio_1206,l10n_co_base.city_11001,localidad_16,SAN FRANCISCO,4206
+barrio_1207,l10n_co_base.city_11001,localidad_16,CENTRO NARINO,6210
+barrio_1208,l10n_co_base.city_11001,localidad_16,SAN GABRIEL,4307
+barrio_1209,l10n_co_base.city_11001,localidad_16,INDUSTRIAL CENTENARIO,6205
+barrio_1210,l10n_co_base.city_11001,localidad_16,LA FLORIDA OCCIDENTAL,6203
+barrio_1211,l10n_co_base.city_11001,localidad_16,COLON,4308
+barrio_1212,l10n_co_base.city_11001,localidad_16,CORREDOR FERREO DEL SUR,4572
+barrio_1213,l10n_co_base.city_11001,localidad_16,CUNDINAMARCA,6211
+barrio_1214,l10n_co_base.city_11001,localidad_16,GALAN,4304
+barrio_1215,l10n_co_base.city_11001,localidad_16,BARCELONA,4303
+barrio_1216,l10n_co_base.city_11001,localidad_16,LOS EJIDOS,4208
+barrio_1217,l10n_co_base.city_11001,localidad_16,SAN RAFAEL,4302
+barrio_1218,l10n_co_base.city_11001,localidad_16,PUENTE ARANDA,6215
+barrio_1219,l10n_co_base.city_11001,localidad_16,ORTEZAL,6208
+barrio_1220,l10n_co_base.city_11001,localidad_16,SALAZAR GOMEZ,6212
+barrio_1221,l10n_co_base.city_11001,localidad_16,BATALLON CALDAS,6207
+barrio_1222,l10n_co_base.city_11001,localidad_16,GRAN AMERICA,6202
+barrio_1223,l10n_co_base.city_11001,localidad_16,HIPOTECHO SUR,4551
+barrio_1224,l10n_co_base.city_11001,localidad_16,LA PRADERA,4305
+barrio_1225,l10n_co_base.city_11001,localidad_16,LA TRINIDAD,4306
+barrio_1226,l10n_co_base.city_11001,localidad_16,SAN RAFAEL INDUSTRIAL,4301
+barrio_1227,l10n_co_base.city_11001,localidad_16,GRANJAS DE TECHO,6306
+barrio_1228,l10n_co_base.city_11001,localidad_16,CENTRO INDUSTRIAL,6218
+barrio_1229,l10n_co_base.city_11001,localidad_16,PALOQUEMAO,6107
+barrio_1230,l10n_co_base.city_11001,localidad_16,MONTEVIDEO,6307
+barrio_1231,l10n_co_base.city_11001,localidad_16,REMANSO,4402
+barrio_1232,l10n_co_base.city_11001,localidad_16,MONTES,4204
+barrio_1233,l10n_co_base.city_11001,localidad_16,RICAURTE,4101
+barrio_1234,l10n_co_base.city_11001,localidad_16,LA CAMELIA,4309
+barrio_1235,l10n_co_base.city_11001,localidad_16,TIBANA,4212
+barrio_1236,l10n_co_base.city_11001,localidad_16,JORGE GAITAN CORTES,4210
+barrio_1237,l10n_co_base.city_11001,localidad_16,SAN EUSEBIO,4401
+barrio_1238,l10n_co_base.city_11001,localidad_16,COMUNEROS,4202
+barrio_1239,l10n_co_base.city_11001,localidad_16,ALQUERIA LA FRAGUA NORTE,4542
+barrio_1240,l10n_co_base.city_11001,localidad_16,TEJAR,4408
+barrio_1241,l10n_co_base.city_11001,localidad_16,BOCHICA,4211
+barrio_1242,l10n_co_base.city_11001,localidad_16,VERAGUAS,4109
+barrio_1243,l10n_co_base.city_11001,localidad_16,ALCALA,4407
+barrio_1244,l10n_co_base.city_11001,localidad_16,REMANSO SUR,4412
+barrio_1245,l10n_co_base.city_11001,localidad_16,ALQUERIA,4409
+barrio_1246,l10n_co_base.city_11001,localidad_16,LA ASUNCION,4203
+barrio_1247,l10n_co_base.city_11001,localidad_16,AUTOPISTA SUR,4404
+barrio_1248,l10n_co_base.city_11001,localidad_16,SANTA MATILDE,4209
+barrio_1249,l10n_co_base.city_11001,localidad_16,SANTA ISABEL,4108
+barrio_1250,l10n_co_base.city_11001,localidad_16,AUTOPISTA MUZU,4403
+barrio_1251,l10n_co_base.city_11001,localidad_16,OSPINA PEREZ,4406
+barrio_1252,l10n_co_base.city_11001,localidad_16,SANTA ISABEL SUR,4107
+barrio_1253,l10n_co_base.city_11001,localidad_16,AUTOPISTA MUZU ORIENTAL,4413
+barrio_1254,l10n_co_base.city_11001,localidad_16,SENA,2106
+barrio_1255,l10n_co_base.city_11001,localidad_16,LA FRAGUA,2107
+barrio_1256,l10n_co_base.city_11001,localidad_16,OSPINA PEREZ SUR,4405
+barrio_1257,l10n_co_base.city_11001,localidad_16,VENECIA,2404
+barrio_1258,l10n_co_base.city_11001,localidad_16,EDUARDO FREY,2301
+barrio_1259,l10n_co_base.city_11001,localidad_16,VILLA MAYOR ORIENTAL,2309
+barrio_1260,l10n_co_base.city_11001,localidad_16,ESCUELA GENERAL SANTANDER,2405
+barrio_1261,l10n_co_base.city_11001,localidad_16,PRIMAVERA OCCIDENTAL,4205
+barrio_1262,l10n_co_base.city_11001,localidad_16,PROVIVIENDA NORTE,4310
+barrio_1263,l10n_co_base.city_11001,localidad_16,PROVIVIENDA ORIENTAL,4503
+barrio_1264,l10n_co_base.city_11001,localidad_16,PENSILVANIA,4201
+barrio_1265,l10n_co_base.city_11001,localidad_16,LA CAMELIA II,4317
 barrio_1266,l10n_co_base.city_11001,localidad_17,PARQUE NACIONAL ORIENTAL,101405
-barrio_1267,l10n_co_base.city_11001,localidad_17,LAS AGUAS,003103
-barrio_1268,l10n_co_base.city_11001,localidad_17,LA CAPUCHINA,003108
-barrio_1269,l10n_co_base.city_11001,localidad_17,VERACRUZ,003109
-barrio_1270,l10n_co_base.city_11001,localidad_17,SANTA INES,003107
-barrio_1271,l10n_co_base.city_11001,localidad_17,PARQUE NACIONAL URBANO,008114
-barrio_1272,l10n_co_base.city_11001,localidad_17,LA CATEDRAL,003110
-barrio_1273,l10n_co_base.city_11001,localidad_17,CENTRO ADMINISTRATIVO,003106
-barrio_1274,l10n_co_base.city_11001,localidad_17,LA CONCORDIA,003104
-barrio_1275,l10n_co_base.city_11001,localidad_17,SAN BERNARDINO,003201
-barrio_1276,l10n_co_base.city_11001,localidad_17,EGIPTO,003105
-barrio_1277,l10n_co_base.city_11001,localidad_17,SAN FRANCISCO RURAL,003215
-barrio_1278,l10n_co_base.city_11001,localidad_17,SANTA BARBARA,003203
-barrio_1279,l10n_co_base.city_11001,localidad_17,BELEN,003204
-barrio_1280,l10n_co_base.city_11001,localidad_17,EL GUAVIO,003205
-barrio_1281,l10n_co_base.city_11001,localidad_17,LOURDES,003212
-barrio_1282,l10n_co_base.city_11001,localidad_18,SAN JOSE SUR,001401
-barrio_1283,l10n_co_base.city_11001,localidad_18,ARRAYANES V,002625
-barrio_1284,l10n_co_base.city_11001,localidad_18,DANUBIO,002519
-barrio_1285,l10n_co_base.city_11001,localidad_18,SAMORE,002406
-barrio_1286,l10n_co_base.city_11001,localidad_18,CIUDAD JARDIN SUR,001204
-barrio_1287,l10n_co_base.city_11001,localidad_18,OLAYA,002201
-barrio_1288,l10n_co_base.city_11001,localidad_18,LAS LOMAS,001409
-barrio_1289,l10n_co_base.city_11001,localidad_18,TUNJUELITO,002508
-barrio_1290,l10n_co_base.city_11001,localidad_18,ARRAYANES VI,002637
-barrio_1291,l10n_co_base.city_11001,localidad_18,DANUBIO II,002577
-barrio_1292,l10n_co_base.city_11001,localidad_18,LA FISCALA NORTE,002597
-barrio_1293,l10n_co_base.city_11001,localidad_18,QUIROGA I,002209
-barrio_1294,l10n_co_base.city_11001,localidad_18,QUIROGA,002202
-barrio_1295,l10n_co_base.city_11001,localidad_18,QUIROGA CENTRAL,002203
-barrio_1296,l10n_co_base.city_11001,localidad_18,PUERTO RICO,001427
-barrio_1297,l10n_co_base.city_11001,localidad_18,QUIROGA SUR,002204
-barrio_1298,l10n_co_base.city_11001,localidad_18,SOCIEGO,001205
-barrio_1299,l10n_co_base.city_11001,localidad_18,EL PLAYON,001420
-barrio_1300,l10n_co_base.city_11001,localidad_18,CERROS DE ORIENTE,001428
-barrio_1301,l10n_co_base.city_11001,localidad_18,GUIPARMA,001429
-barrio_1302,l10n_co_base.city_11001,localidad_18,SANTA LUCIA,002205
-barrio_1303,l10n_co_base.city_11001,localidad_18,TUNAL ORIENTAL,002401
-barrio_1304,l10n_co_base.city_11001,localidad_18,ABRAHAM LINCOLN,002507
-barrio_1305,l10n_co_base.city_11001,localidad_18,GUACAMAYAS III,001354
-barrio_1306,l10n_co_base.city_11001,localidad_18,MOLINOS DEL SUR,001414
-barrio_1307,l10n_co_base.city_11001,localidad_18,CALLEJON SANTA BARBARA,001419
-barrio_1308,l10n_co_base.city_11001,localidad_18,AREA ARTILLERIA,002512
-barrio_1309,l10n_co_base.city_11001,localidad_18,GUSTAVO RESTREPO,001402
-barrio_1310,l10n_co_base.city_11001,localidad_18,SOSIEGO SUR,001404
-barrio_1311,l10n_co_base.city_11001,localidad_18,LOS MOLINOS,001417
-barrio_1312,l10n_co_base.city_11001,localidad_18,GRANJAS SAN PABLO,001412
-barrio_1313,l10n_co_base.city_11001,localidad_18,HOSPITAL SAN CARLOS,001403
-barrio_1314,l10n_co_base.city_11001,localidad_18,VEINTE DE JULIO,001405
-barrio_1315,l10n_co_base.city_11001,localidad_18,MARRUECOS,001418
-barrio_1316,l10n_co_base.city_11001,localidad_18,SAN MARTIN SUR,001321
-barrio_1317,l10n_co_base.city_11001,localidad_18,SAN JORGE SUR,001411
-barrio_1318,l10n_co_base.city_11001,localidad_18,LA PICOTA,002511
-barrio_1319,l10n_co_base.city_11001,localidad_18,GRANJAS DE SANTA SOFIA,001425
-barrio_1320,l10n_co_base.city_11001,localidad_18,SAN AGUSTIN,001416
-barrio_1321,l10n_co_base.city_11001,localidad_18,EDUARDO FREY,002301
-barrio_1322,l10n_co_base.city_11001,localidad_18,MARCO FIDEL SUAREZ,001410
-barrio_1323,l10n_co_base.city_11001,localidad_18,SAN LUIS,001426
-barrio_1324,l10n_co_base.city_11001,localidad_18,VILLA MAYOR ORIENTAL,002309
-barrio_1325,l10n_co_base.city_11001,localidad_18,SANTANDER SUR,002302
-barrio_1326,l10n_co_base.city_11001,localidad_18,RESTREPO OCCIDENTAL,002104
-barrio_1327,l10n_co_base.city_11001,localidad_18,ESCUELA GENERAL SANTANDER,002405
-barrio_1328,l10n_co_base.city_11001,localidad_18,SAN ISIDRO,001406
-barrio_1329,l10n_co_base.city_11001,localidad_18,SAN CARLOS,002501
-barrio_1330,l10n_co_base.city_11001,localidad_18,DIANA TURBAY,001421
-barrio_1331,l10n_co_base.city_11001,localidad_18,LA RESURRECCION I,001431
-barrio_1332,l10n_co_base.city_11001,localidad_18,LIBERTADOR,002305
-barrio_1333,l10n_co_base.city_11001,localidad_18,VILLA MAYOR,002311
-barrio_1334,l10n_co_base.city_11001,localidad_18,MARCO FIDEL SUAREZ I,001415
-barrio_1335,l10n_co_base.city_11001,localidad_18,LA RESURRECCION,001413
-barrio_1336,l10n_co_base.city_11001,localidad_18,CANADA O GUIRA,001330
-barrio_1337,l10n_co_base.city_11001,localidad_18,RESTREPO,002103
-barrio_1338,l10n_co_base.city_11001,localidad_18,DIANA TURBAY ARRAYANES,001422
-barrio_1339,l10n_co_base.city_11001,localidad_18,LA PICOTA ORIENTAL,002510
-barrio_1340,l10n_co_base.city_11001,localidad_18,BRAVO PAEZ,002306
-barrio_1341,l10n_co_base.city_11001,localidad_18,SANTIAGO PEREZ,002304
-barrio_1342,l10n_co_base.city_11001,localidad_18,MURILLO TORO,002310
-barrio_1343,l10n_co_base.city_11001,localidad_18,INGLES,002307
-barrio_1344,l10n_co_base.city_11001,localidad_18,ARRAYANES I,002601
-barrio_1345,l10n_co_base.city_11001,localidad_18,DIANA TURBAY CULTIVOS,001432
-barrio_1346,l10n_co_base.city_11001,localidad_18,CENTENARIO,002303
-barrio_1347,l10n_co_base.city_11001,localidad_18,CLARET,002308
-barrio_1348,l10n_co_base.city_11001,localidad_18,BARCELONA SUR,001424
-barrio_1349,l10n_co_base.city_11001,localidad_18,EL MOCHUELO ORIENTAL,002522
-barrio_1350,l10n_co_base.city_11001,localidad_18,LOS ARRAYANES II,001435
-barrio_1351,l10n_co_base.city_11001,localidad_18,PALERMO SUR,002535
-barrio_1352,l10n_co_base.city_11001,localidad_18,LA PAZ,002566
-barrio_1353,l10n_co_base.city_11001,localidad_18,ARBOLEDA SUR,001423
-barrio_1354,l10n_co_base.city_11001,localidad_18,CARMEN DEL SOL,001434
-barrio_1355,l10n_co_base.city_11001,localidad_19,CORREDOR FERREO DEL SUR,004572
+barrio_1267,l10n_co_base.city_11001,localidad_17,LAS AGUAS,3103
+barrio_1268,l10n_co_base.city_11001,localidad_17,LA CAPUCHINA,3108
+barrio_1269,l10n_co_base.city_11001,localidad_17,VERACRUZ,3109
+barrio_1270,l10n_co_base.city_11001,localidad_17,SANTA INES,3107
+barrio_1271,l10n_co_base.city_11001,localidad_17,PARQUE NACIONAL URBANO,8114
+barrio_1272,l10n_co_base.city_11001,localidad_17,LA CATEDRAL,3110
+barrio_1273,l10n_co_base.city_11001,localidad_17,CENTRO ADMINISTRATIVO,3106
+barrio_1274,l10n_co_base.city_11001,localidad_17,LA CONCORDIA,3104
+barrio_1275,l10n_co_base.city_11001,localidad_17,SAN BERNARDINO,3201
+barrio_1276,l10n_co_base.city_11001,localidad_17,EGIPTO,3105
+barrio_1277,l10n_co_base.city_11001,localidad_17,SAN FRANCISCO RURAL,3215
+barrio_1278,l10n_co_base.city_11001,localidad_17,SANTA BARBARA,3203
+barrio_1279,l10n_co_base.city_11001,localidad_17,BELEN,3204
+barrio_1280,l10n_co_base.city_11001,localidad_17,EL GUAVIO,3205
+barrio_1281,l10n_co_base.city_11001,localidad_17,LOURDES,3212
+barrio_1282,l10n_co_base.city_11001,localidad_18,SAN JOSE SUR,1401
+barrio_1283,l10n_co_base.city_11001,localidad_18,ARRAYANES V,2625
+barrio_1284,l10n_co_base.city_11001,localidad_18,DANUBIO,2519
+barrio_1285,l10n_co_base.city_11001,localidad_18,SAMORE,2406
+barrio_1286,l10n_co_base.city_11001,localidad_18,CIUDAD JARDIN SUR,1204
+barrio_1287,l10n_co_base.city_11001,localidad_18,OLAYA,2201
+barrio_1288,l10n_co_base.city_11001,localidad_18,LAS LOMAS,1409
+barrio_1289,l10n_co_base.city_11001,localidad_18,TUNJUELITO,2508
+barrio_1290,l10n_co_base.city_11001,localidad_18,ARRAYANES VI,2637
+barrio_1291,l10n_co_base.city_11001,localidad_18,DANUBIO II,2577
+barrio_1292,l10n_co_base.city_11001,localidad_18,LA FISCALA NORTE,2597
+barrio_1293,l10n_co_base.city_11001,localidad_18,QUIROGA I,2209
+barrio_1294,l10n_co_base.city_11001,localidad_18,QUIROGA,2202
+barrio_1295,l10n_co_base.city_11001,localidad_18,QUIROGA CENTRAL,2203
+barrio_1296,l10n_co_base.city_11001,localidad_18,PUERTO RICO,1427
+barrio_1297,l10n_co_base.city_11001,localidad_18,QUIROGA SUR,2204
+barrio_1298,l10n_co_base.city_11001,localidad_18,SOCIEGO,1205
+barrio_1299,l10n_co_base.city_11001,localidad_18,EL PLAYON,1420
+barrio_1300,l10n_co_base.city_11001,localidad_18,CERROS DE ORIENTE,1428
+barrio_1301,l10n_co_base.city_11001,localidad_18,GUIPARMA,1429
+barrio_1302,l10n_co_base.city_11001,localidad_18,SANTA LUCIA,2205
+barrio_1303,l10n_co_base.city_11001,localidad_18,TUNAL ORIENTAL,2401
+barrio_1304,l10n_co_base.city_11001,localidad_18,ABRAHAM LINCOLN,2507
+barrio_1305,l10n_co_base.city_11001,localidad_18,GUACAMAYAS III,1354
+barrio_1306,l10n_co_base.city_11001,localidad_18,MOLINOS DEL SUR,1414
+barrio_1307,l10n_co_base.city_11001,localidad_18,CALLEJON SANTA BARBARA,1419
+barrio_1308,l10n_co_base.city_11001,localidad_18,AREA ARTILLERIA,2512
+barrio_1309,l10n_co_base.city_11001,localidad_18,GUSTAVO RESTREPO,1402
+barrio_1310,l10n_co_base.city_11001,localidad_18,SOSIEGO SUR,1404
+barrio_1311,l10n_co_base.city_11001,localidad_18,LOS MOLINOS,1417
+barrio_1312,l10n_co_base.city_11001,localidad_18,GRANJAS SAN PABLO,1412
+barrio_1313,l10n_co_base.city_11001,localidad_18,HOSPITAL SAN CARLOS,1403
+barrio_1314,l10n_co_base.city_11001,localidad_18,VEINTE DE JULIO,1405
+barrio_1315,l10n_co_base.city_11001,localidad_18,MARRUECOS,1418
+barrio_1316,l10n_co_base.city_11001,localidad_18,SAN MARTIN SUR,1321
+barrio_1317,l10n_co_base.city_11001,localidad_18,SAN JORGE SUR,1411
+barrio_1318,l10n_co_base.city_11001,localidad_18,LA PICOTA,2511
+barrio_1319,l10n_co_base.city_11001,localidad_18,GRANJAS DE SANTA SOFIA,1425
+barrio_1320,l10n_co_base.city_11001,localidad_18,SAN AGUSTIN,1416
+barrio_1321,l10n_co_base.city_11001,localidad_18,EDUARDO FREY,2301
+barrio_1322,l10n_co_base.city_11001,localidad_18,MARCO FIDEL SUAREZ,1410
+barrio_1323,l10n_co_base.city_11001,localidad_18,SAN LUIS,1426
+barrio_1324,l10n_co_base.city_11001,localidad_18,VILLA MAYOR ORIENTAL,2309
+barrio_1325,l10n_co_base.city_11001,localidad_18,SANTANDER SUR,2302
+barrio_1326,l10n_co_base.city_11001,localidad_18,RESTREPO OCCIDENTAL,2104
+barrio_1327,l10n_co_base.city_11001,localidad_18,ESCUELA GENERAL SANTANDER,2405
+barrio_1328,l10n_co_base.city_11001,localidad_18,SAN ISIDRO,1406
+barrio_1329,l10n_co_base.city_11001,localidad_18,SAN CARLOS,2501
+barrio_1330,l10n_co_base.city_11001,localidad_18,DIANA TURBAY,1421
+barrio_1331,l10n_co_base.city_11001,localidad_18,LA RESURRECCION I,1431
+barrio_1332,l10n_co_base.city_11001,localidad_18,LIBERTADOR,2305
+barrio_1333,l10n_co_base.city_11001,localidad_18,VILLA MAYOR,2311
+barrio_1334,l10n_co_base.city_11001,localidad_18,MARCO FIDEL SUAREZ I,1415
+barrio_1335,l10n_co_base.city_11001,localidad_18,LA RESURRECCION,1413
+barrio_1336,l10n_co_base.city_11001,localidad_18,CANADA O GUIRA,1330
+barrio_1337,l10n_co_base.city_11001,localidad_18,RESTREPO,2103
+barrio_1338,l10n_co_base.city_11001,localidad_18,DIANA TURBAY ARRAYANES,1422
+barrio_1339,l10n_co_base.city_11001,localidad_18,LA PICOTA ORIENTAL,2510
+barrio_1340,l10n_co_base.city_11001,localidad_18,BRAVO PAEZ,2306
+barrio_1341,l10n_co_base.city_11001,localidad_18,SANTIAGO PEREZ,2304
+barrio_1342,l10n_co_base.city_11001,localidad_18,MURILLO TORO,2310
+barrio_1343,l10n_co_base.city_11001,localidad_18,INGLES,2307
+barrio_1344,l10n_co_base.city_11001,localidad_18,ARRAYANES I,2601
+barrio_1345,l10n_co_base.city_11001,localidad_18,DIANA TURBAY CULTIVOS,1432
+barrio_1346,l10n_co_base.city_11001,localidad_18,CENTENARIO,2303
+barrio_1347,l10n_co_base.city_11001,localidad_18,CLARET,2308
+barrio_1348,l10n_co_base.city_11001,localidad_18,BARCELONA SUR,1424
+barrio_1349,l10n_co_base.city_11001,localidad_18,EL MOCHUELO ORIENTAL,2522
+barrio_1350,l10n_co_base.city_11001,localidad_18,LOS ARRAYANES II,1435
+barrio_1351,l10n_co_base.city_11001,localidad_18,PALERMO SUR,2535
+barrio_1352,l10n_co_base.city_11001,localidad_18,LA PAZ,2566
+barrio_1353,l10n_co_base.city_11001,localidad_18,ARBOLEDA SUR,1423
+barrio_1354,l10n_co_base.city_11001,localidad_18,CARMEN DEL SOL,1434
+barrio_1355,l10n_co_base.city_11001,localidad_19,CORREDOR FERREO DEL SUR,4572
 barrio_1356,l10n_co_base.city_11001,localidad_19,BRAZUELOS OCCIDENTAL RURAL,104130
-barrio_1357,l10n_co_base.city_11001,localidad_19,BRAZUELOS OCCIDENTAL,002591
+barrio_1357,l10n_co_base.city_11001,localidad_19,BRAZUELOS OCCIDENTAL,2591
 barrio_1358,l10n_co_base.city_11001,localidad_19,MOCHUELO ALTO URBANO,204131
 barrio_1359,l10n_co_base.city_11001,localidad_19,PASQUILLA,104104
 barrio_1360,l10n_co_base.city_11001,localidad_19,OLARTE,102707
@@ -1369,126 +1369,126 @@ barrio_1367,l10n_co_base.city_11001,localidad_19,LAS MARGARITAS,102113
 barrio_1368,l10n_co_base.city_11001,localidad_19,LOS ARRAYANES,102111
 barrio_1369,l10n_co_base.city_11001,localidad_19,EL HATO,102112
 barrio_1370,l10n_co_base.city_11001,localidad_19,EL MOCHUELO II NORTE,204129
-barrio_1371,l10n_co_base.city_11001,localidad_19,CEDRITOS DEL SUR,002574
-barrio_1372,l10n_co_base.city_11001,localidad_19,ESPINO I,002449
-barrio_1373,l10n_co_base.city_11001,localidad_19,SIERRA MORENA,002438
-barrio_1374,l10n_co_base.city_11001,localidad_19,ISMAEL PERDOMO,002414
-barrio_1375,l10n_co_base.city_11001,localidad_19,CERRO COLORADO,002575
+barrio_1371,l10n_co_base.city_11001,localidad_19,CEDRITOS DEL SUR,2574
+barrio_1372,l10n_co_base.city_11001,localidad_19,ESPINO I,2449
+barrio_1373,l10n_co_base.city_11001,localidad_19,SIERRA MORENA,2438
+barrio_1374,l10n_co_base.city_11001,localidad_19,ISMAEL PERDOMO,2414
+barrio_1375,l10n_co_base.city_11001,localidad_19,CERRO COLORADO,2575
 barrio_1376,l10n_co_base.city_11001,localidad_19,BELLA FLOR SUR RURAL,104107
-barrio_1377,l10n_co_base.city_11001,localidad_19,CORDILLERA DEL SUR,002561
-barrio_1378,l10n_co_base.city_11001,localidad_19,QUIBA,002530
-barrio_1379,l10n_co_base.city_11001,localidad_19,JUAN JOSE RONDON,002557
-barrio_1380,l10n_co_base.city_11001,localidad_19,SIERRA MORENA,002439
-barrio_1381,l10n_co_base.city_11001,localidad_19,LA CORUNA,002420
-barrio_1382,l10n_co_base.city_11001,localidad_19,EL MOCHUELO,002584
-barrio_1383,l10n_co_base.city_11001,localidad_19,EL TESORO,002547
+barrio_1377,l10n_co_base.city_11001,localidad_19,CORDILLERA DEL SUR,2561
+barrio_1378,l10n_co_base.city_11001,localidad_19,QUIBA,2530
+barrio_1379,l10n_co_base.city_11001,localidad_19,JUAN JOSE RONDON,2557
+barrio_1380,l10n_co_base.city_11001,localidad_19,SIERRA MORENA,2439
+barrio_1381,l10n_co_base.city_11001,localidad_19,LA CORUNA,2420
+barrio_1382,l10n_co_base.city_11001,localidad_19,EL MOCHUELO,2584
+barrio_1383,l10n_co_base.city_11001,localidad_19,EL TESORO,2547
 barrio_1384,l10n_co_base.city_11001,localidad_19,EL MOCHUELO IV,104127
-barrio_1385,l10n_co_base.city_11001,localidad_19,EL MOCHUELO II URBANO,002598
-barrio_1386,l10n_co_base.city_11001,localidad_19,SAN ANTONIO DEL MIRADOR,002451
-barrio_1387,l10n_co_base.city_11001,localidad_19,SANTO DOMINGO,002426
-barrio_1388,l10n_co_base.city_11001,localidad_19,MEISSEN,002514
-barrio_1389,l10n_co_base.city_11001,localidad_19,YOMASA NORTE,002586
-barrio_1390,l10n_co_base.city_11001,localidad_19,VERONA,002412
-barrio_1391,l10n_co_base.city_11001,localidad_19,MILLAN,002502
-barrio_1392,l10n_co_base.city_11001,localidad_19,LUCERO ALTO,002521
+barrio_1385,l10n_co_base.city_11001,localidad_19,EL MOCHUELO II URBANO,2598
+barrio_1386,l10n_co_base.city_11001,localidad_19,SAN ANTONIO DEL MIRADOR,2451
+barrio_1387,l10n_co_base.city_11001,localidad_19,SANTO DOMINGO,2426
+barrio_1388,l10n_co_base.city_11001,localidad_19,MEISSEN,2514
+barrio_1389,l10n_co_base.city_11001,localidad_19,YOMASA NORTE,2586
+barrio_1390,l10n_co_base.city_11001,localidad_19,VERONA,2412
+barrio_1391,l10n_co_base.city_11001,localidad_19,MILLAN,2502
+barrio_1392,l10n_co_base.city_11001,localidad_19,LUCERO ALTO,2521
 barrio_1393,l10n_co_base.city_11001,localidad_19,CIUDAD BOLIVAR RURAL III,104118
-barrio_1394,l10n_co_base.city_11001,localidad_19,EL MINUTO DE MARIA,002564
-barrio_1395,l10n_co_base.city_11001,localidad_19,ARABIA,002578
-barrio_1396,l10n_co_base.city_11001,localidad_19,GIBRALTAR SUR,002554
+barrio_1394,l10n_co_base.city_11001,localidad_19,EL MINUTO DE MARIA,2564
+barrio_1395,l10n_co_base.city_11001,localidad_19,ARABIA,2578
+barrio_1396,l10n_co_base.city_11001,localidad_19,GIBRALTAR SUR,2554
 barrio_1397,l10n_co_base.city_11001,localidad_19,EL MOCHUELO II,104129
-barrio_1398,l10n_co_base.city_11001,localidad_19,QUIBA URBANO,002583
-barrio_1399,l10n_co_base.city_11001,localidad_19,SIERRA MORENA,002440
-barrio_1400,l10n_co_base.city_11001,localidad_19,SIERRA MORENA II,002444
-barrio_1401,l10n_co_base.city_11001,localidad_19,COMPARTIR,002504
-barrio_1402,l10n_co_base.city_11001,localidad_19,AREA ARTILLERIA,002512
-barrio_1403,l10n_co_base.city_11001,localidad_19,EL MOCHUELO URBANO,002585
+barrio_1398,l10n_co_base.city_11001,localidad_19,QUIBA URBANO,2583
+barrio_1399,l10n_co_base.city_11001,localidad_19,SIERRA MORENA,2440
+barrio_1400,l10n_co_base.city_11001,localidad_19,SIERRA MORENA II,2444
+barrio_1401,l10n_co_base.city_11001,localidad_19,COMPARTIR,2504
+barrio_1402,l10n_co_base.city_11001,localidad_19,AREA ARTILLERIA,2512
+barrio_1403,l10n_co_base.city_11001,localidad_19,EL MOCHUELO URBANO,2585
 barrio_1404,l10n_co_base.city_11001,localidad_19,EL MOCHUELO III,104128
 barrio_1405,l10n_co_base.city_11001,localidad_19,QUIBA RURAL,204128
-barrio_1406,l10n_co_base.city_11001,localidad_19,SANTA VIVIANA,002442
-barrio_1407,l10n_co_base.city_11001,localidad_19,BELLAVISTA,002436
-barrio_1408,l10n_co_base.city_11001,localidad_19,JUAN PABLO II,002552
-barrio_1409,l10n_co_base.city_11001,localidad_19,ARBORIZADORA BAJA,002432
-barrio_1410,l10n_co_base.city_11001,localidad_19,EL MIRADOR,002570
-barrio_1411,l10n_co_base.city_11001,localidad_19,LAS DELICIAS,004544
-barrio_1412,l10n_co_base.city_11001,localidad_19,PARQUE EL TUNAL,002410
-barrio_1413,l10n_co_base.city_11001,localidad_19,LA PRADERA,002437
-barrio_1414,l10n_co_base.city_11001,localidad_19,JERUSALEN,002434
-barrio_1415,l10n_co_base.city_11001,localidad_19,SUMAPAZ,002553
-barrio_1416,l10n_co_base.city_11001,localidad_19,MEXICO,002516
-barrio_1417,l10n_co_base.city_11001,localidad_19,CENTRAL DE MEZCLAS,002562
+barrio_1406,l10n_co_base.city_11001,localidad_19,SANTA VIVIANA,2442
+barrio_1407,l10n_co_base.city_11001,localidad_19,BELLAVISTA,2436
+barrio_1408,l10n_co_base.city_11001,localidad_19,JUAN PABLO II,2552
+barrio_1409,l10n_co_base.city_11001,localidad_19,ARBORIZADORA BAJA,2432
+barrio_1410,l10n_co_base.city_11001,localidad_19,EL MIRADOR,2570
+barrio_1411,l10n_co_base.city_11001,localidad_19,LAS DELICIAS,4544
+barrio_1412,l10n_co_base.city_11001,localidad_19,PARQUE EL TUNAL,2410
+barrio_1413,l10n_co_base.city_11001,localidad_19,LA PRADERA,2437
+barrio_1414,l10n_co_base.city_11001,localidad_19,JERUSALEN,2434
+barrio_1415,l10n_co_base.city_11001,localidad_19,SUMAPAZ,2553
+barrio_1416,l10n_co_base.city_11001,localidad_19,MEXICO,2516
+barrio_1417,l10n_co_base.city_11001,localidad_19,CENTRAL DE MEZCLAS,2562
 barrio_1418,l10n_co_base.city_11001,localidad_19,QUIBA ALTO,104114
-barrio_1419,l10n_co_base.city_11001,localidad_19,GUADALUPE,004563
-barrio_1420,l10n_co_base.city_11001,localidad_19,CARACOLI,002445
-barrio_1421,l10n_co_base.city_11001,localidad_19,PARAISO QUIBA,002565
-barrio_1422,l10n_co_base.city_11001,localidad_19,EL CHIRCAL SUR,002435
-barrio_1423,l10n_co_base.city_11001,localidad_19,LUCERO DEL SUR,002517
-barrio_1424,l10n_co_base.city_11001,localidad_19,VILLA GLORIA,002549
-barrio_1425,l10n_co_base.city_11001,localidad_19,VILLAS EL DIAMANTE,002558
-barrio_1426,l10n_co_base.city_11001,localidad_19,LA ESTANCIA,002418
-barrio_1427,l10n_co_base.city_11001,localidad_19,TUNJUELITO,002593
-barrio_1428,l10n_co_base.city_11001,localidad_19,PRIMAVERA II,002428
-barrio_1429,l10n_co_base.city_11001,localidad_19,LAS BRISAS,002430
-barrio_1430,l10n_co_base.city_11001,localidad_19,LOS LAURELES II,002544
-barrio_1431,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA II,002461
-barrio_1432,l10n_co_base.city_11001,localidad_19,BARLOVENTO,002417
-barrio_1433,l10n_co_base.city_11001,localidad_19,SOTAVENTO,002533
-barrio_1434,l10n_co_base.city_11001,localidad_19,SAN RAFAEL,002539
-barrio_1435,l10n_co_base.city_11001,localidad_19,MADELENA,002415
-barrio_1436,l10n_co_base.city_11001,localidad_19,RAFAEL ESCAMILLA,002421
-barrio_1437,l10n_co_base.city_11001,localidad_19,GALICIA,002427
-barrio_1438,l10n_co_base.city_11001,localidad_19,RINCON DE LA VALVANERA,002419
-barrio_1439,l10n_co_base.city_11001,localidad_19,ISLA DEL SOL,002411
-barrio_1440,l10n_co_base.city_11001,localidad_19,CIUDAD BOLIVAR,002453
-barrio_1441,l10n_co_base.city_11001,localidad_19,POTOSI,002431
-barrio_1442,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA I,002460
-barrio_1443,l10n_co_base.city_11001,localidad_19,EL SATELITE,002545
-barrio_1444,l10n_co_base.city_11001,localidad_19,BELLA FLOR SUR,002582
-barrio_1445,l10n_co_base.city_11001,localidad_19,LA ALAMEDA,002523
+barrio_1419,l10n_co_base.city_11001,localidad_19,GUADALUPE,4563
+barrio_1420,l10n_co_base.city_11001,localidad_19,CARACOLI,2445
+barrio_1421,l10n_co_base.city_11001,localidad_19,PARAISO QUIBA,2565
+barrio_1422,l10n_co_base.city_11001,localidad_19,EL CHIRCAL SUR,2435
+barrio_1423,l10n_co_base.city_11001,localidad_19,LUCERO DEL SUR,2517
+barrio_1424,l10n_co_base.city_11001,localidad_19,VILLA GLORIA,2549
+barrio_1425,l10n_co_base.city_11001,localidad_19,VILLAS EL DIAMANTE,2558
+barrio_1426,l10n_co_base.city_11001,localidad_19,LA ESTANCIA,2418
+barrio_1427,l10n_co_base.city_11001,localidad_19,TUNJUELITO,2593
+barrio_1428,l10n_co_base.city_11001,localidad_19,PRIMAVERA II,2428
+barrio_1429,l10n_co_base.city_11001,localidad_19,LAS BRISAS,2430
+barrio_1430,l10n_co_base.city_11001,localidad_19,LOS LAURELES II,2544
+barrio_1431,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA II,2461
+barrio_1432,l10n_co_base.city_11001,localidad_19,BARLOVENTO,2417
+barrio_1433,l10n_co_base.city_11001,localidad_19,SOTAVENTO,2533
+barrio_1434,l10n_co_base.city_11001,localidad_19,SAN RAFAEL,2539
+barrio_1435,l10n_co_base.city_11001,localidad_19,MADELENA,2415
+barrio_1436,l10n_co_base.city_11001,localidad_19,RAFAEL ESCAMILLA,2421
+barrio_1437,l10n_co_base.city_11001,localidad_19,GALICIA,2427
+barrio_1438,l10n_co_base.city_11001,localidad_19,RINCON DE LA VALVANERA,2419
+barrio_1439,l10n_co_base.city_11001,localidad_19,ISLA DEL SOL,2411
+barrio_1440,l10n_co_base.city_11001,localidad_19,CIUDAD BOLIVAR,2453
+barrio_1441,l10n_co_base.city_11001,localidad_19,POTOSI,2431
+barrio_1442,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA I,2460
+barrio_1443,l10n_co_base.city_11001,localidad_19,EL SATELITE,2545
+barrio_1444,l10n_co_base.city_11001,localidad_19,BELLA FLOR SUR,2582
+barrio_1445,l10n_co_base.city_11001,localidad_19,LA ALAMEDA,2523
 barrio_1446,l10n_co_base.city_11001,localidad_19,CIUDAD BOLIVAR RURAL I,104119
-barrio_1447,l10n_co_base.city_11001,localidad_19,CANDELARIA LA NUEVA,002531
-barrio_1448,l10n_co_base.city_11001,localidad_19,EL MOCHUELO III URBANO,002588
+barrio_1447,l10n_co_base.city_11001,localidad_19,CANDELARIA LA NUEVA,2531
+barrio_1448,l10n_co_base.city_11001,localidad_19,EL MOCHUELO III URBANO,2588
 barrio_1449,l10n_co_base.city_11001,localidad_19,NUEVA ESPERANZA,204106
-barrio_1450,l10n_co_base.city_11001,localidad_19,ESTRELLA DEL SUR,002540
-barrio_1451,l10n_co_base.city_11001,localidad_19,RONDA,002518
-barrio_1452,l10n_co_base.city_11001,localidad_19,VILLA CANDELARIA,002579
-barrio_1453,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA,002573
-barrio_1454,l10n_co_base.city_11001,localidad_19,BELLAVISTA LUCERO ALTO,002560
+barrio_1450,l10n_co_base.city_11001,localidad_19,ESTRELLA DEL SUR,2540
+barrio_1451,l10n_co_base.city_11001,localidad_19,RONDA,2518
+barrio_1452,l10n_co_base.city_11001,localidad_19,VILLA CANDELARIA,2579
+barrio_1453,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA,2573
+barrio_1454,l10n_co_base.city_11001,localidad_19,BELLAVISTA LUCERO ALTO,2560
 barrio_1455,l10n_co_base.city_11001,localidad_19,QUIBA BAJO,104110
-barrio_1456,l10n_co_base.city_11001,localidad_19,MOCHUELO ALTO,002596
-barrio_1457,l10n_co_base.city_11001,localidad_19,LAGUNITAS URBANO,002595
-barrio_1458,l10n_co_base.city_11001,localidad_19,NUEVO MUZU,002409
-barrio_1459,l10n_co_base.city_11001,localidad_19,MARIA CANO,002429
-barrio_1460,l10n_co_base.city_11001,localidad_19,LA PRIMAVERA I,002443
-barrio_1461,l10n_co_base.city_11001,localidad_19,LA VALVANERA,002455
-barrio_1462,l10n_co_base.city_11001,localidad_19,LOS TRES REYES,002446
-barrio_1463,l10n_co_base.city_11001,localidad_19,BRISAS DEL VOLADOR,002587
-barrio_1464,l10n_co_base.city_11001,localidad_19,QUINTAS DEL SUR,002532
+barrio_1456,l10n_co_base.city_11001,localidad_19,MOCHUELO ALTO,2596
+barrio_1457,l10n_co_base.city_11001,localidad_19,LAGUNITAS URBANO,2595
+barrio_1458,l10n_co_base.city_11001,localidad_19,NUEVO MUZU,2409
+barrio_1459,l10n_co_base.city_11001,localidad_19,MARIA CANO,2429
+barrio_1460,l10n_co_base.city_11001,localidad_19,LA PRIMAVERA I,2443
+barrio_1461,l10n_co_base.city_11001,localidad_19,LA VALVANERA,2455
+barrio_1462,l10n_co_base.city_11001,localidad_19,LOS TRES REYES,2446
+barrio_1463,l10n_co_base.city_11001,localidad_19,BRISAS DEL VOLADOR,2587
+barrio_1464,l10n_co_base.city_11001,localidad_19,QUINTAS DEL SUR,2532
 barrio_1465,l10n_co_base.city_11001,localidad_19,EL MIRADOR II,204107
 barrio_1466,l10n_co_base.city_11001,localidad_19,MOCHUELO ALTO RURAL,104131
 barrio_1467,l10n_co_base.city_11001,localidad_19,LAGUNITAS,204304
-barrio_1468,l10n_co_base.city_11001,localidad_19,PERDOMO ALTO,002450
-barrio_1469,l10n_co_base.city_11001,localidad_19,ATLANTA,002422
-barrio_1470,l10n_co_base.city_11001,localidad_19,BELLA FLOR,002580
-barrio_1471,l10n_co_base.city_11001,localidad_19,EL PENON DEL CORTIJO,002433
-barrio_1472,l10n_co_base.city_11001,localidad_19,LAS MANAS,002520
-barrio_1473,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA,002568
-barrio_1474,l10n_co_base.city_11001,localidad_19,SAN FRANCISCO,002515
-barrio_1475,l10n_co_base.city_11001,localidad_19,LAS ACACIAS,002513
-barrio_1476,l10n_co_base.city_11001,localidad_19,LOS ALPES SUR,002559
-barrio_1477,l10n_co_base.city_11001,localidad_19,NACIONES UNIDAS,002546
-barrio_1478,l10n_co_base.city_11001,localidad_19,LOS TRES REYES I,002441
-barrio_1479,l10n_co_base.city_11001,localidad_19,RINCON DE GALICIA,002424
-barrio_1480,l10n_co_base.city_11001,localidad_19,EL ENSUENO,002416
-barrio_1481,l10n_co_base.city_11001,localidad_19,PERDOMO ALTO,002448
-barrio_1482,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA,002569
-barrio_1483,l10n_co_base.city_11001,localidad_19,MUZU,002413
-barrio_1484,l10n_co_base.city_11001,localidad_19,SAN BENITO,002509
-barrio_1485,l10n_co_base.city_11001,localidad_19,EL MOCHUELO ORIENTAL,002522
-barrio_1486,l10n_co_base.city_11001,localidad_19,CASA DE TEJA,002534
-barrio_1487,l10n_co_base.city_11001,localidad_19,ESPINO,002423
-barrio_1488,l10n_co_base.city_11001,localidad_19,EL MIRADOR DE LA ESTANCIA,002447
-barrio_1489,l10n_co_base.city_11001,localidad_19,QUIBA I,002456
-barrio_1490,l10n_co_base.city_11001,localidad_19,LA TORRE,002581
+barrio_1468,l10n_co_base.city_11001,localidad_19,PERDOMO ALTO,2450
+barrio_1469,l10n_co_base.city_11001,localidad_19,ATLANTA,2422
+barrio_1470,l10n_co_base.city_11001,localidad_19,BELLA FLOR,2580
+barrio_1471,l10n_co_base.city_11001,localidad_19,EL PENON DEL CORTIJO,2433
+barrio_1472,l10n_co_base.city_11001,localidad_19,LAS MANAS,2520
+barrio_1473,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA,2568
+barrio_1474,l10n_co_base.city_11001,localidad_19,SAN FRANCISCO,2515
+barrio_1475,l10n_co_base.city_11001,localidad_19,LAS ACACIAS,2513
+barrio_1476,l10n_co_base.city_11001,localidad_19,LOS ALPES SUR,2559
+barrio_1477,l10n_co_base.city_11001,localidad_19,NACIONES UNIDAS,2546
+barrio_1478,l10n_co_base.city_11001,localidad_19,LOS TRES REYES I,2441
+barrio_1479,l10n_co_base.city_11001,localidad_19,RINCON DE GALICIA,2424
+barrio_1480,l10n_co_base.city_11001,localidad_19,EL ENSUENO,2416
+barrio_1481,l10n_co_base.city_11001,localidad_19,PERDOMO ALTO,2448
+barrio_1482,l10n_co_base.city_11001,localidad_19,ARBORIZADORA ALTA,2569
+barrio_1483,l10n_co_base.city_11001,localidad_19,MUZU,2413
+barrio_1484,l10n_co_base.city_11001,localidad_19,SAN BENITO,2509
+barrio_1485,l10n_co_base.city_11001,localidad_19,EL MOCHUELO ORIENTAL,2522
+barrio_1486,l10n_co_base.city_11001,localidad_19,CASA DE TEJA,2534
+barrio_1487,l10n_co_base.city_11001,localidad_19,ESPINO,2423
+barrio_1488,l10n_co_base.city_11001,localidad_19,EL MIRADOR DE LA ESTANCIA,2447
+barrio_1489,l10n_co_base.city_11001,localidad_19,QUIBA I,2456
+barrio_1490,l10n_co_base.city_11001,localidad_19,LA TORRE,2581
 barrio_1491,l10n_co_base.city_11001,localidad_20,RAIZAL,103205
 barrio_1492,l10n_co_base.city_11001,localidad_20,CONCEPCION,109110
 barrio_1493,l10n_co_base.city_11001,localidad_20,NUEVA GRANADA,109116

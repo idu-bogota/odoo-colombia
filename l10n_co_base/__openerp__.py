@@ -37,11 +37,11 @@
         'base',
     ],
     'data': [
-        'data/res.country.state.city.district.csv',
-        'data/res.country.state.city.neighborhood.csv',
         'data/res.country.state.csv',
         'data/res.partner.title.csv',
         'data/res.country.state.city.csv',
+        'data/res.country.state.city.district.csv',
+        'data/res.country.state.city.neighborhood.csv',
         'res_partner_view.xml',
     ],
     'demo': [
