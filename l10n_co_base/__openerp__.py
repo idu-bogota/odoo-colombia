@@ -43,6 +43,7 @@
         'data/res.country.state.city.district.csv',
         'data/res.country.state.city.neighborhood.csv',
         'res_partner_view.xml',
+	'security/ir.model.access.csv',
     ],
     'demo': [
     ],

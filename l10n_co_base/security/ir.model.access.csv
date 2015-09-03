@@ -1,3 +1,7 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 access_res_country_state_city,res_country_state_city group_user,model_res_country_state_city,base.group_user,1,0,0,0
 access_res_country_state_city_manager,res_country_state_city group_partner_manager,model_res_country_state_city,base.group_partner_manager,1,1,1,1
+access_res_country_state_city_district,res.country.state.city.district,model_res_country_state_city_district,base.group_partner_manager,1,1,1,1
+access_global_res_country_state_city_district,res.country.state.city.district,model_res_country_state_city_district,,1,0,0,0
+access_global_res_country_state_city,res.country.state.city,model_res_country_state_city,,1,0,0,0
+access_global_res_country_state_city_neighborhood,res.country.state.city.neighborhood,model_res_country_state_city_neighborhood,,1,0,0,0
