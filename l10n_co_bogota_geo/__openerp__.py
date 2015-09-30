@@ -4,23 +4,19 @@
     'name': 'Colombian - Bogota geo',
     'version': '0.1',
     'category': 'Localization',
-    'description': 'Modulo de geolocalizacion para Bogota',
+    'description': 'Modulo de geolocalización para Bogota',
     'author': 'IDU',
     'depends': [
-        'l10n_co_base'
+        'base',
+        'l10n_co_base',
         'base_geoengine',
     ],
     'data': [
-        'data/district_bogota.xml',
-        'data/neighborhood_bogota.xml',
-#         'data/account.tax.code.template.csv',
-#         'data/account_chart_template.xml',
-#         'data/account.tax.template.csv',
-#         'wizard/account_wizard.xml',
+#        'data/district_bogota.xml',
+#        'data/neighborhood_bogota.xml',
     ],
     'demo': [],
     'installable': True,
     'images': [],
 }
-
 
