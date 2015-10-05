@@ -34,6 +34,8 @@ Se corre el Script import_xml_to_postgresql.p con los siguientes parametros:
 -J puerto postgresql
 
 Ejemplo:
-python utils/import_xml_to_postgresql.py -D odoo_idu_pqrs -u admin -p admin -s "http://localhost" -j 8069 -U odoo -P odoo -S "localhost" -J 5432
+El Script se ecnuentra en la carpeta: l10n_co_bogota_geo/utils/
+
+python import_xml_to_postgresql.py -D odoo_idu_pqrs -u admin -p admin -s "http://localhost" -j 8069 -U odoo -P odoo -S "localhost" -J 5432
 
 Este Script importara los archivos data/district_bogota.xml y data/neighborhood_bogota.xml.
