@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+  <data>
+	<record model="ir.ui.view" id="res_country_state_city_district_form">
+	    <field name="name">res.country.state.city.district</field>
+	    <field name="model">res.country.state.city.district</field>
+	    <field name="arch" type="xml">
+	        <form>
+	           <sheet>
+                    <group>
+                        <field name="name" />
+                        <field name="code" />
+                        <field name="city_id" />
+                    </group>
+	           </sheet>
+	        </form>
+	    </field>
+	</record>
+	<record model="ir.ui.view" id="res_country_state_city_neighborhood_form">
+        <field name="name">res.country.state.city.neighborhood</field>
+        <field name="model">res.country.state.city.neighborhood</field>
+        <field name="arch" type="xml">
+            <form>
+               <sheet>
+                    <group>
+                        <field name="name" />
+                        <field name="code" />
+                        <field name="city_id" />
+                        <field name="district_id" />
+                    </group>
+               </sheet>
+            </form>
+        </field>
+    </record>
+  </data>
+</openerp>
+
+

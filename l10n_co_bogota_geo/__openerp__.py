@@ -12,8 +12,7 @@
         'base_geoengine',
     ],
     'data': [
-#        'data/district_bogota.xml',
-#        'data/neighborhood_bogota.xml',
+        'views/res_city_view.xml',
     ],
     'demo': [],
     'installable': True,
