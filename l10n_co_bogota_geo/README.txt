@@ -39,3 +39,8 @@ El Script se ecnuentra en la carpeta: l10n_co_bogota_geo/utils/
 python import_xml_to_postgresql.py -D odoo_idu_pqrs -u admin -p admin -s "http://localhost" -j 8069 -U odoo -P odoo -S "localhost" -J 5432
 
 Este Script importara los archivos data/district_bogota.xml y data/neighborhood_bogota.xml.
+
+Crear un parametro de sistema:
+
+Clave: pqrs.geocodificador.url
+Valor: http://gi03cc01:6080/arcgis/rest/services/Geocodificador/GeocodeIDU/GeocodeServer/findAddressCandidates?
