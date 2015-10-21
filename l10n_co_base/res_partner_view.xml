@@ -11,8 +11,8 @@
             <field name="zip" position="replace"></field>
             <field name="city" position="replace">
                 <field name="city" invisible="1" />
-                <field name="city_id" class="oe_no_button" placeholder="City" style="width: 70%%" options='{"no_open": True}' attrs="{'readonly': [('use_parent_address','=',True)]}"/>
-                <field name="zip" placeholder="ZIP" style="width: 29%%" attrs="{'readonly': [('use_parent_address','=',True)]}"/>
+                <field name="city_id" class="oe_no_button" placeholder="City" style="width: 70%%" options='{"no_open": True}' readonly="1"/>
+                <field name="zip" placeholder="ZIP" style="width: 29%%" readonly="1"/>
             </field>
             <!-- complete XPATH : /openerp/data/record[7]/field[4]/form/sheet/notebook/page[1]/field/form/sheet/group[2]/div[2]/div/field[1] -->
             <!-- short XPATH : //div[1]/field[@name="city"] -->

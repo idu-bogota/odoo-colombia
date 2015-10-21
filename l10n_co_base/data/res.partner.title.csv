@@ -1,18 +1,18 @@
-id,name,shortcut,domain
-eu,Empresa Unipersonal,E.U.,partner
-sas,Sociedad por Acciones Simplificadas,S.A.S.,partner
-ltda,Sociedad Limitada,Ltda,partner
-col,Sociedad Collectiva,,partner
-sec,Sociedad En Comandita Simple,S. en C.,partner
-sa,Sociedad Anónima,S.A.,partner
-srl,Sociedad Limitada,L.t.d.a.,partner
-sca,Sociedad En Comandita por Acciones,S.C.A,partner
-sr,Señor,Sr,contact
-sra,Señora,Sra,contact
-srta,Señorita,Srta,contact
-ing,Ingeniero,Ing.,contact
-lic,Licenciado,Lic.,contact
-doc,Doctor,Doc.,contact
-med,Médico,Med.,contact
-phd,Ph. Doctor,PhD.,contact
-tec,Técnico,Tec.,contact
+id,name,shortcut
+eu,Empresa Unipersonal,E.U.
+sas,Sociedad por Acciones Simplificadas,S.A.S.
+ltda,Sociedad Limitada,Ltda
+col,Sociedad Collectiva,
+sec,Sociedad En Comandita Simple,S. en C.
+sa,Sociedad Anónima,S.A.
+srl,Sociedad Limitada,L.t.d.a.
+sca,Sociedad En Comandita por Acciones,S.C.A
+sr,Señor,Sr
+sra,Señora,Sra
+srta,Señorita,Srta
+ing,Ingeniero,Ing.
+lic,Licenciado,Lic.
+doc,Doctor,Doc.
+med,Médico,Med.
+phd,Ph. Doctor,PhD.
+tec,Técnico,Tec.
