@@ -13,6 +13,8 @@
     ],
     'data': [
         'views/res_city_view.xml',
+        'data/district_bogota.xml',
+        'data/neighborhood_bogota.xml',
     ],
     'demo': [],
     'installable': True,

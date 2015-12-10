@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openerp>
-<data>
+<data no_update="1">
     <record model="res.country.state.city.district" id="l10n_co_base.localidad_3">
         <field name="name">SANTA FE</field>
         <field name="code">3</field>
