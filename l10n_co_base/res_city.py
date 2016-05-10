@@ -97,3 +97,25 @@ class res_city_neighborhood(models.Model):
         'res.country.state.city.district',
         string='Distrito/Localidad/Comuna',
     )
+
+class res_city_upz(models.Model):
+    _name = 'res.country.state.city.upz'
+    _description = 'upz'
+
+    name = fields.Char(
+        string='upz',
+        required=True,
+    )
+    code = fields.Char(
+        string='Code',
+        size=30,
+    )
+    city_id = fields.Many2one(
+        'res.country.state.city',
+        string='City',
+        required=True,
+    )
+    district_id = fields.Many2one(
+        'res.country.state.city.district',
+        string='Distrito/Localidad/Comuna',
+    )
