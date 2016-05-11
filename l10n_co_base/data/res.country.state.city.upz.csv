@@ -1,0 +1,114 @@
+id,code,name,district_id/id,city_id/id
+upz_1,89,SAN ISIDRO-PATIOS,l10n_co_base.localidad_2,l10n_co_base.city_11001
+upz_2,23,CASA BLANCA SUBA,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_3,88,EL REFUGIO,l10n_co_base.localidad_2,l10n_co_base.city_11001
+upz_4,91,SAGRADO CORAZON,l10n_co_base.localidad_3,l10n_co_base.city_11001
+upz_5,64,MONTE BLANCO,l10n_co_base.localidad_19,l10n_co_base.city_11001
+upz_6,71,TIBABUYES,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_7,113,BAVARIA,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_8,103,PARQUE EL SALITRE,l10n_co_base.localidad_12,l10n_co_base.city_11001
+upz_9,79,CALANDAIMA,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_10,76,FONTIBON SAN PABLO,l10n_co_base.localidad_9,l10n_co_base.city_11001
+upz_11,14,USAQUEN,l10n_co_base.localidad_1,l10n_co_base.city_11001
+upz_12,52,LA FLORA,l10n_co_base.localidad_5,l10n_co_base.city_11001
+upz_13,45,CARVAJAL,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_14,78,TINTAL NORTE,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_15,73,GARCES NAVAS,l10n_co_base.localidad_10,l10n_co_base.city_11001
+upz_16,10,LA URIBE,l10n_co_base.localidad_1,l10n_co_base.city_11001
+upz_17,58,COMUNEROS,l10n_co_base.localidad_5,l10n_co_base.city_11001
+upz_18,67,LUCERO,l10n_co_base.localidad_19,l10n_co_base.city_11001
+upz_19,19,EL PRADO,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_20,51,LOS LIBERTADORES,l10n_co_base.localidad_4,l10n_co_base.city_11001
+upz_21,93,LAS NIEVES,l10n_co_base.localidad_3,l10n_co_base.city_11001
+upz_22,21,LOS ANDES,l10n_co_base.localidad_12,l10n_co_base.city_11001
+upz_23,18,BRITALIA,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_24,35,CIUDAD JARDIN,l10n_co_base.localidad_15,l10n_co_base.city_11001
+upz_25,40,CIUDAD MONTES,l10n_co_base.localidad_16,l10n_co_base.city_11001
+upz_26,116,ALAMOS,l10n_co_base.localidad_10,l10n_co_base.city_11001
+upz_27,85,BOSA CENTRAL,l10n_co_base.localidad_7,l10n_co_base.city_11001
+upz_28,96,LOURDES,l10n_co_base.localidad_3,l10n_co_base.city_11001
+upz_29,112,GRANJAS DE TECHO,l10n_co_base.localidad_9,l10n_co_base.city_11001
+upz_30,86,EL PORVENIR,l10n_co_base.localidad_7,l10n_co_base.city_11001
+upz_31,25,LA FLORESTA,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_32,68,EL TESORO,l10n_co_base.localidad_19,l10n_co_base.city_11001
+upz_33,29,EL MINUTO DE DIOS,l10n_co_base.localidad_10,l10n_co_base.city_11001
+upz_34,90,PARDO RUBIO,l10n_co_base.localidad_2,l10n_co_base.city_11001
+upz_35,109,CIUDAD SALITRE ORIENTAL,l10n_co_base.localidad_13,l10n_co_base.city_11001
+upz_36,44,AMERICAS,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_37,49,APOGEO,l10n_co_base.localidad_7,l10n_co_base.city_11001
+upz_38,102,LA SABANA,l10n_co_base.localidad_14,l10n_co_base.city_11001
+upz_39,114,MODELIA,l10n_co_base.localidad_9,l10n_co_base.city_11001
+upz_40,602,PARQUE ENTRENUBES,l10n_co_base.localidad_5,l10n_co_base.city_11001
+upz_41,97,CHICO LAGO,l10n_co_base.localidad_2,l10n_co_base.city_11001
+upz_42,80,CORABASTOS,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_43,61,CIUDAD USME,l10n_co_base.localidad_5,l10n_co_base.city_11001
+upz_44,26,LAS FERIAS,l10n_co_base.localidad_10,l10n_co_base.city_11001
+upz_45,53,MARCO FIDEL SUAREZ,l10n_co_base.localidad_18,l10n_co_base.city_11001
+upz_46,77,ZONA FRANCA,l10n_co_base.localidad_9,l10n_co_base.city_11001
+upz_47,83,LAS MARGARITAS,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_48,20,LA ALHAMBRA,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_49,75,FONTIBON,l10n_co_base.localidad_9,l10n_co_base.city_11001
+upz_50,24,NIZA,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_52,87,TINTAL SUR,l10n_co_base.localidad_7,l10n_co_base.city_11001
+upz_53,62,TUNJUELITO,l10n_co_base.localidad_6,l10n_co_base.city_11001
+upz_54,15,COUNTRY CLUB,l10n_co_base.localidad_1,l10n_co_base.city_11001
+upz_55,117,AEROPUERTO EL DORADO,l10n_co_base.localidad_9,l10n_co_base.city_11001
+upz_56,2,LA ACADEMIA,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_57,3,GUAYMARAL,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_58,34,20 DE JULIO,l10n_co_base.localidad_4,l10n_co_base.city_11001
+upz_59,99,CHAPINERO,l10n_co_base.localidad_2,l10n_co_base.city_11001
+upz_60,105,JARDIN BOTANICO,l10n_co_base.localidad_10,l10n_co_base.city_11001
+upz_61,30,BOYACA REAL,l10n_co_base.localidad_10,l10n_co_base.city_11001
+upz_62,57,GRAN YOMASA,l10n_co_base.localidad_5,l10n_co_base.city_11001
+upz_63,13,LOS CEDROS,l10n_co_base.localidad_1,l10n_co_base.city_11001
+upz_64,42,VENECIA,l10n_co_base.localidad_6,l10n_co_base.city_11001
+upz_65,47,KENNEDY CENTRAL,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_66,95,LAS CRUCES,l10n_co_base.localidad_3,l10n_co_base.city_11001
+upz_67,115,CAPELLANIA,l10n_co_base.localidad_9,l10n_co_base.city_11001
+upz_68,63,EL MOCHUELO,l10n_co_base.localidad_19,l10n_co_base.city_11001
+upz_69,107,QUINTA PAREDES,l10n_co_base.localidad_13,l10n_co_base.city_11001
+upz_70,101,TEUSAQUILLO,l10n_co_base.localidad_13,l10n_co_base.city_11001
+upz_71,27,SUBA,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_72,94,LA CANDELARIA,l10n_co_base.localidad_17,l10n_co_base.city_11001
+upz_73,104,PARQUE SIMON BOLIVAR-CAN,l10n_co_base.localidad_13,l10n_co_base.city_11001
+upz_74,108,ZONA INDUSTRIAL,l10n_co_base.localidad_16,l10n_co_base.city_11001
+upz_75,600,PARQUE ENTRENUBES,l10n_co_base.localidad_5,l10n_co_base.city_11001
+upz_76,12,TOBERIN,l10n_co_base.localidad_1,l10n_co_base.city_11001
+upz_77,98,LOS ALCAZARES,l10n_co_base.localidad_12,l10n_co_base.city_11001
+upz_79,72,BOLIVIA,l10n_co_base.localidad_10,l10n_co_base.city_11001
+upz_80,66,SAN FRANCISCO,l10n_co_base.localidad_19,l10n_co_base.city_11001
+upz_81,50,LA GLORIA,l10n_co_base.localidad_4,l10n_co_base.city_11001
+upz_82,82,PATIO BONITO,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_83,28,EL RINCON,l10n_co_base.localidad_11,l10n_co_base.city_11001
+upz_84,65,ARBORIZADORA,l10n_co_base.localidad_19,l10n_co_base.city_11001
+upz_85,100,GALERIAS,l10n_co_base.localidad_13,l10n_co_base.city_11001
+upz_86,32,SAN BLAS,l10n_co_base.localidad_4,l10n_co_base.city_11001
+upz_87,38,RESTREPO,l10n_co_base.localidad_15,l10n_co_base.city_11001
+upz_88,39,QUIROGA,l10n_co_base.localidad_18,l10n_co_base.city_11001
+upz_89,59,ALFONSO LOPEZ,l10n_co_base.localidad_5,l10n_co_base.city_11001
+upz_90,33,SOSIEGO,l10n_co_base.localidad_4,l10n_co_base.city_11001
+upz_91,56,DANUBIO,l10n_co_base.localidad_5,l10n_co_base.city_11001
+upz_92,1,PASEO DE LOS LIBERTADORES,l10n_co_base.localidad_1,l10n_co_base.city_11001
+upz_93,41,MUZU,l10n_co_base.localidad_16,l10n_co_base.city_11001
+upz_94,111,PUENTE ARANDA,l10n_co_base.localidad_16,l10n_co_base.city_11001
+upz_95,54,MARRUECOS,l10n_co_base.localidad_18,l10n_co_base.city_11001
+upz_96,31,SANTA CECILIA,l10n_co_base.localidad_10,l10n_co_base.city_11001
+upz_97,106,LA ESMERALDA,l10n_co_base.localidad_13,l10n_co_base.city_11001
+upz_99,48,TIMIZA,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_100,55,DIANA TURBAY,l10n_co_base.localidad_18,l10n_co_base.city_11001
+upz_101,46,CASTILLA,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_103,74,ENGATIVA,l10n_co_base.localidad_10,l10n_co_base.city_11001
+upz_104,81,GRAN BRITALIA,l10n_co_base.localidad_8,l10n_co_base.city_11001
+upz_105,84,BOSA OCCIDENTAL,l10n_co_base.localidad_7,l10n_co_base.city_11001
+upz_106,16,SANTA BARBARA,l10n_co_base.localidad_1,l10n_co_base.city_11001
+upz_107,70,JERUSALEM,l10n_co_base.localidad_19,l10n_co_base.city_11001
+upz_108,92,LA MACARENA,l10n_co_base.localidad_3,l10n_co_base.city_11001
+upz_109,110,CIUDAD SALITRE OCCIDENTAL,l10n_co_base.localidad_9,l10n_co_base.city_11001
+upz_110,69,ISMAEL PERDOMO,l10n_co_base.localidad_19,l10n_co_base.city_11001
+upz_111,36,SAN JOSE,l10n_co_base.localidad_18,l10n_co_base.city_11001
+upz_113,11,SAN CRISTOBAL NORTE,l10n_co_base.localidad_1,l10n_co_base.city_11001
+upz_114,9,VERBENAL,l10n_co_base.localidad_1,l10n_co_base.city_11001
+upz_116,37,SANTA ISABEL,l10n_co_base.localidad_14,l10n_co_base.city_11001
+upz_117,22,DOCE DE OCTUBRE,l10n_co_base.localidad_12,l10n_co_base.city_11001
+upz_118,43,SAN RAFAEL,l10n_co_base.localidad_16,l10n_co_base.city_11001
+upz_119,17,SAN JOSE DE BAVARIA,l10n_co_base.localidad_11,l10n_co_base.city_11001

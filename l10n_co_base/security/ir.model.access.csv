@@ -5,3 +5,4 @@ access_res_country_state_city_district,res.country.state.city.district,model_res
 access_global_res_country_state_city_district,res.country.state.city.district,model_res_country_state_city_district,,1,0,0,0
 access_global_res_country_state_city,res.country.state.city,model_res_country_state_city,,1,0,0,0
 access_global_res_country_state_city_neighborhood,res.country.state.city.neighborhood,model_res_country_state_city_neighborhood,,1,0,0,0
+access_global_res_country_state_city_upz,res.country.state.city.upz,model_res_country_state_city_upz,,1,0,0,0
